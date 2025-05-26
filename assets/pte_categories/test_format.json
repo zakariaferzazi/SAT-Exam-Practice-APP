@@ -1,0 +1,758 @@
+[
+  {
+    "question": "How long is the PTE Academic test?",
+    "options": [
+      "1 hour",
+      "2 hours",
+      "About 3 hours (with setup time)",
+      "4 hours"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The total time for the PTE Academic test is about 3 hours, including setup and optional breaks.",
+    "category": "Test Format"
+  },
+  {
+    "question": "How many main sections does the PTE Academic test have?",
+    "options": [
+      "2 sections",
+      "3 sections",
+      "4 sections",
+      "5 sections"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The PTE Academic test has 3 main sections: Speaking & Writing (combined), Reading, and Listening.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What is the first section of the PTE Academic test?",
+    "options": [
+      "Reading",
+      "Writing",
+      "Listening",
+      "Speaking & Writing"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The first section of the PTE Academic test is Speaking & Writing (combined).",
+    "category": "Test Format"
+  },
+  {
+    "question": "Is the PTE Academic test computer-based or paper-based?",
+    "options": [
+      "Paper-based only",
+      "Computer-based only",
+      "Combination of both",
+      "Depends on the test center"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The PTE Academic test is computer-based only, with all responses typed or spoken into a computer.",
+    "category": "Test Format"
+  },
+  {
+    "question": "How are the speaking responses assessed in the PTE Academic test?",
+    "options": [
+      "By human examiners during the test",
+      "By human examiners after the test",
+      "By automated scoring technology",
+      "By other test-takers"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Speaking responses are assessed by automated scoring technology, which evaluates pronunciation, fluency, and content.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What equipment do test-takers use for the speaking section?",
+    "options": [
+      "A telephone handset",
+      "A stand-alone microphone",
+      "A headset with microphone",
+      "A built-in computer microphone"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Test-takers use a headset with microphone for the speaking section.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What materials are provided to use during the test?",
+    "options": [
+      "Pen and paper",
+      "Erasable noteboard and pen",
+      "Digital notepad on the computer",
+      "No materials for note-taking"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Test-takers are provided with an erasable noteboard and pen for taking notes during the test.",
+    "category": "Test Format"
+  },
+  {
+    "question": "Can you skip questions in the PTE Academic test?",
+    "options": [
+      "Yes, you can skip any question",
+      "Yes, but only in the Reading section",
+      "Yes, but only in the Listening section",
+      "No, all questions must be attempted in order"
+    ],
+    "correctAnswer": 3,
+    "explanation": "No, you cannot skip questions. The test is linear, and all questions must be attempted in the given order.",
+    "category": "Test Format"
+  },
+  {
+    "question": "Can you return to previous questions in PTE Academic?",
+    "options": [
+      "Yes, at any time during the test",
+      "Yes, but only within the same section",
+      "Yes, but only for multiple-choice questions",
+      "No, once you move to the next question, you cannot go back"
+    ],
+    "correctAnswer": 3,
+    "explanation": "No, you cannot return to previous questions. Once you submit an answer and move on, you cannot go back.",
+    "category": "Test Format"
+  },
+  {
+    "question": "Is there a break during the PTE Academic test?",
+    "options": [
+      "No breaks are allowed",
+      "Yes, one optional 10-minute break between sections",
+      "Yes, multiple mandatory breaks",
+      "Yes, you can take breaks whenever you want"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yes, there is one optional 10-minute break between the Reading and Listening sections.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What happens if you run out of time in a section?",
+    "options": [
+      "You get extra time automatically",
+      "You can continue but with a penalty",
+      "The system moves you to the next section, and unanswered questions count as incorrect",
+      "You fail the entire test"
+    ],
+    "correctAnswer": 2,
+    "explanation": "If you run out of time, the system automatically moves you to the next section, and any unanswered questions count as incorrect.",
+    "category": "Test Format"
+  },
+  {
+    "question": "How many task types are in the entire PTE Academic test?",
+    "options": [
+      "5-8 task types",
+      "10-15 task types",
+      "16-20 task types",
+      "Over 20 task types"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are approximately 20 different task types across all sections of the PTE Academic test.",
+    "category": "Test Format"
+  },
+  {
+    "question": "Is the PTE Academic test adaptive?",
+    "options": [
+      "Yes, fully adaptive across all sections",
+      "Partially adaptive in some sections only",
+      "No, it is not adaptive",
+      "Only adaptive for high-scoring test-takers"
+    ],
+    "correctAnswer": 2,
+    "explanation": "No, the PTE Academic test is not adaptive. All test-takers receive a predetermined set of questions.",
+    "category": "Test Format"
+  },
+  {
+    "question": "How is the PTE Academic test scored?",
+    "options": [
+      "On a scale of 1-9",
+      "On a scale of 1-100",
+      "On a scale of 10-990",
+      "Pass or fail only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The PTE Academic test is scored on a scale of 10-90 for overall score and 10-90 for each communicative skill.",
+    "category": "Test Format"
+  },
+  {
+    "question": "When do you receive your PTE Academic test results?",
+    "options": [
+      "Immediately after the test",
+      "Within 24 hours",
+      "Typically within 5 business days",
+      "In 2-3 weeks"
+    ],
+    "correctAnswer": 2,
+    "explanation": "PTE Academic test results are typically available within 5 business days, often sooner.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What identification is required at the test center?",
+    "options": [
+      "Any photo ID",
+      "Only a passport",
+      "A valid passport or national ID (depending on country)",
+      "No ID is required"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A valid passport is required in most countries, though some countries may accept national ID cards.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What biometric data is collected at the test center?",
+    "options": [
+      "Fingerprint only",
+      "Photograph only",
+      "Both photograph and signature",
+      "Photograph, signature, and palm vein scan"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Test centers collect a photograph, digital signature, and palm vein scan for security purposes.",
+    "category": "Test Format"
+  },
+  {
+    "question": "Can you bring your own headset to the test?",
+    "options": [
+      "Yes, it's recommended",
+      "Yes, but it must be approved first",
+      "No, you must use the headset provided",
+      "Depends on the test center"
+    ],
+    "correctAnswer": 2,
+    "explanation": "No, you must use the headset provided by the test center.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What items are prohibited in the testing room?",
+    "options": [
+      "Only electronic devices",
+      "Only food and drinks",
+      "Most personal items including watches, phones, food, etc.",
+      "There are no prohibited items"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Most personal items are prohibited, including watches, phones, food, drinks, bags, notes, and other electronic devices.",
+    "category": "Test Format"
+  },
+  {
+    "question": "How is the Speaking section structured?",
+    "options": [
+      "Individual speaking test with human examiner",
+      "Group discussion with other candidates",
+      "Computer-based with microphone recording of responses",
+      "Video conference with remote examiner"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Speaking section is computer-based; you speak into a microphone that records your responses for later automated scoring.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What is the time limit for the Reading section?",
+    "options": [
+      "30-40 minutes",
+      "40-50 minutes",
+      "50-60 minutes",
+      "70-80 minutes"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Reading section has a time limit of 50-60 minutes (varies slightly by test version).",
+    "category": "Test Format"
+  },
+  {
+    "question": "What is the time limit for the Speaking & Writing section?",
+    "options": [
+      "30-40 minutes",
+      "45-60 minutes",
+      "70-80 minutes",
+      "90-100 minutes"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Speaking & Writing section has a time limit of 70-80 minutes (varies slightly by test version).",
+    "category": "Test Format"
+  },
+  {
+    "question": "What is the time limit for the Listening section?",
+    "options": [
+      "30-40 minutes",
+      "45-57 minutes",
+      "60-70 minutes",
+      "80-90 minutes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Listening section has a time limit of 45-57 minutes (varies slightly by test version).",
+    "category": "Test Format"
+  },
+  {
+    "question": "How many times can you take the PTE Academic test?",
+    "options": [
+      "Only once per lifetime",
+      "Once per year",
+      "Once every 5 days",
+      "As many times as you want with no waiting period"
+    ],
+    "correctAnswer": 2,
+    "explanation": "You can take the PTE Academic test as many times as you want, but you must wait at least 5 days between attempts.",
+    "category": "Test Format"
+  },
+  {
+    "question": "How long are PTE Academic scores valid?",
+    "options": [
+      "1 year",
+      "2 years",
+      "3 years",
+      "5 years"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PTE Academic scores are valid for 2 years from the date of the test.",
+    "category": "Test Format"
+  },
+  {
+    "question": "Can you choose which institutions receive your PTE Academic scores?",
+    "options": [
+      "No, scores are automatically sent to all institutions",
+      "Yes, you can send scores to unlimited institutions for free",
+      "Yes, but you must pay for each institution",
+      "Scores are only sent to you personally"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yes, you can send your scores to unlimited institutions for free through your online account.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What happens at the beginning of the test?",
+    "options": [
+      "An introduction video is shown",
+      "A human proctor gives instructions",
+      "You take a personality assessment",
+      "You immediately start with the first question"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An introduction video is shown at the beginning of the test, explaining the format and providing instructions.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What type of introduction is provided for each section?",
+    "options": [
+      "Detailed written instructions for each question type",
+      "Video tutorials for each section",
+      "Brief on-screen instructions",
+      "Verbal instructions from the test administrator"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Brief on-screen instructions are provided at the beginning of each section.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What section comes last in the PTE Academic test?",
+    "options": [
+      "Speaking",
+      "Writing",
+      "Reading",
+      "Listening"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Listening section comes last in the PTE Academic test.",
+    "category": "Test Format"
+  },
+  {
+    "question": "How many essays are typically in the Writing section?",
+    "options": [
+      "1 essay",
+      "2 essays",
+      "3 essays",
+      "4 essays"
+    ],
+    "correctAnswer": 0,
+    "explanation": "There is typically 1 essay in the Writing section, specifically the 'Write Essay' task.",
+    "category": "Test Format"
+  },
+  {
+    "question": "How many Read Aloud tasks are typically in the Speaking section?",
+    "options": [
+      "1-2 tasks",
+      "3-4 tasks",
+      "6-7 tasks",
+      "9-10 tasks"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are typically 6-7 Read Aloud tasks in the Speaking section.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What happens during the microphone check?",
+    "options": [
+      "A technician checks your microphone",
+      "You read a specific sentence to test your microphone",
+      "Your voice is compared to a database",
+      "The system automatically tests the hardware"
+    ],
+    "correctAnswer": 1,
+    "explanation": "During the microphone check, you read a specific sentence that appears on the screen to test that your microphone is working properly.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What should you do if there is a technical problem during the test?",
+    "options": [
+      "Continue and report it after the test",
+      "Fix it yourself",
+      "Restart the computer",
+      "Raise your hand to alert the test administrator"
+    ],
+    "correctAnswer": 3,
+    "explanation": "If there is a technical problem during the test, you should raise your hand to alert the test administrator.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What happens if there is external noise during the Speaking section?",
+    "options": [
+      "The system automatically pauses your test",
+      "You must continue despite the noise",
+      "You can request a retry of that specific question",
+      "The entire test is cancelled"
+    ],
+    "correctAnswer": 1,
+    "explanation": "You must continue despite external noise. The test centers try to minimize noise, but some background noise may occur.",
+    "category": "Test Format"
+  },
+  {
+    "question": "How many Repeat Sentence tasks are typically in the Speaking section?",
+    "options": [
+      "1-3 tasks",
+      "4-6 tasks",
+      "10-12 tasks",
+      "15+ tasks"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are typically 10-12 Repeat Sentence tasks in the Speaking section.",
+    "category": "Test Format"
+  },
+  {
+    "question": "How are the PTE Academic test forms created?",
+    "options": [
+      "Every test-taker gets the exact same questions",
+      "Questions are randomly selected for each test-taker",
+      "Tests are pre-assembled with different but comparable questions",
+      "Test-takers choose their preferred question types"
+    ],
+    "correctAnswer": 2,
+    "explanation": "PTE Academic tests are pre-assembled with different but comparable questions, ensuring consistent difficulty levels.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What is the interface for the Highlight Incorrect Words task?",
+    "options": [
+      "You type corrections to incorrect words",
+      "You speak the correct words",
+      "You click on words in the transcript that don't match the audio",
+      "You select from multiple choice options"
+    ],
+    "correctAnswer": 2,
+    "explanation": "For Highlight Incorrect Words, you click on words in the transcript that don't match what you hear in the audio.",
+    "category": "Test Format"
+  },
+  {
+    "question": "How are Reorder Paragraphs questions presented?",
+    "options": [
+      "Paragraphs are shown in a random order that you must rearrange",
+      "You must type the paragraphs in the correct order",
+      "You select from multiple possible orders",
+      "You verbally explain the correct order"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Reorder Paragraphs, text boxes containing paragraphs are shown in a random order, and you must drag and drop them into the correct sequence.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What is the response format for Summarize Spoken Text?",
+    "options": [
+      "Speaking your summary",
+      "Selecting from pre-written summaries",
+      "Typing a 50-70 word summary",
+      "Creating bullet points"
+    ],
+    "correctAnswer": 2,
+    "explanation": "For Summarize Spoken Text, you type a 50-70 word summary in a text box.",
+    "category": "Test Format"
+  },
+  {
+    "question": "How does the timer function in the PTE Academic test?",
+    "options": [
+      "A countdown timer for the entire test only",
+      "Individual timers for each question but not sections",
+      "Individual timers for each section but not questions",
+      "Both section timers and individual question timers for timed questions"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The PTE Academic test has both section timers and individual question timers for questions with specific time limits.",
+    "category": "Test Format"
+  },
+  {
+    "question": "Can you adjust the volume during the Listening section?",
+    "options": [
+      "No, the volume is preset",
+      "Yes, you can adjust it at any time",
+      "Yes, but only before the section begins",
+      "Only test administrators can adjust volume"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yes, you can adjust the volume at any time during the Listening section using on-screen controls.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What appears on screen during the Speaking section's Describe Image task?",
+    "options": [
+      "Only text instructions",
+      "An image with preparation and recording timers",
+      "A video to describe",
+      "Multiple images to compare"
+    ],
+    "correctAnswer": 1,
+    "explanation": "During Describe Image, you see an image along with preparation and recording timers.",
+    "category": "Test Format"
+  },
+  {
+    "question": "How is the Fill in the Blanks (Reading) task presented?",
+    "options": [
+      "A passage with blanks where you type words",
+      "A passage with blanks where you select from dropdown menus",
+      "A passage with highlighted words you must replace",
+      "A passage with missing sentences"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fill in the Blanks (Reading) presents a passage with blanks where you select appropriate words from dropdown menus.",
+    "category": "Test Format"
+  },
+  {
+    "question": "How many Describe Image tasks are typically in the Speaking section?",
+    "options": [
+      "1-2 tasks",
+      "3-4 tasks",
+      "6-7 tasks",
+      "9-10 tasks"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are typically 6-7 Describe Image tasks in the Speaking section.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What is the format of the Answer Short Question task?",
+    "options": [
+      "You read a question and type a short answer",
+      "You hear a question and speak a short answer",
+      "You select from multiple choice options",
+      "You complete a sentence with a missing word"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Answer Short Question, you hear a question and speak a short answer (usually one word or a few words) into the microphone.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What kind of feedback is provided during the test?",
+    "options": [
+      "Immediate feedback on whether answers are correct",
+      "Progress indicator showing which section you're in",
+      "Estimated final score based on performance so far",
+      "Suggestions for improvement on each question"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The test provides a progress indicator showing which section you're in, but no feedback on answer correctness during the test.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What options are available for candidates with disabilities?",
+    "options": [
+      "No accommodations are available",
+      "Only time extensions are available",
+      "Various accommodations including extended time, breaks, or modified materials",
+      "Separate, simplified test version"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Various accommodations are available for candidates with disabilities, including extended time, additional breaks, or modified test materials. These must be requested in advance.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What is the registration process for PTE Academic?",
+    "options": [
+      "In-person at test centers only",
+      "By phone only",
+      "Online through the Pearson website",
+      "Through universities or immigration offices"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Registration for PTE Academic is done online through the Pearson website or app.",
+    "category": "Test Format"
+  },
+  {
+    "question": "How far in advance can you book a PTE Academic test?",
+    "options": [
+      "Maximum 1 month in advance",
+      "Maximum 3 months in advance",
+      "Maximum 6 months in advance",
+      "No restriction on advance booking"
+    ],
+    "correctAnswer": 2,
+    "explanation": "You can book a PTE Academic test up to 6 months in advance, depending on test center availability.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What happens if you arrive late to your PTE Academic test?",
+    "options": [
+      "You can take the test with reduced time",
+      "You will be allowed to reschedule for free",
+      "You may be denied entry and forfeit your test fee",
+      "The test center will extend hours to accommodate you"
+    ],
+    "correctAnswer": 2,
+    "explanation": "If you arrive late, you may be denied entry to the test and forfeit your test fee. It's recommended to arrive 30 minutes early.",
+    "category": "Test Format"
+  },
+  {
+    "question": "How is the Reading & Writing: Fill in the Blanks task different from Reading: Fill in the Blanks?",
+    "options": [
+      "There is no difference",
+      "One has more blanks than the other",
+      "In one you select from options, in the other you type the answers",
+      "One is timed, the other is untimed"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In Reading: Fill in the Blanks, you select from dropdown options; in Reading & Writing: Fill in the Blanks, you type the answers yourself.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What is tested in the Summarize Written Text task?",
+    "options": [
+      "Only reading comprehension",
+      "Only writing skills",
+      "Both reading comprehension and writing skills",
+      "Speaking and reading skills"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Summarize Written Text tests both reading comprehension and writing skills, as you must understand a text and write a concise summary.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What's the typical format of the Select Missing Word task?",
+    "options": [
+      "You read a passage with a missing word and select it",
+      "You hear an incomplete recording and select the final missing word/phrase",
+      "You need to speak the missing word",
+      "You type what you think the missing word is"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Select Missing Word, you hear an incomplete audio recording and must select the option that best completes it.",
+    "category": "Test Format"
+  },
+  {
+    "question": "How does the Fill in the Blanks (Listening) task work?",
+    "options": [
+      "You listen and select words from options",
+      "You listen and type the exact words you hear in blanks",
+      "You predict what words might be in the blanks before listening",
+      "You speak the missing words"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Fill in the Blanks (Listening), you listen to an audio recording and type the exact words you hear in the blanks provided in the transcript.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What's unique about the Answer Short Question task?",
+    "options": [
+      "It's the only task that tests both listening and speaking",
+      "It's the only task with yes/no answers",
+      "It's the only task with video content",
+      "It's the only task with a choice of questions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Answer Short Question is unique because it tests both listening comprehension (understanding the question) and speaking (providing the answer).",
+    "category": "Test Format"
+  },
+  {
+    "question": "What types of images might appear in Describe Image tasks?",
+    "options": [
+      "Only photographs",
+      "Only graphs and charts",
+      "Only maps and diagrams",
+      "Various types including graphs, charts, maps, diagrams, and photographs"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Describe Image may include various types of images, including graphs, charts, maps, diagrams, and photographs.",
+    "category": "Test Format"
+  },
+  {
+    "question": "How many Write From Dictation tasks typically appear in the test?",
+    "options": [
+      "1-2 tasks",
+      "3-4 tasks",
+      "5-6 tasks",
+      "7-8 tasks"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are typically 5-6 Write From Dictation tasks in the test.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What is the format of the test report?",
+    "options": [
+      "Paper certificate only",
+      "Digital score report with overall and communicative skills scores",
+      "Simple pass/fail notification",
+      "Detailed feedback on every question"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The test report is a digital score report showing overall score, communicative skills scores (listening, reading, speaking, writing), and enabling skills scores.",
+    "category": "Test Format"
+  },
+  {
+    "question": "Can you request a rescore of your PTE Academic test?",
+    "options": [
+      "No, automated scoring cannot be reviewed",
+      "Yes, but only for the speaking section",
+      "Yes, for multiple-choice questions only",
+      "Yes, but only for writing tasks"
+    ],
+    "correctAnswer": 3,
+    "explanation": "You can request a rescore, but this is only recommended for writing tasks as speaking is scored by automated technology unlikely to change scores.",
+    "category": "Test Format"
+  },
+  {
+    "question": "What is the cancellation policy for PTE Academic?",
+    "options": [
+      "No refunds under any circumstances",
+      "Full refund if cancelled at least 24 hours before",
+      "Full refund if cancelled at least 7 days before",
+      "Partial refund if cancelled at least 14 days before"
+    ],
+    "correctAnswer": 2,
+    "explanation": "You can receive a partial refund if you cancel at least 14 days before your test date.",
+    "category": "Test Format"
+  },
+  {
+    "question": "How many times can you replay audio in Listening tasks?",
+    "options": [
+      "Unlimited replays",
+      "Once only for all tasks",
+      "Twice for multiple-choice questions, once for others",
+      "Never - most audio plays only once"
+    ],
+    "correctAnswer": 3,
+    "explanation": "For most Listening tasks, the audio plays only once without option to replay.",
+    "category": "Test Format"
+  },
+  {
+    "question": "How are Summarize Spoken Text responses scored?",
+    "options": [
+      "Only content accuracy is scored",
+      "Only grammar and vocabulary are scored",
+      "Content, form, grammar, vocabulary, and spelling are all scored",
+      "It's scored based on word count only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Summarize Spoken Text responses are scored on content, form, grammar, vocabulary, and spelling.",
+    "category": "Test Format"
+  },
+  {
+    "question": "Can you bring your own erasable noteboard to the test?",
+    "options": [
+      "Yes, it's recommended",
+      "Yes, but it must be approved first",
+      "No, you must use the one provided by the test center",
+      "No note-taking is allowed"
+    ],
+    "correctAnswer": 2,
+    "explanation": "No, you must use the erasable noteboard provided by the test center.",
+    "category": "Test Format"
+  }
+] 

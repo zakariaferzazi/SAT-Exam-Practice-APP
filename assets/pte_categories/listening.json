@@ -1,0 +1,782 @@
+[
+  {
+    "question": "Summarize Spoken Text: What is the recommended word count?",
+    "options": [
+      "30-40 words",
+      "50-70 words",
+      "40-60 words",
+      "50-100 words"
+    ],
+    "correctAnswer": 2,
+    "explanation": "For Summarize Spoken Text, your response should be 50-70 words in a single paragraph.",
+    "category": "Listening"
+  },
+  {
+    "question": "Multiple Choice, Multiple Answer (Listening): How is this scored?",
+    "options": [
+      "All or nothing - you must select all correct options and no incorrect ones",
+      "Partial credit - points for correct selections, minus points for incorrect selections",
+      "One point per correct option selected, regardless of incorrect selections",
+      "Based only on the number of options selected, not their correctness"
+    ],
+    "correctAnswer": 1,
+    "explanation": "This task uses partial credit scoring - you receive points for correct options selected, but lose points for incorrect selections.",
+    "category": "Listening"
+  },
+  {
+    "question": "Fill in the Blanks (Listening): What must you do in this task?",
+    "options": [
+      "Choose words from a list of options",
+      "Type words exactly as you hear them, with correct spelling",
+      "Explain what you heard in your own words",
+      "Pronounce words after hearing them"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Fill in the Blanks (Listening), you must type the exact words you hear, with correct spelling.",
+    "category": "Listening"
+  },
+  {
+    "question": "Highlight Correct Summary: What does this task assess?",
+    "options": [
+      "Your ability to identify specific details",
+      "Your ability to identify the main idea and important points of a lecture",
+      "Your ability to identify correct grammar",
+      "Your pronunciation skills"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Highlight Correct Summary assesses your ability to identify the main idea and important points of a lecture or conversation.",
+    "category": "Listening"
+  },
+  {
+    "question": "Multiple Choice, Single Answer (Listening): What type of audio might you hear?",
+    "options": [
+      "Only lectures",
+      "Only conversations",
+      "Only announcements",
+      "Various types including lectures, conversations, and interviews"
+    ],
+    "correctAnswer": 3,
+    "explanation": "You might hear various types of audio including lectures, conversations, interviews, and announcements.",
+    "category": "Listening"
+  },
+  {
+    "question": "Select Missing Word: What happens in this task?",
+    "options": [
+      "You hear a complete recording and select a missing word from the middle",
+      "You hear an incomplete recording and select the final missing word or phrase",
+      "You see a text with a missing word and must select it after listening",
+      "You type a missing word from a written transcript"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Select Missing Word, you hear an incomplete recording and must select the final word or phrase that completes it logically.",
+    "category": "Listening"
+  },
+  {
+    "question": "Highlight Incorrect Words: What must you do in this task?",
+    "options": [
+      "Identify words that are mispronounced",
+      "Identify words in the transcript that differ from what you hear",
+      "Correct grammar mistakes in the transcript",
+      "Highlight words you don't understand"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Highlight Incorrect Words, you must identify words in the transcript that are different from what you hear in the recording.",
+    "category": "Listening"
+  },
+  {
+    "question": "Write From Dictation: What is the format of this task?",
+    "options": [
+      "You hear a long passage and write a summary",
+      "You hear a sentence once and must write it exactly as heard",
+      "You hear a sentence twice and must write it exactly as heard",
+      "You see a sentence and must pronounce it correctly"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In Write From Dictation, you hear a sentence once and must write it exactly as heard, with correct spelling and grammar.",
+    "category": "Listening"
+  },
+  {
+    "question": "What is the approximate time allocation for the PTE Listening section?",
+    "options": [
+      "30-35 minutes",
+      "45-57 minutes",
+      "60-75 minutes",
+      "80-90 minutes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The PTE Listening section typically takes 45-57 minutes, though this can vary slightly based on the specific test version.",
+    "category": "Listening"
+  },
+  {
+    "question": "How many listening task types are in the PTE test?",
+    "options": [
+      "3 task types",
+      "5 task types",
+      "8 task types",
+      "10 task types"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are 8 listening task types in the PTE test, including Summarize Spoken Text, Multiple Choice tasks, Fill in the Blanks, Highlight Correct Summary, Select Missing Word, Highlight Incorrect Words, Write From Dictation, and Answer Short Question.",
+    "category": "Listening"
+  },
+  {
+    "question": "In which listening task does your response contribute to both listening and writing scores?",
+    "options": [
+      "Multiple Choice, Multiple Answer",
+      "Highlight Incorrect Words",
+      "Summarize Spoken Text",
+      "Select Missing Word"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Summarize Spoken Text contributes to both your listening and writing scores, as it involves both comprehension and written expression.",
+    "category": "Listening"
+  },
+  {
+    "question": "What skill is most important for the Write From Dictation task?",
+    "options": [
+      "Speaking skills",
+      "Reading comprehension",
+      "Short-term memory and spelling accuracy",
+      "Grammar knowledge only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Short-term memory (to remember the complete sentence) and spelling accuracy are most important for Write From Dictation.",
+    "category": "Listening"
+  },
+  {
+    "question": "What is the time limit for the Summarize Spoken Text task?",
+    "options": [
+      "5 minutes",
+      "10 minutes",
+      "15 minutes",
+      "20 minutes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "You have 10 minutes to complete each Summarize Spoken Text item.",
+    "category": "Listening"
+  },
+  {
+    "question": "In Fill in the Blanks (Listening), what happens if you misspell a word?",
+    "options": [
+      "You get partial credit for being close",
+      "The system automatically corrects minor errors",
+      "You lose points for that particular blank",
+      "You get a warning to check your spelling"
+    ],
+    "correctAnswer": 2,
+    "explanation": "If you misspell a word in Fill in the Blanks (Listening), you lose points for that blank as it requires exact spelling.",
+    "category": "Listening"
+  },
+  {
+    "question": "What types of accents might you encounter in PTE Listening?",
+    "options": [
+      "Only British accents",
+      "Only American accents",
+      "Only Australian accents",
+      "Various accents including British, American, Australian, and other native English accents"
+    ],
+    "correctAnswer": 3,
+    "explanation": "You might encounter various native English accents including British, American, Australian, Canadian, and others.",
+    "category": "Listening"
+  },
+  {
+    "question": "What is the key to success in Highlight Incorrect Words?",
+    "options": [
+      "Reading ahead in the transcript",
+      "Focusing only on key content words",
+      "Following along closely while listening and reading simultaneously",
+      "Looking only for spelling mistakes"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The key to success is following along closely with the transcript while listening, comparing what you read with what you hear in real-time.",
+    "category": "Listening"
+  },
+  {
+    "question": "How many words are you typically expected to write in Summarize Spoken Text?",
+    "options": [
+      "30-40 words",
+      "50-70 words",
+      "80-100 words",
+      "100-150 words"
+    ],
+    "correctAnswer": 1,
+    "explanation": "You are expected to write 50-70 words in Summarize Spoken Text.",
+    "category": "Listening"
+  },
+  {
+    "question": "What should you do during the 7-second pause before Write From Dictation playback?",
+    "options": [
+      "Start writing immediately",
+      "Wait for the recording to finish",
+      "Prepare mentally and focus your attention",
+      "Review previous answers"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Use the 7-second pause to prepare mentally and focus your attention before the sentence plays.",
+    "category": "Listening"
+  },
+  {
+    "question": "In Multiple Choice, Multiple Answer (Listening), how many options are typically correct?",
+    "options": [
+      "Always exactly one",
+      "Always exactly two",
+      "Varies - could be one, two, or more options",
+      "Always all of them"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The number of correct options varies - it could be one, two, or more options, which is why you must evaluate each option carefully.",
+    "category": "Listening"
+  },
+  {
+    "question": "What is the typical length of audio in Select Missing Word tasks?",
+    "options": [
+      "5-10 seconds",
+      "20-30 seconds",
+      "40-60 seconds",
+      "90+ seconds"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The audio in Select Missing Word tasks is typically 40-60 seconds long.",
+    "category": "Listening"
+  },
+  {
+    "question": "How can you best prepare for Highlight Correct Summary?",
+    "options": [
+      "Memorize common academic vocabulary",
+      "Practice identifying main ideas and key points from various lectures",
+      "Study grammar rules intensively",
+      "Focus on improving your typing speed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The best preparation is practicing identifying main ideas and key points from various lectures and conversations.",
+    "category": "Listening"
+  },
+  {
+    "question": "Which listening task is most similar to note-taking in a university lecture?",
+    "options": [
+      "Multiple Choice, Single Answer",
+      "Highlight Incorrect Words",
+      "Summarize Spoken Text",
+      "Select Missing Word"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Summarize Spoken Text is most similar to academic note-taking, as it requires comprehending a lecture and writing a concise summary.",
+    "category": "Listening"
+  },
+  {
+    "question": "How many times can you listen to the audio in most PTE listening tasks?",
+    "options": [
+      "As many times as needed",
+      "Twice",
+      "Only once",
+      "Three times"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In most PTE listening tasks, you can listen to the audio only once, which means careful concentration is essential.",
+    "category": "Listening"
+  },
+  {
+    "question": "What is the typical length of sentences in Write From Dictation?",
+    "options": [
+      "3-5 words",
+      "7-9 words",
+      "10-12 words",
+      "15+ words"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sentences in Write From Dictation are typically 10-12 words long.",
+    "category": "Listening"
+  },
+  {
+    "question": "What is the recommended approach for taking notes in Summarize Spoken Text?",
+    "options": [
+      "Write down every word you hear",
+      "Don't take notes; just listen carefully",
+      "Note down key points, names, numbers, and relationships",
+      "Write a complete draft during the audio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The recommended approach is to note down key points, names, numbers, and relationships rather than trying to transcribe everything.",
+    "category": "Listening"
+  },
+  {
+    "question": "What should you do if you don't understand all words in a listening passage?",
+    "options": [
+      "Give up on that question",
+      "Focus on what you do understand and use context to determine meaning",
+      "Guess randomly for every answer",
+      "Ask the test administrator to replay the audio"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Focus on what you do understand and use context to determine the meaning of unfamiliar words or phrases.",
+    "category": "Listening"
+  },
+  {
+    "question": "In Fill in the Blanks (Listening), what does each blank typically represent?",
+    "options": [
+      "Only nouns",
+      "Only verbs",
+      "Various parts of speech including nouns, verbs, adjectives, etc.",
+      "Only numbers and dates"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Blanks can represent various parts of speech including nouns, verbs, adjectives, adverbs, and other word types.",
+    "category": "Listening"
+  },
+  {
+    "question": "What is the format of the transcript in Highlight Incorrect Words?",
+    "options": [
+      "The transcript contains no errors",
+      "The transcript contains 5-10 words that differ from the audio",
+      "The transcript contains only spelling errors",
+      "The transcript is completely different from the audio"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The transcript typically contains 5-10 words that differ from what is said in the audio recording.",
+    "category": "Listening"
+  },
+  {
+    "question": "What skill does Select Missing Word primarily test?",
+    "options": [
+      "Grammar knowledge",
+      "Vocabulary range",
+      "Prediction and understanding of context",
+      "Spelling accuracy"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Select Missing Word primarily tests your ability to predict what comes next based on context and understanding of the overall message.",
+    "category": "Listening"
+  },
+  {
+    "question": "How many Summarize Spoken Text tasks are typically in the PTE test?",
+    "options": [
+      "1-2 tasks",
+      "2-3 tasks",
+      "4-5 tasks",
+      "6-7 tasks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The PTE test typically includes 2-3 Summarize Spoken Text tasks.",
+    "category": "Listening"
+  },
+  {
+    "question": "What does the Highlight Correct Summary task assess?",
+    "options": [
+      "Only your grammar knowledge",
+      "Only your vocabulary range",
+      "Your ability to identify the main points of a spoken text",
+      "Your pronunciation skills"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Highlight Correct Summary assesses your ability to identify the main points of a spoken text by selecting the summary that best captures the content.",
+    "category": "Listening"
+  },
+  {
+    "question": "How should you approach Multiple Choice, Single Answer (Listening)?",
+    "options": [
+      "Read the question and options after listening to the audio",
+      "Read the question and options before listening, then listen for specific information",
+      "Ignore the options and just choose based on your memory",
+      "Always select the longest answer option"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Read the question and options before listening so you know what information to listen for specifically.",
+    "category": "Listening"
+  },
+  {
+    "question": "What is a common mistake in Write From Dictation?",
+    "options": [
+      "Writing too many words",
+      "Missing articles (a, an, the) or adding incorrect ones",
+      "Writing in all capital letters",
+      "Adding punctuation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A common mistake is missing articles or adding incorrect ones, such as forgetting 'the' or adding 'a' where it wasn't in the original sentence.",
+    "category": "Listening"
+  },
+  {
+    "question": "In which task might you need to differentiate between similar-sounding words?",
+    "options": [
+      "Multiple Choice, Multiple Answer only",
+      "Highlight Correct Summary only",
+      "Several tasks, including Fill in the Blanks, Highlight Incorrect Words, and Write From Dictation",
+      "None of the listening tasks"
+    ],
+    "correctAnswer": 2,
+    "explanation": "You might need to differentiate between similar-sounding words in several tasks, including Fill in the Blanks, Highlight Incorrect Words, and Write From Dictation.",
+    "category": "Listening"
+  },
+  {
+    "question": "What should your Summarize Spoken Text response include?",
+    "options": [
+      "Word-for-word transcription of parts of the lecture",
+      "Your personal opinion about the topic",
+      "Main idea and key supporting points from the lecture",
+      "Criticism of the speaker's viewpoint"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Your response should include the main idea and key supporting points from the lecture, presented in your own words.",
+    "category": "Listening"
+  },
+  {
+    "question": "What's the best strategy for Fill in the Blanks (Listening)?",
+    "options": [
+      "Fill in all blanks before listening",
+      "Skip difficult blanks and return to them later",
+      "Try to predict what might go in each blank before listening",
+      "Listen carefully and type words as you hear them"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The best strategy is to listen carefully and type the words as you hear them, focusing on accurate spelling.",
+    "category": "Listening"
+  },
+  {
+    "question": "How many Write From Dictation items are typically in the PTE test?",
+    "options": [
+      "1-2 items",
+      "3-4 items",
+      "5-6 items",
+      "7-10 items"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The PTE test typically includes 5-6 Write From Dictation items.",
+    "category": "Listening"
+  },
+  {
+    "question": "What is NOT a good strategy for improving your PTE Listening skills?",
+    "options": [
+      "Practicing with various accents",
+      "Taking notes while listening to lectures",
+      "Transcribing audio recordings",
+      "Focusing only on American accent listening materials"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Focusing only on American accent materials is not a good strategy since PTE includes various native English accents. Practice with diverse accents is important.",
+    "category": "Listening"
+  },
+  {
+    "question": "In Highlight Incorrect Words, what types of word changes might occur?",
+    "options": [
+      "Only synonym substitutions",
+      "Only changes in verb tense",
+      "Various types including synonyms, unrelated words, or words that change the meaning",
+      "Only additional words inserted into the text"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Various types of changes might occur, including synonyms, unrelated words, or words that change the meaning of the sentence.",
+    "category": "Listening"
+  },
+  {
+    "question": "What happens if you don't type anything in Write From Dictation?",
+    "options": [
+      "You get partial credit for attempting",
+      "You're given a second chance to listen",
+      "You receive zero points for that item",
+      "The system automatically provides hints"
+    ],
+    "correctAnswer": 2,
+    "explanation": "If you don't type anything in Write From Dictation, you receive zero points for that item.",
+    "category": "Listening"
+  },
+  {
+    "question": "What aspect of English does the Select Missing Word task test?",
+    "options": [
+      "Only grammar",
+      "Only vocabulary",
+      "Understanding of context and ability to predict logical conclusions",
+      "Only pronunciation recognition"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Select Missing Word tests your understanding of context and ability to predict logical conclusions based on what you've heard.",
+    "category": "Listening"
+  },
+  {
+    "question": "How many sentences will you typically hear in Fill in the Blanks (Listening)?",
+    "options": [
+      "1 sentence with multiple blanks",
+      "2-3 sentences with one blank each",
+      "5-7 sentences forming a paragraph with multiple blanks",
+      "10+ disconnected sentences"
+    ],
+    "correctAnswer": 2,
+    "explanation": "You'll typically hear 5-7 sentences forming a coherent paragraph with multiple blanks throughout.",
+    "category": "Listening"
+  },
+  {
+    "question": "What should you focus on when listening to multiple-choice audio?",
+    "options": [
+      "Only the beginning of the audio",
+      "Only the end of the audio",
+      "Key information throughout, particularly relating to the question",
+      "Background noises for context clues"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Focus on key information throughout the audio, particularly details relating to the question you read beforehand.",
+    "category": "Listening"
+  },
+  {
+    "question": "What is the purpose of the Highlight Incorrect Words task?",
+    "options": [
+      "To test your reading speed",
+      "To assess your ability to detect differences between written and spoken text",
+      "To assess your pronunciation",
+      "To test your writing ability"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The purpose is to assess your ability to detect differences between the written transcript and what you hear in the spoken text.",
+    "category": "Listening"
+  },
+  {
+    "question": "How can you improve your performance in Write From Dictation?",
+    "options": [
+      "Practice typing as fast as possible",
+      "Practice listening to sentences and writing them exactly as heard",
+      "Study complex grammar rules",
+      "Learn to predict what the speaker will say"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Improve by practicing listening to sentences and writing them exactly as heard, focusing on accuracy and spelling.",
+    "category": "Listening"
+  },
+  {
+    "question": "What is the best way to use the erasable noteboard during listening tasks?",
+    "options": [
+      "Don't use it at all to save time",
+      "Write down key words, numbers, and relationships as you listen",
+      "Try to transcribe everything word-for-word",
+      "Draw pictures representing what you hear"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The best way is to write down key words, numbers, and relationships as you listen rather than trying to transcribe everything.",
+    "category": "Listening"
+  },
+  {
+    "question": "What is most important in Summarize Spoken Text responses?",
+    "options": [
+      "Using advanced vocabulary",
+      "Including your personal opinion",
+      "Accuracy of content and conciseness",
+      "Writing in a poetic style"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Accuracy of content (capturing the main points correctly) and conciseness are most important in Summarize Spoken Text responses.",
+    "category": "Listening"
+  },
+  {
+    "question": "What do the audio clips in PTE Listening typically discuss?",
+    "options": [
+      "Only personal topics",
+      "Only business topics",
+      "Academic and general interest topics",
+      "Only scientific research"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Audio clips typically discuss academic and general interest topics similar to what you might encounter in university lectures or everyday life.",
+    "category": "Listening"
+  },
+  {
+    "question": "How many options do you typically choose from in Select Missing Word?",
+    "options": [
+      "2 options",
+      "3-4 options",
+      "5-7 options",
+      "8+ options"
+    ],
+    "correctAnswer": 1,
+    "explanation": "You typically choose from 3-4 options in Select Missing Word tasks.",
+    "category": "Listening"
+  },
+  {
+    "question": "What should you do during the short pause before audio plays in listening tasks?",
+    "options": [
+      "Close your eyes and relax",
+      "Read the instructions and question carefully",
+      "Start writing your answer immediately",
+      "Try to guess what the audio will be about"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Use the short pause to read the instructions and question carefully so you know what to listen for.",
+    "category": "Listening"
+  },
+  {
+    "question": "What is the relationship between Write From Dictation and the overall score?",
+    "options": [
+      "It has minimal impact on the final score",
+      "It affects only the listening score",
+      "It contributes to both listening and writing scores and has significant point value",
+      "It only matters if you get all other questions correct"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Write From Dictation contributes to both listening and writing scores and carries significant point value relative to other tasks.",
+    "category": "Listening"
+  },
+  {
+    "question": "How many Highlight Incorrect Words tasks are typically in the PTE test?",
+    "options": [
+      "1-2 tasks",
+      "2-3 tasks",
+      "4-5 tasks",
+      "6-7 tasks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The PTE test typically includes 2-3 Highlight Incorrect Words tasks.",
+    "category": "Listening"
+  },
+  {
+    "question": "What type of note-taking is most effective for Summarize Spoken Text?",
+    "options": [
+      "Writing complete sentences",
+      "Creating mind maps or diagrams",
+      "Keywords, phrases, and structural markers (e.g., 'firstly,' 'however')",
+      "Not taking notes at all"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Taking notes with keywords, phrases, and structural markers (e.g., 'firstly,' 'however') is most effective for capturing the main points.",
+    "category": "Listening"
+  },
+  {
+    "question": "What might happen if you encounter an unfamiliar accent in the listening section?",
+    "options": [
+      "You can request a different audio",
+      "You'll be given a transcript",
+      "You need to adapt and try to understand it as best you can",
+      "The test automatically adjusts the difficulty"
+    ],
+    "correctAnswer": 2,
+    "explanation": "You need to adapt and try to understand it as best you can, as the test includes various accents to assess your ability to understand different speakers.",
+    "category": "Listening"
+  },
+  {
+    "question": "What differentiates a good summary in Summarize Spoken Text?",
+    "options": [
+      "Length - longer is always better",
+      "Including only your personal opinions",
+      "Capturing main ideas and key supporting points concisely and accurately",
+      "Using as many direct quotes as possible"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A good summary captures the main ideas and key supporting points concisely and accurately, rather than focusing on length or personal opinion.",
+    "category": "Listening"
+  },
+  {
+    "question": "How long are typical audio clips in Multiple Choice questions?",
+    "options": [
+      "10-20 seconds",
+      "30-60 seconds",
+      "90 seconds to 2 minutes",
+      "3-5 minutes"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Typical audio clips in Multiple Choice questions are about 90 seconds to 2 minutes long.",
+    "category": "Listening"
+  },
+  {
+    "question": "What is the recommended paragraph structure for Summarize Spoken Text?",
+    "options": [
+      "Multiple paragraphs with one sentence each",
+      "Two paragraphs: introduction and conclusion",
+      "A single paragraph with a clear beginning, middle, and end",
+      "No particular structure as long as it's within word count"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The recommended structure is a single coherent paragraph with a clear beginning (main idea), middle (key points), and end (conclusion if relevant).",
+    "category": "Listening"
+  },
+  {
+    "question": "What type of content is typically featured in Write From Dictation sentences?",
+    "options": [
+      "Complex scientific concepts",
+      "Everyday topics and academic content",
+      "Tongue twisters and difficult pronunciations",
+      "Only business terminology"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Write From Dictation typically features everyday topics and academic content rather than extremely specialized or difficult material.",
+    "category": "Listening"
+  },
+  {
+    "question": "What makes Fill in the Blanks (Listening) particularly challenging?",
+    "options": [
+      "The blanks are randomly placed",
+      "You must spell words correctly that you've only heard, not seen",
+      "The audio plays extremely fast",
+      "You must translate words into different languages"
+    ],
+    "correctAnswer": 1,
+    "explanation": "It's challenging because you must spell words correctly that you've only heard but not seen, requiring good phonetic awareness.",
+    "category": "Listening"
+  },
+  {
+    "question": "What might Highlight Correct Summary options include?",
+    "options": [
+      "Only summaries with factual errors",
+      "A mix of accurate and inaccurate summaries of the audio",
+      "Only options that paraphrase the audio perfectly",
+      "Only options containing direct quotes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Highlight Correct Summary options include a mix of accurate and inaccurate summaries, with only one that accurately captures the main points.",
+    "category": "Listening"
+  },
+  {
+    "question": "How long are the recordings typically in Summarize Spoken Text?",
+    "options": [
+      "30-45 seconds",
+      "60-90 seconds",
+      "2-3 minutes",
+      "5+ minutes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Recordings in Summarize Spoken Text are typically 60-90 seconds long.",
+    "category": "Listening"
+  },
+  {
+    "question": "What strategy helps most with Highlight Incorrect Words?",
+    "options": [
+      "Reading the transcript multiple times before listening",
+      "Following along with the transcript while listening, word by word",
+      "Listening first without looking at the transcript",
+      "Highlighting every third word automatically"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Following along with the transcript while listening, word by word, helps you catch discrepancies between what you read and what you hear.",
+    "category": "Listening"
+  },
+  {
+    "question": "How important is grammar in your Summarize Spoken Text response?",
+    "options": [
+      "Not important at all",
+      "Somewhat important but content matters more",
+      "Very important - grammar errors will reduce your score",
+      "Only important if you're aiming for a perfect score"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Grammar is very important in your response as grammar errors will reduce your score, affecting both listening and writing components.",
+    "category": "Listening"
+  },
+  {
+    "question": "What is a 'distractor' in Multiple Choice listening tasks?",
+    "options": [
+      "A background noise in the audio",
+      "An incorrect option that seems plausible if you didn't listen carefully",
+      "The correct answer hidden among wrong ones",
+      "A visual element on the screen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A 'distractor' is an incorrect option that seems plausible if you didn't listen carefully or misunderstood part of the audio.",
+    "category": "Listening"
+  },
+  {
+    "question": "How can you best improve your performance in Select Missing Word?",
+    "options": [
+      "Memorize common endings to sentences",
+      "Practice listening to complete passages and predicting logical conclusions",
+      "Study grammar rules only",
+      "Focus on improving your reading speed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The best way to improve is by practicing listening to complete passages and predicting logical conclusions based on context and overall meaning.",
+    "category": "Listening"
+  }
+] 

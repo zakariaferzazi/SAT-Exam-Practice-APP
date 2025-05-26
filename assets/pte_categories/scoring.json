@@ -1,0 +1,734 @@
+[
+  {
+    "question": "What is the scoring scale for the PTE Academic test?",
+    "options": [
+      "0-30 points",
+      "1-9 bands",
+      "10-90 points",
+      "0-120 points"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The PTE Academic test is scored on a scale of 10-90 points for both the overall score and individual communicative skills.",
+    "category": "Scoring"
+  },
+  {
+    "question": "How many communicative skills are scored separately in PTE Academic?",
+    "options": [
+      "2 skills",
+      "3 skills",
+      "4 skills",
+      "5 skills"
+    ],
+    "correctAnswer": 2,
+    "explanation": "PTE Academic provides separate scores for 4 communicative skills: Listening, Reading, Speaking, and Writing.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What are enabling skills in PTE scoring?",
+    "options": [
+      "The four main communicative skills",
+      "Sub-skills that contribute to the communicative skill scores",
+      "Optional skills that don't affect the overall score",
+      "Skills that are only relevant for academic purposes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Enabling skills are sub-skills that contribute to the communicative skill scores, such as grammar, vocabulary, spelling, etc.",
+    "category": "Scoring"
+  },
+  {
+    "question": "How many enabling skills are scored in PTE Academic?",
+    "options": [
+      "3 enabling skills",
+      "5 enabling skills",
+      "6 enabling skills",
+      "8 enabling skills"
+    ],
+    "correctAnswer": 2,
+    "explanation": "PTE Academic scores 6 enabling skills: Grammar, Oral Fluency, Pronunciation, Spelling, Vocabulary, and Written Discourse.",
+    "category": "Scoring"
+  },
+  {
+    "question": "Which enabling skill affects the Speaking score?",
+    "options": [
+      "Spelling",
+      "Written Discourse",
+      "Pronunciation",
+      "Vocabulary Range"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pronunciation is an enabling skill that directly affects the Speaking score.",
+    "category": "Scoring"
+  },
+  {
+    "question": "Which enabling skill does NOT affect the Writing score?",
+    "options": [
+      "Grammar",
+      "Spelling",
+      "Vocabulary",
+      "Oral Fluency"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Oral Fluency does not affect the Writing score; it only contributes to the Speaking score.",
+    "category": "Scoring"
+  },
+  {
+    "question": "How is the overall score calculated in PTE Academic?",
+    "options": [
+      "Average of all communicative skills",
+      "Weighted average favoring Speaking and Writing",
+      "Based on a complex algorithm using all test responses",
+      "Sum of all enabling skills"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The overall score is calculated using a complex algorithm that considers all test responses, not simply an average of the four communicative skills.",
+    "category": "Scoring"
+  },
+  {
+    "question": "How does PTE Academic handle partial credit in Multiple Choice, Multiple Answer questions?",
+    "options": [
+      "No partial credit - all or nothing scoring",
+      "Points for correct options selected, minus points for incorrect selections",
+      "One point per correct option regardless of incorrect selections",
+      "Partial credit only if at least half the correct options are selected"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PTE uses partial credit scoring for Multiple Choice, Multiple Answer questions: points for correct options selected, minus points for incorrect selections.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What aspects are scored in Write From Dictation tasks?",
+    "options": [
+      "Only content accuracy",
+      "Content accuracy and spelling",
+      "Content accuracy, spelling, and grammar",
+      "Only spelling"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Write From Dictation tasks are scored on content accuracy (the words you transcribe) and spelling.",
+    "category": "Scoring"
+  },
+  {
+    "question": "Which task contributes to both Speaking and Listening scores?",
+    "options": [
+      "Read Aloud",
+      "Repeat Sentence",
+      "Answer Short Question",
+      "Summarize Spoken Text"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Answer Short Question contributes to both Speaking and Listening scores because it involves both comprehending a question (listening) and providing a spoken answer.",
+    "category": "Scoring"
+  },
+  {
+    "question": "Which task contributes to both Writing and Reading scores?",
+    "options": [
+      "Write Essay",
+      "Summarize Written Text",
+      "Fill in the Blanks (Reading)",
+      "Re-order Paragraphs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Summarize Written Text contributes to both Writing and Reading scores as it requires reading comprehension and written expression.",
+    "category": "Scoring"
+  },
+  {
+    "question": "Which task contributes to both Writing and Listening scores?",
+    "options": [
+      "Write Essay",
+      "Fill in the Blanks (Listening)",
+      "Summarize Spoken Text",
+      "Highlight Correct Summary"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Summarize Spoken Text contributes to both Writing and Listening scores as it involves listening comprehension and written response.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What is the highest possible score for any skill in PTE Academic?",
+    "options": [
+      "30 points",
+      "90 points",
+      "100 points",
+      "120 points"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The highest possible score for any communicative skill is 90 points.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What is the minimum score for any skill or overall score in PTE Academic?",
+    "options": [
+      "0 points",
+      "10 points",
+      "15 points",
+      "20 points"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The minimum score for any communicative skill or the overall score is 10 points.",
+    "category": "Scoring"
+  },
+  {
+    "question": "Which section typically carries the most weight in the overall score?",
+    "options": [
+      "All sections are weighted equally",
+      "Speaking",
+      "Reading",
+      "Writing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "All four communicative skills contribute relatively equally to the overall score, though the exact algorithm is proprietary.",
+    "category": "Scoring"
+  },
+  {
+    "question": "How are the speaking responses evaluated?",
+    "options": [
+      "By human examiners during the test",
+      "By human examiners after the test",
+      "By automated scoring technology",
+      "By other test-takers"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Speaking responses are evaluated by automated scoring technology that analyzes pronunciation, fluency, and content.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What happens if you don't complete a task within the allotted time?",
+    "options": [
+      "You get partial credit based on what you completed",
+      "The task is automatically marked incorrect",
+      "The system gives you extra time",
+      "You lose points on all subsequent tasks"
+    ],
+    "correctAnswer": 0,
+    "explanation": "If you don't complete a task within the allotted time, you typically get partial credit based on what you managed to complete.",
+    "category": "Scoring"
+  },
+  {
+    "question": "Which of these cannot be scored below 10 points?",
+    "options": [
+      "Enabling skills",
+      "Communicative skills",
+      "Individual tasks",
+      "All of the above can be scored below 10"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enabling skills can be scored below 10 points (on a 0-90 scale), while communicative skills and the overall score have a minimum of 10 points.",
+    "category": "Scoring"
+  },
+  {
+    "question": "How is the Read Aloud task scored?",
+    "options": [
+      "Only for pronunciation",
+      "Only for content accuracy",
+      "For content, oral fluency, and pronunciation",
+      "Only for reading speed"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Read Aloud is scored for content (the words you say), oral fluency (rhythm and phrasing), and pronunciation.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What is NOT evaluated in the scoring of Describe Image?",
+    "options": [
+      "Content (relevance to the image)",
+      "Pronunciation",
+      "Oral Fluency",
+      "Spelling"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Spelling is not evaluated in Describe Image since it's a speaking task; content, pronunciation, and oral fluency are assessed.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What skill is assessed in Written Discourse?",
+    "options": [
+      "Spelling accuracy",
+      "Grammar correctness",
+      "Organization, coherence, and development of ideas",
+      "Vocabulary range"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Written Discourse assesses organization, coherence, and logical development of ideas in written responses.",
+    "category": "Scoring"
+  },
+  {
+    "question": "How is Write Essay scored?",
+    "options": [
+      "Only for content relevance",
+      "Only for grammar and vocabulary",
+      "For content, grammar, vocabulary, spelling, and written discourse",
+      "Only for meeting the word count"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Write Essay is scored for content relevance, grammar, vocabulary, spelling, and written discourse.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What is NOT a factor in scoring Repeat Sentence?",
+    "options": [
+      "Content (word accuracy)",
+      "Pronunciation",
+      "Spelling",
+      "Oral Fluency"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Spelling is not a factor in scoring Repeat Sentence since it's a speaking task; content, pronunciation, and oral fluency are assessed.",
+    "category": "Scoring"
+  },
+  {
+    "question": "How is Summarize Written Text scored?",
+    "options": [
+      "For content only",
+      "For grammar, vocabulary, and spelling only",
+      "For content, form, grammar, vocabulary, spelling, and written discourse",
+      "Only for keeping within the word limit"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Summarize Written Text is scored for content, form (single sentence), grammar, vocabulary, spelling, and written discourse.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What happens to your score if you write more than 75 words in Summarize Written Text?",
+    "options": [
+      "You get extra points for being thorough",
+      "There is no penalty",
+      "You lose points for not following the task requirements",
+      "Only the first 75 words are scored"
+    ],
+    "correctAnswer": 2,
+    "explanation": "You lose points for not following the task requirements if you write more than the specified word limit (50-70 words).",
+    "category": "Scoring"
+  },
+  {
+    "question": "What happens to your score if you write more than one sentence in Summarize Written Text?",
+    "options": [
+      "You get extra points for being thorough",
+      "There is no penalty",
+      "You lose points for not following the task requirements",
+      "Only the first sentence is scored"
+    ],
+    "correctAnswer": 2,
+    "explanation": "You lose points for not following the task requirements if you write more than one sentence, as the task specifically requires a single-sentence response.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What happens if you write fewer than 200 words in Write Essay?",
+    "options": [
+      "No penalty if your essay is good",
+      "Minor penalty regardless of quality",
+      "Significant reduction in score for not meeting requirements",
+      "Automatic zero for the task"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Writing fewer than 200 words in Write Essay results in a significant reduction in score for not meeting the task requirements (200-300 words).",
+    "category": "Scoring"
+  },
+  {
+    "question": "What is scored in Multiple Choice, Single Answer tasks?",
+    "options": [
+      "Only correct/incorrect answer",
+      "Correct/incorrect plus time taken",
+      "Correct/incorrect plus reasoning provided",
+      "Partial credit based on how close your answer is"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Multiple Choice, Single Answer tasks are scored simply as correct or incorrect with no partial credit.",
+    "category": "Scoring"
+  },
+  {
+    "question": "How is Fill in the Blanks (Reading) scored?",
+    "options": [
+      "One point per correct selection",
+      "Partial credit for each blank, with more important blanks worth more",
+      "All-or-nothing for the entire passage",
+      "Based on how quickly you complete it"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fill in the Blanks (Reading) is scored with one point per correct selection for each blank.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What is the scoring approach for Highlight Incorrect Words?",
+    "options": [
+      "One point per correctly identified wrong word",
+      "Penalties for highlighting correct words",
+      "Both points for correct identifications and penalties for wrong ones",
+      "All-or-nothing scoring"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Highlight Incorrect Words uses both points for correctly identified wrong words and penalties for incorrectly highlighting words that match the audio.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What is NOT scored in Summarize Spoken Text?",
+    "options": [
+      "Content accuracy",
+      "Grammar",
+      "Pronunciation",
+      "Vocabulary"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pronunciation is not scored in Summarize Spoken Text since it's a writing task; content, grammar, and vocabulary are assessed.",
+    "category": "Scoring"
+  },
+  {
+    "question": "How are Re-order Paragraphs scored?",
+    "options": [
+      "One point for each paragraph in correct position",
+      "All-or-nothing - must have the entire sequence correct",
+      "Partial credit based on correct adjacency of paragraphs",
+      "Based on how quickly you arrange them"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Re-order Paragraphs use partial credit based on correct adjacency of paragraphs, not just absolute positions.",
+    "category": "Scoring"
+  },
+  {
+    "question": "How many different enabling skills are used to score the Speaking section?",
+    "options": [
+      "1 skill",
+      "2 skills",
+      "3 skills",
+      "4 skills"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Speaking section is scored using 3 enabling skills: Content, Oral Fluency, and Pronunciation.",
+    "category": "Scoring"
+  },
+  {
+    "question": "How many different enabling skills are used to score the Writing section?",
+    "options": [
+      "2 skills",
+      "3 skills",
+      "5 skills",
+      "6 skills"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Writing section is scored using 5 enabling skills: Content, Grammar, Spelling, Vocabulary, and Written Discourse.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What is considered a 'high score' in PTE Academic?",
+    "options": [
+      "Above 50",
+      "Above 65",
+      "Above 79",
+      "Above 85"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Generally, scores above 79 are considered high scores, satisfying requirements for most universities and immigration purposes.",
+    "category": "Scoring"
+  },
+  {
+    "question": "How are Fill in the Blanks (Listening) responses scored?",
+    "options": [
+      "One point per correctly spelled word",
+      "Partial credit for minor spelling errors",
+      "All-or-nothing for the entire set of blanks",
+      "Based on typing speed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fill in the Blanks (Listening) is scored with one point per correctly spelled word, with no partial credit for spelling errors.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What is the score report scale for enabling skills?",
+    "options": [
+      "Same as communicative skills (10-90)",
+      "0-90 scale",
+      "1-9 scale",
+      "A/B/C/D grades"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Enabling skills are reported on a 0-90 scale, which differs from the communicative skills that have a minimum of 10.",
+    "category": "Scoring"
+  },
+  {
+    "question": "Which task contributes most significantly to the Writing score?",
+    "options": [
+      "Write Essay",
+      "Summarize Written Text",
+      "Summarize Spoken Text",
+      "All contribute equally"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Write Essay generally contributes most significantly to the Writing score due to its complexity and comprehensive assessment of writing abilities.",
+    "category": "Scoring"
+  },
+  {
+    "question": "Which task type has the most significant impact on the Listening score?",
+    "options": [
+      "Multiple Choice questions",
+      "Fill in the Blanks (Listening)",
+      "Write From Dictation",
+      "Highlight Incorrect Words"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Write From Dictation typically has the most significant impact on the Listening score due to its integrated skills assessment and high point value.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What is the impact of spelling errors in Write From Dictation?",
+    "options": [
+      "No impact - content is all that matters",
+      "Minor deduction but partial credit given",
+      "Word is marked completely wrong regardless of how minor the error",
+      "Only major spelling errors count against you"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In Write From Dictation, a word with any spelling error is marked completely wrong, with no partial credit given.",
+    "category": "Scoring"
+  },
+  {
+    "question": "How is the overall Oral Fluency score determined?",
+    "options": [
+      "Based solely on the Read Aloud task",
+      "Average of fluency scores from all speaking tasks",
+      "Based on your best performance in any speaking task",
+      "Determined by your speed of speech only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The overall Oral Fluency score is determined by averaging the fluency scores from all relevant speaking tasks.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What does the Vocabulary enabling skill measure?",
+    "options": [
+      "Only the number of unique words used",
+      "Only the complexity of vocabulary",
+      "Both range of vocabulary and appropriate usage",
+      "Only technical academic terms"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Vocabulary enabling skill measures both the range (variety) of vocabulary and appropriate usage in context.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What does the 'Content' scoring criterion assess?",
+    "options": [
+      "Only grammar accuracy",
+      "Only vocabulary usage",
+      "Relevance, accuracy, and completeness of the response",
+      "Only length of response"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 'Content' criterion assesses the relevance, accuracy, and completeness of your response in relation to the task requirements.",
+    "category": "Scoring"
+  },
+  {
+    "question": "In the PTE score report, what does GSE stand for?",
+    "options": [
+      "General Speaking Evaluation",
+      "Global Scale of English",
+      "Grammar and Spelling Examination",
+      "Graded Skill Enhancement"
+    ],
+    "correctAnswer": 1,
+    "explanation": "GSE stands for Global Scale of English, which is Pearson's standardized scale for measuring English language proficiency.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What is the main difference between PTE scoring and human examiner scoring?",
+    "options": [
+      "PTE scoring is less accurate",
+      "PTE scoring uses different criteria",
+      "PTE scoring is automated and standardized across all test-takers",
+      "PTE scoring only evaluates basic skills"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The main difference is that PTE scoring is automated and standardized across all test-takers, eliminating potential human bias or inconsistency.",
+    "category": "Scoring"
+  },
+  {
+    "question": "How is Answer Short Question scored?",
+    "options": [
+      "Based on pronunciation only",
+      "Based on content accuracy only",
+      "Based on both content accuracy and pronunciation",
+      "Based on response length"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Answer Short Question is primarily scored based on content accuracy - whether you provided the correct answer - rather than pronunciation.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What generally happens to your score if you speak too quietly in speaking tasks?",
+    "options": [
+      "No impact as long as words are correct",
+      "Minor deduction only",
+      "Potential severe impact if speech cannot be properly recognized",
+      "You get a second chance to repeat"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Speaking too quietly can have a severe impact on your score if the speech recognition system cannot properly analyze your response.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What happens to your score if you include irrelevant content in Write Essay?",
+    "options": [
+      "No impact as long as you meet the word count",
+      "Minor deduction only",
+      "Significant reduction in content score",
+      "Automatic zero for the task"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Including irrelevant content in Write Essay results in a significant reduction in your content score as it shows poor understanding of the task.",
+    "category": "Scoring"
+  },
+  {
+    "question": "How is Highlight Correct Summary scored?",
+    "options": [
+      "Partial credit for partially correct summaries",
+      "Points awarded based on speed of selection",
+      "Correct/incorrect with no partial credit",
+      "Based on the difficulty of the options"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Highlight Correct Summary is scored as correct/incorrect with no partial credit - you either select the right summary or you don't.",
+    "category": "Scoring"
+  },
+  {
+    "question": "How is Select Missing Word scored?",
+    "options": [
+      "Partial credit based on how close your selection is",
+      "Points awarded based on response time",
+      "Correct/incorrect with no partial credit",
+      "Scaled based on difficulty"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Select Missing Word is scored as correct/incorrect with no partial credit - you either select the right word/phrase or you don't.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What most negatively impacts the Pronunciation score?",
+    "options": [
+      "Speaking with a non-native accent",
+      "Speaking too quickly",
+      "Mispronouncing specialized technical terms",
+      "Speech that significantly impacts comprehensibility"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Speech that significantly impacts comprehensibility most negatively affects the Pronunciation score, not merely having a non-native accent.",
+    "category": "Scoring"
+  },
+  {
+    "question": "How are scores for the enabling skill of Grammar determined?",
+    "options": [
+      "Only from multiple-choice grammar questions",
+      "Based on grammatical structures used in writing and speaking tasks",
+      "Through a separate grammar test",
+      "By human evaluation only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Grammar scores are determined based on the grammatical structures and accuracy in your writing and speaking responses.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What is the optimal speaking rate for maximum Oral Fluency scores?",
+    "options": [
+      "As fast as possible",
+      "As slow and deliberate as possible",
+      "Natural pace with appropriate rhythm and phrasing",
+      "Varies depending on question type"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A natural pace with appropriate rhythm and phrasing is optimal for Oral Fluency scores, not extremely fast or slow speech.",
+    "category": "Scoring"
+  },
+  {
+    "question": "How long are PTE Academic scores valid?",
+    "options": [
+      "1 year",
+      "2 years",
+      "3 years",
+      "5 years"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PTE Academic scores are valid for 2 years from the date of the test.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What does NOT contribute to the Written Discourse score?",
+    "options": [
+      "Organization of ideas",
+      "Coherence and cohesion",
+      "Development of arguments",
+      "Spelling accuracy"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Spelling accuracy does not contribute to the Written Discourse score, as it's a separate enabling skill.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What is the highest enabling skill score typically needed for university admission?",
+    "options": [
+      "50+",
+      "65+",
+      "79+",
+      "90 only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Most universities that specify enabling skill requirements typically look for scores of 79+ for admission to advanced academic programs.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What factors affect the Grammar score in PTE Academic?",
+    "options": [
+      "Only verb tense usage",
+      "Only sentence structure",
+      "Various aspects including tense, structure, articles, prepositions, etc.",
+      "Only subject-verb agreement"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Grammar score is affected by various aspects including verb tense, sentence structure, articles, prepositions, and other grammatical features.",
+    "category": "Scoring"
+  },
+  {
+    "question": "If you need to achieve a certain score for migration purposes, which scores matter most?",
+    "options": [
+      "Only the overall score",
+      "Only the communicative skill scores",
+      "Only the enabling skill scores",
+      "Depends on the specific requirements of the migration program"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The scores that matter most depend on the specific requirements of the migration program, which may specify minimum scores for overall, communicative skills, or both.",
+    "category": "Scoring"
+  },
+  {
+    "question": "How does scoring for Fill in the Blanks (Reading & Writing) differ from Fill in the Blanks (Reading)?",
+    "options": [
+      "No difference in scoring",
+      "One uses partial credit, the other doesn't",
+      "One requires exact spelling, the other provides options",
+      "One affects Writing score, the other doesn't"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In Fill in the Blanks (Reading & Writing), you must type answers with exact spelling; in Fill in the Blanks (Reading), you select from options.",
+    "category": "Scoring"
+  },
+  {
+    "question": "What is the relationship between communicative skills and enabling skills in the score report?",
+    "options": [
+      "They are completely separate scores",
+      "Enabling skills contribute to communicative skill scores",
+      "Communicative skills determine enabling skill scores",
+      "They are exactly the same thing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Enabling skills contribute to communicative skill scores - they are the building blocks that make up the four main communicative skill scores.",
+    "category": "Scoring"
+  },
+  {
+    "question": "Can you request a re-evaluation of your PTE Academic score?",
+    "options": [
+      "No, scores are final",
+      "Yes, for all sections",
+      "Yes, but only for the writing section",
+      "Only if there was a technical error"
+    ],
+    "correctAnswer": 2,
+    "explanation": "You can request a re-evaluation, but it's only recommended for the writing section as speaking and other sections are unlikely to change due to automated scoring.",
+    "category": "Scoring"
+  }
+] 

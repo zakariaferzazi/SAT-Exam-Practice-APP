@@ -1,0 +1,794 @@
+[
+  {
+    "question": "Reading: Fill in the Blanks - What does this task assess?",
+    "options": [
+      "Only grammar knowledge",
+      "Only vocabulary knowledge",
+      "Grammar, vocabulary, and reading comprehension",
+      "Only spelling ability"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fill in the Blanks assesses grammar, vocabulary, and reading comprehension as you need to select words that fit contextually and grammatically.",
+    "category": "Reading"
+  },
+  {
+    "question": "Multiple Choice, Multiple Answer: How can you identify correct answers?",
+    "options": [
+      "Always select exactly two options",
+      "Choose options that are directly stated or can be inferred from the text",
+      "Select all options that sound plausible",
+      "Choose answers containing words that appear in the passage"
+    ],
+    "correctAnswer": 1,
+    "explanation": "You should choose options that are directly stated in the text or can be logically inferred from it, not just options containing the same words.",
+    "category": "Reading"
+  },
+  {
+    "question": "Reorder Paragraphs: What is the best approach to this task?",
+    "options": [
+      "Arrange paragraphs randomly",
+      "Identify topic sentence, look for linking words and logical progression",
+      "Always place shortest paragraph first",
+      "Always place longest paragraph first"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The best approach is to identify the topic sentence (often the first paragraph), then look for linking words, references, and logical progression to arrange the remaining paragraphs.",
+    "category": "Reading"
+  },
+  {
+    "question": "Reading & Writing: Fill in the Blanks - How is this different from Reading: Fill in the Blanks?",
+    "options": [
+      "They are exactly the same task",
+      "One uses a dropdown list while the other requires typing the answers",
+      "One is timed while the other is not",
+      "One counts toward Reading score only, the other toward both Reading and Writing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Reading: Fill in the Blanks, you select words from a dropdown list. In Reading & Writing: Fill in the Blanks, you type the words yourself.",
+    "category": "Reading"
+  },
+  {
+    "question": "What type of texts will you typically encounter in PTE Reading tasks?",
+    "options": [
+      "Only scientific texts",
+      "Only narrative stories",
+      "Academic texts on various subjects",
+      "Only business documents"
+    ],
+    "correctAnswer": 2,
+    "explanation": "PTE Reading tasks typically include academic texts on various subjects such as science, humanities, business, and social sciences.",
+    "category": "Reading"
+  },
+  {
+    "question": "What is a key strategy for the Multiple Choice, Single Answer task?",
+    "options": [
+      "Select multiple answers to increase chances of being correct",
+      "Always choose the shortest answer option",
+      "Eliminate obviously incorrect options and evaluate remaining choices",
+      "Skip difficult questions to save time"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A key strategy is to eliminate obviously incorrect options and then carefully evaluate the remaining choices against the passage.",
+    "category": "Reading"
+  },
+  {
+    "question": "Which reading task requires you to analyze the structure of a text?",
+    "options": [
+      "Multiple Choice, Single Answer",
+      "Reorder Paragraphs",
+      "Reading: Fill in the Blanks",
+      "Multiple Choice, Multiple Answer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reorder Paragraphs requires you to analyze the structure of a text to determine the logical sequence of paragraphs.",
+    "category": "Reading"
+  },
+  {
+    "question": "In Reading & Writing: Fill in the Blanks, what happens if you misspell a word?",
+    "options": [
+      "The system automatically corrects it for you",
+      "You lose partial credit for that answer",
+      "You get a warning to check your spelling",
+      "It counts as completely incorrect"
+    ],
+    "correctAnswer": 3,
+    "explanation": "If you misspell a word in Reading & Writing: Fill in the Blanks, it counts as completely incorrect, so careful spelling is essential.",
+    "category": "Reading"
+  },
+  {
+    "question": "What is the approximate time allocation for the PTE Reading section?",
+    "options": [
+      "15-20 minutes",
+      "30-40 minutes",
+      "50-60 minutes",
+      "70-80 minutes"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The PTE Reading section typically takes about 50-60 minutes, though this can vary slightly based on the specific test version.",
+    "category": "Reading"
+  },
+  {
+    "question": "How many reading task types are in the PTE test?",
+    "options": [
+      "3 task types",
+      "5 task types",
+      "7 task types",
+      "9 task types"
+    ],
+    "correctAnswer": 1,
+    "explanation": "There are 5 main reading task types in the PTE test: Multiple Choice (Single and Multiple Answer), Reorder Paragraphs, Reading & Writing: Fill in the Blanks, and Reading: Fill in the Blanks.",
+    "category": "Reading"
+  },
+  {
+    "question": "What is the purpose of the 'Reorder Paragraphs' task?",
+    "options": [
+      "To test your creative writing abilities",
+      "To assess your understanding of vocabulary",
+      "To assess your understanding of text organization and cohesion",
+      "To test your grammar knowledge"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The purpose of 'Reorder Paragraphs' is to assess your understanding of text organization, cohesion, and the logical flow of ideas.",
+    "category": "Reading"
+  },
+  {
+    "question": "Which reading task tests your ability to identify specific details in a text?",
+    "options": [
+      "Reorder Paragraphs",
+      "Multiple Choice, Single Answer",
+      "Multiple Choice, Multiple Answer",
+      "Both B and C"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Both Multiple Choice, Single Answer and Multiple Choice, Multiple Answer tasks test your ability to identify specific details mentioned in a text.",
+    "category": "Reading"
+  },
+  {
+    "question": "In Reorder Paragraphs, what are linking words?",
+    "options": [
+      "Words that are highlighted in the text",
+      "Words or phrases that help connect ideas between paragraphs, like 'however,' 'furthermore,' or pronouns referencing previously mentioned subjects",
+      "Technical vocabulary specific to the topic",
+      "Words that appear in multiple paragraphs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Linking words are words or phrases like 'however,' 'furthermore,' 'in addition,' or pronouns that create connections between paragraphs and help indicate their proper sequence.",
+    "category": "Reading"
+  },
+  {
+    "question": "What should you look for to identify the first paragraph in Reorder Paragraphs?",
+    "options": [
+      "The longest paragraph",
+      "The paragraph that contains the most technical vocabulary",
+      "A paragraph that introduces a topic without referring to previously mentioned information",
+      "The paragraph with the most linking words"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The first paragraph often introduces a topic or concept without referring to previously mentioned information, and doesn't contain pronouns or references that depend on other paragraphs.",
+    "category": "Reading"
+  },
+  {
+    "question": "Which of these is NOT assessed in Reading: Fill in the Blanks?",
+    "options": [
+      "Vocabulary knowledge",
+      "Grammar understanding",
+      "Speaking pronunciation",
+      "Comprehension of context"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Speaking pronunciation is not assessed in Reading: Fill in the Blanks, which focuses on vocabulary, grammar, and comprehension of context.",
+    "category": "Reading"
+  },
+  {
+    "question": "What approach should you avoid in Multiple Choice, Multiple Answer tasks?",
+    "options": [
+      "Reading the questions before reading the passage",
+      "Carefully evaluating each option against the text",
+      "Selecting options based only on familiar words without verifying in the text",
+      "Eliminating obviously incorrect options first"
+    ],
+    "correctAnswer": 2,
+    "explanation": "You should avoid selecting options just because they contain familiar words from the passage without verifying that they actually match the information in the text.",
+    "category": "Reading"
+  },
+  {
+    "question": "What makes Reading & Writing: Fill in the Blanks particularly challenging?",
+    "options": [
+      "It has more blanks than other tasks",
+      "You must type answers without seeing options, requiring spelling accuracy and precise word recall",
+      "The texts are always technical scientific topics",
+      "You must complete it within 30 seconds per blank"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reading & Writing: Fill in the Blanks is challenging because you must type answers without seeing options, requiring accurate spelling and precise word recall.",
+    "category": "Reading"
+  },
+  {
+    "question": "Which of the following is most helpful when approaching Multiple Choice, Single Answer questions?",
+    "options": [
+      "Selecting the shortest answer option",
+      "Choosing the answer with the most technical vocabulary",
+      "Reading the question before reading the passage",
+      "Always selecting the first option"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Reading the question before reading the passage is helpful because it allows you to focus on finding the relevant information while reading.",
+    "category": "Reading"
+  },
+  {
+    "question": "What is a common trap in Multiple Choice, Multiple Answer questions?",
+    "options": [
+      "Options that contain words from the passage but distort the meaning",
+      "Options that are very short",
+      "Options that use simple vocabulary",
+      "Options written in passive voice"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A common trap is options that contain words or phrases from the passage but distort the meaning or context, making them seem correct at first glance.",
+    "category": "Reading"
+  },
+  {
+    "question": "How are collocations relevant to Reading: Fill in the Blanks?",
+    "options": [
+      "They are not relevant to this task",
+      "Recognizing common word partnerships helps choose the correct words that naturally go together",
+      "They help with paragraph ordering only",
+      "They only matter for scientific texts"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Collocations (words that naturally occur together) are important in Fill in the Blanks because recognizing these common word partnerships helps you select the correct words.",
+    "category": "Reading"
+  },
+  {
+    "question": "What is the most effective approach to answering reading questions within the time limit?",
+    "options": [
+      "Read every word of the passage slowly and carefully",
+      "Skip the passage and guess all answers",
+      "Skim the passage first, then read questions, then scan for specific information",
+      "Read only the first and last sentences of each paragraph"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The most effective approach is to skim the passage first to understand the main idea, then read the questions, and finally scan for specific information to answer each question.",
+    "category": "Reading"
+  },
+  {
+    "question": "Which reading task type contributes to both reading and writing scores?",
+    "options": [
+      "Multiple Choice, Single Answer",
+      "Reorder Paragraphs",
+      "Reading: Fill in the Blanks",
+      "Reading & Writing: Fill in the Blanks"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Reading & Writing: Fill in the Blanks contributes to both reading and writing scores since it tests both comprehension and written production.",
+    "category": "Reading"
+  },
+  {
+    "question": "What is a good strategy for Reading: Fill in the Blanks?",
+    "options": [
+      "Fill in the easiest blanks first, then tackle more difficult ones",
+      "Always choose the shortest word from the options",
+      "Randomly select options to save time",
+      "Always select the most technical-sounding word"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A good strategy is to fill in the easiest blanks first where you're certain of the answer, which can provide context that helps with more difficult blanks.",
+    "category": "Reading"
+  },
+  {
+    "question": "What is the difference between skimming and scanning in reading?",
+    "options": [
+      "They are different words for the same technique",
+      "Skimming means reading every word; scanning means looking only at headings",
+      "Skimming is reading quickly for general meaning; scanning is searching for specific information",
+      "Skimming is for fiction; scanning is for non-fiction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Skimming is reading quickly to get the general meaning and main ideas, while scanning is searching for specific information, keywords, or answers.",
+    "category": "Reading"
+  },
+  {
+    "question": "What aspect of language is particularly important in Reading & Writing: Fill in the Blanks?",
+    "options": [
+      "Pronunciation",
+      "Spelling",
+      "Speaking rate",
+      "Handwriting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Spelling is particularly important in Reading & Writing: Fill in the Blanks since you must type the exact word with correct spelling.",
+    "category": "Reading"
+  },
+  {
+    "question": "How many Reorder Paragraphs tasks can you expect in the PTE test?",
+    "options": [
+      "1-2 tasks",
+      "2-3 tasks",
+      "5-6 tasks",
+      "8-10 tasks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "You can typically expect 2-3 Reorder Paragraphs tasks in the PTE test.",
+    "category": "Reading"
+  },
+  {
+    "question": "What is NOT a common type of academic text you might encounter in PTE Reading?",
+    "options": [
+      "Scientific research articles",
+      "News reports on current events",
+      "Personal creative fiction stories",
+      "Historical analysis of events"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Personal creative fiction stories are not common in PTE Reading, which focuses on academic, non-fiction texts.",
+    "category": "Reading"
+  },
+  {
+    "question": "How should you approach words you don't know in reading passages?",
+    "options": [
+      "Skip the entire paragraph containing unknown words",
+      "Try to understand the meaning from context or word parts",
+      "Randomly guess any question related to that section",
+      "Ask the test administrator for definitions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When encountering unknown words, try to understand their meaning from context, surrounding sentences, or analyzing word parts (prefixes, roots, suffixes).",
+    "category": "Reading"
+  },
+  {
+    "question": "What reading skill is MOST important for Reorder Paragraphs?",
+    "options": [
+      "Speed reading",
+      "Recognizing synonyms",
+      "Understanding cohesion and text structure",
+      "Literary analysis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Understanding cohesion and text structure is most important for Reorder Paragraphs, as you need to recognize how ideas connect across paragraphs.",
+    "category": "Reading"
+  },
+  {
+    "question": "What type of questions are asked in Multiple Choice, Single Answer?",
+    "options": [
+      "Only factual recall questions",
+      "Only vocabulary definition questions",
+      "Various types including main idea, detail, inference, purpose, and tone questions",
+      "Only grammar questions"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Multiple Choice, Single Answer includes various question types including main idea, specific detail, inference, author's purpose, and tone questions.",
+    "category": "Reading"
+  },
+  {
+    "question": "What should you do if two options in Multiple Choice seem correct?",
+    "options": [
+      "Always choose the longer option",
+      "Always choose the first option of the two",
+      "Refer back to the passage and look for specific evidence supporting each option",
+      "Select both options"
+    ],
+    "correctAnswer": 2,
+    "explanation": "If two options seem correct, refer back to the passage and look for specific evidence supporting each option to determine which has the strongest textual support.",
+    "category": "Reading"
+  },
+  {
+    "question": "What is the last paragraph likely to contain in a Reorder Paragraphs task?",
+    "options": [
+      "An introduction to a new topic",
+      "A conclusion, summary, or future implications",
+      "The most detailed technical information",
+      "A question for the reader"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The last paragraph in a Reorder Paragraphs task often contains a conclusion, summary of the discussed points, or discussion of future implications.",
+    "category": "Reading"
+  },
+  {
+    "question": "What is most helpful when determining word choice in Reading: Fill in the Blanks?",
+    "options": [
+      "Choosing the most complicated word available",
+      "Analyzing context, grammar, and collocations",
+      "Selecting words that appear elsewhere in the text",
+      "Choosing the shortest option"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Analyzing the context (meaning), grammar (part of speech needed), and collocations (words that naturally go together) is most helpful for determining correct word choices.",
+    "category": "Reading"
+  },
+  {
+    "question": "How can you improve your speed in the Reading section?",
+    "options": [
+      "Skip all difficult questions",
+      "Read only the first sentence of each paragraph",
+      "Practice skimming, scanning, and strategic reading regularly",
+      "Memorize academic vocabulary lists only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Improve your reading speed by regularly practicing skimming, scanning, and strategic reading techniques with academic texts similar to those in the PTE.",
+    "category": "Reading"
+  },
+  {
+    "question": "What type of words often appear in Reading: Fill in the Blanks?",
+    "options": [
+      "Only nouns",
+      "Only verbs",
+      "Various parts of speech including content and function words",
+      "Only technical vocabulary"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Reading: Fill in the Blanks includes various parts of speech including content words (nouns, verbs, adjectives, adverbs) and function words (prepositions, articles, etc.).",
+    "category": "Reading"
+  },
+  {
+    "question": "How many Multiple Choice, Multiple Answer questions can you expect in the PTE test?",
+    "options": [
+      "1-2 questions",
+      "2-3 questions",
+      "4-6 questions",
+      "7-9 questions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "You can typically expect 2-3 Multiple Choice, Multiple Answer questions in the PTE test.",
+    "category": "Reading"
+  },
+  {
+    "question": "What skill is being tested in Multiple Choice, Multiple Answer tasks?",
+    "options": [
+      "Only your ability to memorize information",
+      "Only your vocabulary knowledge",
+      "Your ability to identify multiple pieces of information and make inferences from a text",
+      "Only your grammar knowledge"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Multiple Choice, Multiple Answer tests your ability to identify multiple pieces of information and make inferences from a text, requiring thorough comprehension.",
+    "category": "Reading"
+  },
+  {
+    "question": "What is partial credit in Multiple Choice, Multiple Answer tasks?",
+    "options": [
+      "You get half credit for attempting the question even if wrong",
+      "You get points for correct options selected, but lose points for incorrect selections",
+      "You only get credit if you select exactly half the options",
+      "There is no partial credit for this task type"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Multiple Choice, Multiple Answer, you receive partial credit for correct options selected, but points are deducted for incorrect selections.",
+    "category": "Reading"
+  },
+  {
+    "question": "What happens if you run out of time in the Reading section?",
+    "options": [
+      "You get extra time automatically",
+      "Only completed questions are scored; unanswered questions receive zero points",
+      "You can continue but with a penalty",
+      "The system randomly selects answers for you"
+    ],
+    "correctAnswer": 1,
+    "explanation": "If you run out of time, only completed questions are scored and unanswered questions receive zero points, so time management is crucial.",
+    "category": "Reading"
+  },
+  {
+    "question": "What types of texts are most common in PTE Reading tasks?",
+    "options": [
+      "Short stories and poems",
+      "Academic texts from textbooks, journals, and magazines",
+      "Personal letters and emails",
+      "Recipe instructions and product manuals"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Academic texts from textbooks, journals, and magazines on topics like science, social sciences, business, and humanities are most common in PTE Reading.",
+    "category": "Reading"
+  },
+  {
+    "question": "Which reading skill is emphasized in the PTE Reading section?",
+    "options": [
+      "Creative interpretation",
+      "Critical analysis of academic texts",
+      "Speed reading fiction",
+      "Memorization of facts"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Critical analysis of academic texts is emphasized, including skills like identifying main ideas, understanding details, recognizing text organization, and making inferences.",
+    "category": "Reading"
+  },
+  {
+    "question": "What is an effective approach for Multiple Choice, Single Answer questions?",
+    "options": [
+      "Read only the first paragraph of the text",
+      "Select the option with the most technical vocabulary",
+      "Read the question first, then the passage, looking for relevant information",
+      "Skip difficult questions to save time"
+    ],
+    "correctAnswer": 2,
+    "explanation": "An effective approach is to read the question first, then read the passage while looking for information relevant to the question.",
+    "category": "Reading"
+  },
+  {
+    "question": "What type of words are typically tested in Reading & Writing: Fill in the Blanks?",
+    "options": [
+      "Only technical vocabulary",
+      "Only proper nouns",
+      "Common academic vocabulary and function words in context",
+      "Only slang and colloquial expressions"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Reading & Writing: Fill in the Blanks typically tests common academic vocabulary and function words (articles, prepositions, etc.) in context.",
+    "category": "Reading"
+  },
+  {
+    "question": "How can you improve your vocabulary for Reading tasks?",
+    "options": [
+      "Memorize the dictionary",
+      "Study only technical scientific terms",
+      "Read widely in academic subjects and learn words in context",
+      "Focus only on grammar rules"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Improve vocabulary by reading widely in academic subjects and learning words in context, focusing on common academic vocabulary.",
+    "category": "Reading"
+  },
+  {
+    "question": "What are context clues in reading?",
+    "options": [
+      "Hints provided by the test administrators",
+      "The surrounding words and sentences that help you understand unknown words or determine correct answers",
+      "The formatting of the text like bold or italics",
+      "The length of the paragraphs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Context clues are the surrounding words and sentences that provide hints about the meaning of unknown words or help determine correct answers.",
+    "category": "Reading"
+  },
+  {
+    "question": "What should you do before selecting your final answer in Reorder Paragraphs?",
+    "options": [
+      "Ask another test-taker for help",
+      "Check that the sequence makes logical sense and creates a coherent text",
+      "Always put the shortest paragraph first",
+      "Always put paragraphs in alphabetical order"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Before finalizing your answer in Reorder Paragraphs, check that the sequence makes logical sense and creates a coherent text with proper flow between paragraphs.",
+    "category": "Reading"
+  },
+  {
+    "question": "How does the adaptive nature of the PTE test affect the Reading section?",
+    "options": [
+      "It doesn't; Reading is not adaptive",
+      "You get harder questions if you answer correctly",
+      "The number of questions changes based on performance",
+      "The time limit changes based on performance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Reading section is not adaptive; all test-takers receive a predetermined set of questions regardless of their performance on previous items.",
+    "category": "Reading"
+  },
+  {
+    "question": "What makes an option incorrect in Multiple Choice questions?",
+    "options": [
+      "It's always the shortest option",
+      "It contradicts information in the text, goes beyond the scope, or distorts meaning",
+      "It uses the exact wording from the passage",
+      "It's always the longest option"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Incorrect options typically contradict information in the text, go beyond the scope of what's stated, or distort the meaning of what's presented.",
+    "category": "Reading"
+  },
+  {
+    "question": "How many Reading: Fill in the Blanks tasks can you expect in the PTE test?",
+    "options": [
+      "1-2 tasks",
+      "2-4 tasks",
+      "5-6 tasks",
+      "8-10 tasks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "You can typically expect 2-4 Reading: Fill in the Blanks tasks in the PTE test.",
+    "category": "Reading"
+  },
+  {
+    "question": "What is an inference question in Multiple Choice tasks?",
+    "options": [
+      "A question that asks what the passage directly states",
+      "A question that asks about information implied but not directly stated in the text",
+      "A question about grammar rules",
+      "A question about the author's credentials"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An inference question asks about information that is implied but not directly stated in the text, requiring you to read between the lines.",
+    "category": "Reading"
+  },
+  {
+    "question": "How many blanks are typically in a Reading & Writing: Fill in the Blanks task?",
+    "options": [
+      "1-2 blanks",
+      "4-5 blanks",
+      "7-10 blanks",
+      "12-15 blanks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A typical Reading & Writing: Fill in the Blanks task contains 4-5 blanks in a passage of 80-100 words.",
+    "category": "Reading"
+  },
+  {
+    "question": "What is the main difference between factual and inference questions?",
+    "options": [
+      "Factual questions are always easier",
+      "Factual questions ask about explicitly stated information; inference questions require reading between the lines",
+      "Factual questions are only about dates and numbers",
+      "Inference questions are only about the author's opinion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Factual questions ask about explicitly stated information that can be directly found in the text, while inference questions require reading between the lines to deduce implied information.",
+    "category": "Reading"
+  },
+  {
+    "question": "What are transition words and why are they important in Reorder Paragraphs?",
+    "options": [
+      "Technical terms that are not important for this task",
+      "Words like 'however,' 'furthermore,' and 'consequently' that indicate relationships between ideas and help determine paragraph order",
+      "Only words that indicate time sequences",
+      "Words that should be ignored when ordering paragraphs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Transition words like 'however,' 'furthermore,' and 'consequently' indicate relationships between ideas and provide crucial clues for determining the correct paragraph order.",
+    "category": "Reading"
+  },
+  {
+    "question": "How many paragraphs are typically included in a Reorder Paragraphs task?",
+    "options": [
+      "2-3 paragraphs",
+      "4-6 paragraphs",
+      "7-9 paragraphs",
+      "10+ paragraphs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A typical Reorder Paragraphs task includes 4-6 paragraphs that need to be arranged in the correct order.",
+    "category": "Reading"
+  },
+  {
+    "question": "Which of these is NOT a useful strategy for Reading: Fill in the Blanks?",
+    "options": [
+      "Reading the entire text first to understand the context",
+      "Considering both grammar and meaning when selecting answers",
+      "Checking if your selected words create a coherent text when read together",
+      "Always selecting the most uncommon or technical word from the options"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Always selecting the most uncommon or technical word is not a useful strategy; instead, choose words that fit grammatically and contextually.",
+    "category": "Reading"
+  },
+  {
+    "question": "What are pronoun references and why are they important in Reorder Paragraphs?",
+    "options": [
+      "They are not important for this task",
+      "Pronouns like 'it,' 'they,' 'this,' that refer back to previously mentioned nouns and help determine paragraph sequence",
+      "They only matter in scientific texts",
+      "They are only found in the first paragraph"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pronoun references (e.g., 'it,' 'they,' 'this') are important because they refer back to previously mentioned nouns, indicating that the paragraph containing the pronoun must come after the paragraph introducing what it refers to.",
+    "category": "Reading"
+  },
+  {
+    "question": "What type of questions in Multiple Choice tasks test critical thinking most directly?",
+    "options": [
+      "Factual recall questions",
+      "Vocabulary questions",
+      "Inference and purpose questions",
+      "Grammar questions"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Inference and purpose questions test critical thinking most directly as they require you to analyze implied meanings and author intentions beyond what's explicitly stated.",
+    "category": "Reading"
+  },
+  {
+    "question": "What does 'reading between the lines' mean in reading comprehension?",
+    "options": [
+      "Literally reading the blank spaces between text lines",
+      "Understanding implied information not directly stated in the text",
+      "Skipping alternate lines to read faster",
+      "Looking for hidden messages in the first letter of each line"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Reading between the lines' means understanding implied information, relationships, or conclusions that are not directly stated but can be inferred from the text.",
+    "category": "Reading"
+  },
+  {
+    "question": "What is a 'red herring' in Multiple Choice questions?",
+    "options": [
+      "A correct answer that's easy to identify",
+      "A misleading option designed to distract you from the correct answer",
+      "A hint provided in the passage",
+      "A type of fish mentioned in passages"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A 'red herring' is a misleading option designed to distract you from the correct answer, often by containing familiar words from the passage but in a different context or meaning.",
+    "category": "Reading"
+  },
+  {
+    "question": "What should you do if you're unsure about an answer in Reading: Fill in the Blanks?",
+    "options": [
+      "Leave it blank",
+      "Make an educated guess based on context and grammar",
+      "Always choose the first option",
+      "Skip to the next question without answering"
+    ],
+    "correctAnswer": 1,
+    "explanation": "If unsure, make an educated guess based on context and grammar since all questions must be answered and there's no penalty for guessing.",
+    "category": "Reading"
+  },
+  {
+    "question": "What is the 'main idea' in reading comprehension?",
+    "options": [
+      "Only the topic of the first paragraph",
+      "The central point or message the author is conveying in the entire passage",
+      "The longest sentence in the text",
+      "Only the conclusion of the passage"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The 'main idea' is the central point or message the author is conveying in the entire passage - the overall concept that ties all the details together.",
+    "category": "Reading"
+  },
+  {
+    "question": "What reading sub-skill is most important for Reading & Writing: Fill in the Blanks?",
+    "options": [
+      "Speed reading",
+      "Understanding vocabulary in context",
+      "Summarizing",
+      "Identifying the author's purpose"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Understanding vocabulary in context is most important for Reading & Writing: Fill in the Blanks, as you need to determine which word fits the context both grammatically and semantically.",
+    "category": "Reading"
+  },
+  {
+    "question": "What are 'distractors' in Multiple Choice questions?",
+    "options": [
+      "Incorrect answer choices designed to seem plausible",
+      "Images included with the passage",
+      "The correct answers",
+      "Additional passages unrelated to the questions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Distractors' are the incorrect answer choices in Multiple Choice questions that are designed to seem plausible to test-takers who haven't fully understood the passage.",
+    "category": "Reading"
+  },
+  {
+    "question": "What is the recommended approach if you find a Reading passage difficult?",
+    "options": [
+      "Skip it entirely",
+      "Read only the first and last sentences",
+      "Skim for general understanding, then focus on parts relevant to questions",
+      "Spend extra time reading every word carefully"
+    ],
+    "correctAnswer": 2,
+    "explanation": "When facing a difficult passage, skim for general understanding first, then focus on parts relevant to the questions rather than getting stuck on every detail.",
+    "category": "Reading"
+  },
+  {
+    "question": "How does the negative marking work in Multiple Choice, Multiple Answer?",
+    "options": [
+      "There is no negative marking",
+      "You lose points for incorrect selections but gain points for correct ones",
+      "You lose points for all answers if any selection is incorrect",
+      "You lose points only if you select more than three options"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Multiple Choice, Multiple Answer, you gain points for correct selections but lose points for incorrect selections, creating a partial credit scoring system.",
+    "category": "Reading"
+  },
+  {
+    "question": "What is the best approach to long reading passages?",
+    "options": [
+      "Read every word slowly and carefully",
+      "Read only the first paragraph",
+      "Skim the passage first, then scan for specific information needed to answer questions",
+      "Skip long passages entirely"
+    ],
+    "correctAnswer": 2,
+    "explanation": "For long passages, skim first to understand the structure and main ideas, then scan for specific information needed to answer questions rather than reading every word.",
+    "category": "Reading"
+  }
+] 
