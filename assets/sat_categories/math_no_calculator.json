@@ -1,0 +1,722 @@
+[
+  {
+    "question": "What is the main purpose of the No Calculator section on the SAT?",
+    "options": [
+      "To make the test harder",
+      "To test conceptual understanding and algebraic fluency",
+      "To save testing time",
+      "To prevent cheating"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The No Calculator section assesses conceptual understanding and algebraic fluency by requiring students to solve problems without calculator assistance, testing their grasp of mathematical principles.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What skills are particularly important for the No Calculator section?",
+    "options": [
+      "Graphing ability and calculator shortcuts",
+      "Mental math, algebraic manipulation, and pattern recognition",
+      "Memorization of formulas only",
+      "Speed typing and estimation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mental math, algebraic manipulation, and pattern recognition are crucial skills for the No Calculator section, as you must solve problems efficiently using algebraic techniques.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What type of algebraic expressions are you expected to manipulate without a calculator?",
+    "options": [
+      "Only linear expressions",
+      "Linear, quadratic, and basic polynomial expressions",
+      "Only expressions with whole number coefficients",
+      "Calculus expressions with derivatives"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The No Calculator section requires manipulation of linear, quadratic, and basic polynomial expressions, testing your ability to perform algebraic operations manually.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What strategy is particularly helpful for the No Calculator section?",
+    "options": [
+      "Guessing on all difficult questions",
+      "Using the quadratic formula for all equations",
+      "Looking for patterns and strategic shortcuts instead of direct calculation",
+      "Trying to mentally visualize a graphing calculator"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Looking for patterns and strategic shortcuts is very helpful in the No Calculator section, as problems are designed to be solvable without extensive calculation when you recognize the most efficient approach.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "Which factoring techniques are important to master for the No Calculator section?",
+    "options": [
+      "Only factoring out the greatest common factor",
+      "Factoring quadratics, difference of squares, and sum/difference of cubes",
+      "Only factoring trinomials",
+      "Only factoring binomials"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Factoring techniques including quadratics, difference of squares (a²-b²), and sum/difference of cubes (a³±b³) are important to master as they provide efficient solutions without calculation.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What is the approximate time allocation for the SAT Math No Calculator section?",
+    "options": [
+      "15 minutes",
+      "25 minutes",
+      "45 minutes",
+      "65 minutes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The SAT Math No Calculator section typically allows 25 minutes to answer 20 questions (15 multiple-choice and 5 grid-in).",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What type of questions make up part of the No Calculator section?",
+    "options": [
+      "Only multiple-choice questions",
+      "Only grid-in questions",
+      "Both multiple-choice and grid-in questions",
+      "Only true/false questions"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The No Calculator section contains both multiple-choice questions and grid-in questions (student-produced responses) where you must determine the exact answer without choices.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What approach is helpful for solving quadratic equations without a calculator?",
+    "options": [
+      "Always use the quadratic formula",
+      "Try factoring first, then use the quadratic formula if needed",
+      "Always complete the square",
+      "Sketch a graph of every quadratic"
+    ],
+    "correctAnswer": 1,
+    "explanation": "For quadratic equations, try factoring first as it's usually quicker. If the quadratic doesn't factor easily, then use the quadratic formula—designed to be computed manually in this section.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "Which of these equation types is NOT commonly featured in the No Calculator section?",
+    "options": [
+      "Linear equations",
+      "Quadratic equations",
+      "Exponential equations",
+      "Differential equations"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Differential equations are not commonly featured in the No Calculator section as they are beyond the scope of the SAT Math content. The section focuses on algebra, functions, and some coordinate geometry.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What mental math skill is particularly valuable in the No Calculator section?",
+    "options": [
+      "The ability to multiply large numbers quickly",
+      "The ability to compute square roots of large numbers",
+      "Recognition of special number relationships (perfect squares, cubes, etc.)",
+      "The ability to compute logarithms mentally"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Recognition of special number relationships like perfect squares, perfect cubes, and common fractions/decimals is valuable as SAT problems often use these 'friendly' numbers to make manual calculation feasible.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What might be a strategic approach to a complex-looking algebraic expression in the No Calculator section?",
+    "options": [
+      "Skip it and come back if there's time",
+      "Look for ways to simplify or factor before doing calculations",
+      "Try all answer choices by substitution",
+      "Estimate an approximate answer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "For complex algebraic expressions, look for ways to simplify or factor before calculating. The SAT often designs problems where strategic simplification reveals a much easier calculation.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What technique is useful for solving systems of linear equations without a calculator?",
+    "options": [
+      "Graphing each equation",
+      "Substitution or elimination methods",
+      "Using matrices",
+      "Trial and error with random values"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Substitution or elimination (addition/subtraction) methods are most useful for solving systems of linear equations without a calculator, as they rely on algebraic manipulation rather than computation.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "Why might a student struggle with the No Calculator section even if they understand the concepts?",
+    "options": [
+      "The questions use advanced mathematical terms",
+      "Computational errors from manual calculations",
+      "The section only tests obscure math topics",
+      "The section uses a different grading scale"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Even students who understand mathematical concepts may struggle with computational errors when performing calculations manually, emphasizing the importance of careful work and checking answers when possible.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "How should you approach fractions in the No Calculator section?",
+    "options": [
+      "Always convert to decimals for easier calculation",
+      "Keep expressions in fraction form when possible to avoid decimal calculations",
+      "Round all fractions to the nearest whole number",
+      "Convert all fractions to percentages"
+    ],
+    "correctAnswer": 1,
+    "explanation": "It's often beneficial to keep expressions in fraction form when possible, as this avoids decimal calculations that are error-prone without a calculator and preserves exact values.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What percentage of the SAT Math questions must be solved without a calculator?",
+    "options": [
+      "About 30%",
+      "About 42%",
+      "About 75%",
+      "100%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "About 42% of SAT Math questions (20 out of 48 total math questions) must be solved without a calculator in the No Calculator section.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "Which of these problems would likely appear in the No Calculator section?",
+    "options": [
+      "A complex word problem requiring multiple calculations with decimals",
+      "A problem involving analysis of a large data set",
+      "Solving a quadratic equation with integer coefficients",
+      "A problem requiring statistical analysis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Solving a quadratic equation with integer coefficients would likely appear in the No Calculator section, as it tests algebraic fluency and can be solved efficiently through factoring or the quadratic formula.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What is the best approach to simplifying radical expressions without a calculator?",
+    "options": [
+      "Convert all radicals to decimal approximations",
+      "Identify perfect square factors and simplify step by step",
+      "Leave all radicals in their original form",
+      "Round radical expressions to the nearest whole number"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The best approach to simplifying radical expressions is to identify perfect square factors and simplify step by step, such as rewriting √20 as √(4×5), which simplifies to 2√5.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "How can you efficiently check your work in the No Calculator section?",
+    "options": [
+      "You can't check work without a calculator",
+      "Estimate reasonable ranges for answers and verify steps work in reverse",
+      "Only check the final answer",
+      "Check only multiple-choice questions by testing each option"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Efficiently check work by estimating reasonable ranges for answers and verifying steps work in reverse (e.g., for equations, substitute your solution back into the original equation).",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What is a common mistake in the No Calculator section?",
+    "options": [
+      "Working too slowly and methodically",
+      "Making computational errors due to rushing",
+      "Using too many formulas",
+      "Drawing too many diagrams"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A common mistake is making computational errors due to rushing through calculations that would normally be done with a calculator. Working carefully is essential to avoid simple arithmetic mistakes.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "For grid-in questions in the No Calculator section, what format issue might cause errors?",
+    "options": [
+      "Using the wrong pencil type",
+      "Writing too neatly",
+      "Entering answers in the wrong format (e.g., as a decimal when a fraction is more accurate)",
+      "Using uppercase instead of lowercase letters"
+    ],
+    "correctAnswer": 2,
+    "explanation": "For grid-in questions, entering answers in the wrong format can cause errors. Some answers are best expressed as fractions rather than rounded decimals, which could be marked incorrect if imprecisely converted.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What is the best approach to simplifying expressions with multiple operations?",
+    "options": [
+      "Always work from left to right",
+      "Follow PEMDAS (Parentheses, Exponents, Multiplication/Division, Addition/Subtraction)",
+      "Start with addition and subtraction",
+      "Ignore order of operations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Following PEMDAS ensures correct order of operations: Parentheses first, then Exponents, then Multiplication and Division (from left to right), finally Addition and Subtraction (from left to right).",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What is the most efficient way to solve a quadratic equation when the leading coefficient is not 1?",
+    "options": [
+      "Always use the quadratic formula",
+      "Try factoring by grouping first",
+      "Multiply everything by the reciprocal of the leading coefficient",
+      "Graph the equation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When the leading coefficient is not 1, trying factoring by grouping first can be more efficient than jumping straight to the quadratic formula, especially if the coefficients are carefully chosen for factoring.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What strategy works best for solving systems of equations without a calculator?",
+    "options": [
+      "Always use substitution",
+      "Always use elimination",
+      "Choose substitution or elimination based on the coefficients",
+      "Graph both equations"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Choose between substitution and elimination based on the coefficients - use elimination when coefficients can easily be made equal, use substitution when one variable has a coefficient of 1.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What is the best approach to working with radical expressions?",
+    "options": [
+      "Always try to convert to decimals",
+      "Simplify under the radical first, then combine like terms",
+      "Add radicals first, then simplify",
+      "Leave all radicals in their original form"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When working with radical expressions, simplify under the radical first by finding perfect square factors, then combine like terms. This maintains exact values and reduces computational complexity.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "How should you handle complex fractions without a calculator?",
+    "options": [
+      "Convert everything to decimals",
+      "Multiply numerator and denominator by the LCD",
+      "Add all numerators and denominators separately",
+      "Always cross multiply"
+    ],
+    "correctAnswer": 1,
+    "explanation": "For complex fractions, multiply both numerator and denominator by the LCD (Least Common Denominator) to simplify the expression into a single fraction.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What is the most efficient way to solve proportion problems without a calculator?",
+    "options": [
+      "Convert everything to decimals",
+      "Cross multiply and solve the resulting equation",
+      "Use mental math for all calculations",
+      "Convert to percentages"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cross multiply and solve the resulting equation is most efficient for proportions, as it maintains exact values and often results in simpler calculations than decimal conversions.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What strategy works best for factoring the difference of squares?",
+    "options": [
+      "Use the quadratic formula",
+      "Recognize the pattern a² - b² = (a+b)(a-b)",
+      "Convert to decimal form",
+      "Graph the equation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Recognizing and applying the pattern a² - b² = (a+b)(a-b) is the most efficient way to factor differences of squares, making many problems much simpler.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What is the best way to handle equations with fractions without a calculator?",
+    "options": [
+      "Convert all fractions to decimals",
+      "Multiply all terms by the LCD to clear fractions",
+      "Add all fractions first",
+      "Leave fractions as they are"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Multiply all terms by the LCD (Least Common Denominator) to clear fractions, which simplifies the equation and maintains exact values without requiring decimal calculations.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What approach works best for factoring trinomials where a ≠ 1?",
+    "options": [
+      "Always use the quadratic formula",
+      "Multiply by 1/a first",
+      "Use the grouping method (multiply a and c, find factors that add to b)",
+      "Convert to decimal form"
+    ],
+    "correctAnswer": 2,
+    "explanation": "For trinomials where a ≠ 1, use the grouping method: multiply a and c, find factors that add to b, then factor by grouping. This method is often more efficient than other approaches.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What is the most efficient way to solve absolute value equations?",
+    "options": [
+      "Graph the equation",
+      "Consider both positive and negative cases separately",
+      "Convert to decimal form",
+      "Use the quadratic formula"
+    ],
+    "correctAnswer": 1,
+    "explanation": "For absolute value equations, consider both positive and negative cases separately by writing two equations, one for when the expression is positive and one for when it's negative.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What is the most efficient way to solve quadratic equations by factoring?",
+    "options": [
+      "Always use the quadratic formula",
+      "Look for common factors first, then try factoring by grouping",
+      "Convert to decimal form",
+      "Graph the equation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Looking for common factors first, then trying factoring by grouping is the most efficient approach to factoring quadratic equations without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "How should you approach simplifying complex algebraic fractions?",
+    "options": [
+      "Convert to decimals",
+      "Factor numerator and denominator, then cancel common factors",
+      "Add all terms first",
+      "Always cross multiply"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Factoring both numerator and denominator and then canceling common factors is the most efficient way to simplify complex algebraic fractions without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What is the best strategy for solving systems of equations mentally?",
+    "options": [
+      "Always use substitution",
+      "Choose elimination or substitution based on coefficient patterns",
+      "Always use graphing",
+      "Convert to decimals"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Choosing between elimination or substitution based on coefficient patterns helps solve systems of equations efficiently without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "How should you handle expressions with radicals without a calculator?",
+    "options": [
+      "Convert to decimals",
+      "Simplify under the radical first, then combine like terms",
+      "Leave all radicals as is",
+      "Round to whole numbers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Simplifying under the radical first, then combining like terms helps manage radical expressions efficiently without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What approach works best for factoring polynomials with a leading coefficient ≠ 1?",
+    "options": [
+      "Always use quadratic formula",
+      "Use the grouping method (ac method)",
+      "Convert to decimals",
+      "Guess and check"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using the grouping method (ac method) is most efficient for factoring polynomials with leading coefficient ≠ 1 without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "How should you solve equations with fractions without a calculator?",
+    "options": [
+      "Convert to decimals",
+      "Multiply all terms by the LCD to clear fractions",
+      "Add fractions first",
+      "Round to whole numbers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Multiplying all terms by the LCD (Least Common Denominator) to clear fractions makes solving equations easier without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What strategy works best for factoring the sum/difference of cubes?",
+    "options": [
+      "Use quadratic formula",
+      "Use the pattern a³±b³ = (a±b)(a²∓ab+b²)",
+      "Convert to decimals",
+      "Graph the equation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using the pattern a³±b³ = (a±b)(a²∓ab+b²) is the most efficient way to factor sum/difference of cubes without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "How should you handle complex numbers without a calculator?",
+    "options": [
+      "Convert to decimals",
+      "Use i² = -1 and combine like terms",
+      "Avoid complex numbers",
+      "Round to real numbers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using i² = -1 and combining like terms helps manage complex number operations efficiently without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What is the best approach to solving absolute value equations?",
+    "options": [
+      "Convert to decimals",
+      "Split into two equations and solve each case",
+      "Graph equations",
+      "Guess and check"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Splitting absolute value equations into two equations (positive and negative cases) is the most efficient solution method without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "How should you simplify expressions with multiple operations?",
+    "options": [
+      "Work left to right",
+      "Follow PEMDAS strictly and combine like terms",
+      "Start with addition",
+      "Convert to decimals"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Following PEMDAS strictly and combining like terms ensures accurate simplification of expressions with multiple operations without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What strategy works best for solving quadratic inequalities?",
+    "options": [
+      "Convert to decimals",
+      "Find zeros and test intervals",
+      "Always graph",
+      "Guess and check"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Finding zeros and testing intervals is the most efficient way to solve quadratic inequalities without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "How should you handle polynomial division without a calculator?",
+    "options": [
+      "Convert to decimals",
+      "Use synthetic division or polynomial long division systematically",
+      "Guess and check",
+      "Round coefficients"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using synthetic division or polynomial long division systematically is the most efficient way to perform polynomial division without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What approach works best for solving rational equations?",
+    "options": [
+      "Convert to decimals",
+      "Multiply by LCD and solve resulting polynomial equation",
+      "Graph equations",
+      "Guess and check"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Multiplying by the LCD and solving the resulting polynomial equation is the most efficient way to solve rational equations without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "How should you handle exponent rules without a calculator?",
+    "options": [
+      "Convert to decimals",
+      "Apply rules systematically and simplify step by step",
+      "Guess approximate values",
+      "Round to whole numbers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Applying exponent rules systematically and simplifying step by step ensures accurate calculations without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What strategy works best for solving systems of linear equations?",
+    "options": [
+      "Always use substitution",
+      "Choose method based on coefficient patterns",
+      "Always use elimination",
+      "Convert to decimals"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Choosing the method (substitution or elimination) based on coefficient patterns makes solving systems of linear equations more efficient without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "How should you approach factoring perfect square trinomials?",
+    "options": [
+      "Use quadratic formula",
+      "Recognize the pattern a²±2ab+b² = (a±b)²",
+      "Convert to decimals",
+      "Graph the equation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Recognizing the pattern a²±2ab+b² = (a±b)² makes factoring perfect square trinomials efficient without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What is the best way to solve equations with radicals?",
+    "options": [
+      "Convert to decimals",
+      "Isolate radical, square both sides, check for extraneous solutions",
+      "Graph equations",
+      "Guess and check"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Isolating the radical, squaring both sides, and checking for extraneous solutions is the most reliable method without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "How should you handle completing the square?",
+    "options": [
+      "Use quadratic formula",
+      "Factor out GCF, halve b coefficient, square it",
+      "Convert to decimals",
+      "Graph equation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Factoring out the GCF, halving the b coefficient, and squaring it is the systematic approach to completing the square without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What strategy works best for factoring by grouping?",
+    "options": [
+      "Use quadratic formula",
+      "Group terms in pairs, factor out GCF from each group",
+      "Convert to decimals",
+      "Graph equation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Grouping terms in pairs and factoring out the GCF from each group is the systematic approach to factoring by grouping without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "How should you solve equations with variables on both sides?",
+    "options": [
+      "Convert to decimals",
+      "Collect like terms on each side, then isolate variable",
+      "Graph equations",
+      "Guess and check"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Collecting like terms on each side and then isolating the variable is the most efficient method without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What approach works best for solving proportion problems?",
+    "options": [
+      "Convert to decimals",
+      "Cross multiply and solve resulting equation",
+      "Use estimation",
+      "Round numbers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cross multiplying and solving the resulting equation is the most efficient way to solve proportion problems without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "How should you handle simplifying complex expressions?",
+    "options": [
+      "Convert to decimals",
+      "Work step by step, following order of operations",
+      "Estimate values",
+      "Round numbers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Working step by step and following order of operations ensures accurate simplification of complex expressions without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What strategy works best for solving literal equations?",
+    "options": [
+      "Convert to numbers",
+      "Treat variables like numbers, solve for target variable",
+      "Graph equations",
+      "Guess and check"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Treating variables like numbers and solving for the target variable is the most efficient approach to literal equations without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "How should you approach factoring sum/difference of squares?",
+    "options": [
+      "Use quadratic formula",
+      "Use the pattern a²-b² = (a+b)(a-b)",
+      "Convert to decimals",
+      "Graph equation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using the pattern a²-b² = (a+b)(a-b) is the most efficient way to factor sum/difference of squares without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What is the best way to solve systems of equations with fractions?",
+    "options": [
+      "Convert to decimals",
+      "Multiply equations by LCD first, then solve",
+      "Graph equations",
+      "Guess and check"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Multiplying equations by the LCD first, then solving the resulting system is most efficient without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "How should you handle equations with multiple variables?",
+    "options": [
+      "Convert to decimals",
+      "Isolate one variable in terms of others systematically",
+      "Graph equations",
+      "Guess and check"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Isolating one variable in terms of others systematically is the most efficient approach without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What strategy works best for solving polynomial inequalities?",
+    "options": [
+      "Convert to decimals",
+      "Find zeros, test intervals, use number line",
+      "Graph inequalities",
+      "Guess and check"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Finding zeros, testing intervals, and using a number line is the most efficient way to solve polynomial inequalities without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "How should you approach simplifying nested radicals?",
+    "options": [
+      "Convert to decimals",
+      "Work from inside out, simplify each level",
+      "Estimate values",
+      "Round numbers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Working from inside out and simplifying each level is the most systematic approach to nested radicals without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "What is the best method for solving equations with absolute values?",
+    "options": [
+      "Convert to decimals",
+      "Create two equations and solve each case",
+      "Graph equations",
+      "Guess and check"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Creating two equations (positive and negative cases) and solving each is the most reliable method without a calculator.",
+    "category": "Math - No Calculator"
+  },
+  {
+    "question": "How should you handle complex fractions without a calculator?",
+    "options": [
+      "Convert to decimals",
+      "Multiply numerator and denominator by LCD",
+      "Estimate values",
+      "Round numbers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Multiplying both numerator and denominator by the LCD is the most efficient way to simplify complex fractions without a calculator.",
+    "category": "Math - No Calculator"
+  }
+] 

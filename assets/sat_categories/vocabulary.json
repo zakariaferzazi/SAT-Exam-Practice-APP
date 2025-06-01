@@ -1,0 +1,698 @@
+[
+  {
+    "question": "What type of vocabulary is most commonly tested on the SAT?",
+    "options": [
+      "Scientific terminology",
+      "Archaic or obsolete words",
+      "Words with multiple meanings used in context",
+      "Specialized jargon from academic disciplines"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The SAT primarily tests words with multiple meanings used in context, focusing on your ability to determine the specific meaning of a word based on how it's used in a passage.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is the most effective approach to SAT vocabulary questions?",
+    "options": [
+      "Memorize as many obscure words as possible",
+      "Skip all vocabulary questions",
+      "Read the surrounding context carefully to determine the word's specific usage",
+      "Choose the most complicated-sounding definition"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The most effective approach is to read the surrounding context carefully to determine how the word is being used specifically in that passage, rather than relying on memorized definitions.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What are 'words in context' questions on the SAT?",
+    "options": [
+      "Questions that ask for definitions of words in isolation",
+      "Questions that test your ability to determine a word's meaning based on how it's used in a passage",
+      "Questions that ask you to spell words correctly",
+      "Questions about grammatical usage"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Words in context' questions test your ability to determine a word's specific meaning based on how it's used in a passage, often focusing on common words with multiple possible meanings.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is a 'connotation' of a word?",
+    "options": [
+      "The literal dictionary definition",
+      "The emotional or cultural association that a word carries beyond its literal meaning",
+      "The part of speech of a word",
+      "The origin or etymology of a word"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A word's connotation is the emotional or cultural association it carries beyond its literal definition. For example, 'frugal' and 'cheap' have similar literal meanings but different connotations.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is a synonym?",
+    "options": [
+      "A word that means the opposite of another word",
+      "A word with multiple meanings",
+      "A word that sounds like another word but has a different meaning",
+      "A word that means the same or nearly the same as another word"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A synonym is a word that means the same or nearly the same as another word. For example, 'happy' and 'joyful' are synonyms. Understanding synonyms helps with vocabulary questions and varied word choice.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is an antonym?",
+    "options": [
+      "A word that means the opposite of another word",
+      "A word with the same meaning as another word",
+      "A word that sounds like another word",
+      "A word derived from another language"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An antonym is a word that means the opposite of another word. For example, 'happy' and 'sad' are antonyms. Understanding antonyms helps with process of elimination on vocabulary questions.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is the best way to improve vocabulary for the SAT?",
+    "options": [
+      "Memorize a list of random difficult words",
+      "Read widely from quality sources and learn words in context",
+      "Only study scientific terminology",
+      "Focus on memorizing word spellings"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The best way to improve vocabulary is to read widely from quality sources (literature, newspaper articles, science texts) and learn words in context, which is how the SAT tests vocabulary knowledge.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What does it mean when a word has a 'nuanced' meaning?",
+    "options": [
+      "The word is very old and rarely used",
+      "The word has subtle shades of meaning that might be difficult to distinguish",
+      "The word comes from a foreign language",
+      "The word has only one possible definition"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A word with 'nuanced' meaning has subtle shades or distinctions that might be difficult to distinguish. The SAT often tests your ability to recognize these fine distinctions in word meanings.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is a 'root word'?",
+    "options": [
+      "A word that only appears at the beginning of a sentence",
+      "The original form of a word before any prefixes or suffixes are added",
+      "A word with a botanical meaning",
+      "A word that can't be defined"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A root word is the basic form of a word before any prefixes or suffixes are added. Understanding root words, especially from Latin and Greek, helps decipher unfamiliar vocabulary on the SAT.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What strategy can help when you encounter an unfamiliar word in a passage?",
+    "options": [
+      "Skip the question entirely",
+      "Choose the most complicated-sounding answer",
+      "Look for context clues in surrounding sentences and make an educated guess",
+      "Assume it has the same meaning as similar-looking words"
+    ],
+    "correctAnswer": 2,
+    "explanation": "When encountering an unfamiliar word, look for context clues in surrounding sentences that might indicate its meaning, such as examples, definitions, synonyms, or the general tone of the passage.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is a 'prefix' in vocabulary?",
+    "options": [
+      "The main part of a word",
+      "A word element added to the beginning of a root word to change its meaning",
+      "The plural form of a word",
+      "The origin of a word"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A prefix is a word element added to the beginning of a root word to change its meaning. Common prefixes include 'un-' (not), 're-' (again), 'pre-' (before), and 'mis-' (wrongly).",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is a 'suffix' in vocabulary?",
+    "options": [
+      "The main part of a word",
+      "A word element added to the end of a root word to change its meaning or part of speech",
+      "The first part of a word",
+      "A type of punctuation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A suffix is a word element added to the end of a root word to change its meaning or part of speech. Common suffixes include '-able' (capable of), '-tion' (process/state), and '-ly' (in what manner).",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What does it mean to use a word 'figuratively'?",
+    "options": [
+      "To use a word according to its exact literal meaning",
+      "To use a word in a way that makes a comparison or suggests a meaning beyond the literal",
+      "To use a word incorrectly",
+      "To use a word from a different language"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using a word figuratively means using it in a way that makes a comparison or suggests a meaning beyond the literal. For example, 'Her heart was stone' uses 'stone' figuratively to suggest hardness or lack of emotion.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is 'denotation' of a word?",
+    "options": [
+      "The emotional associations of a word",
+      "The literal or dictionary definition of a word",
+      "The origin of a word",
+      "The pronunciation of a word"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A word's denotation is its literal or dictionary definition, as opposed to its connotation (emotional associations). Understanding both helps with precise vocabulary usage and interpretation.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is the value of understanding word roots from Latin and Greek?",
+    "options": [
+      "It helps only with scientific terminology",
+      "It's not helpful for modern English",
+      "It helps decipher unfamiliar words by recognizing common meaning-bearing parts",
+      "It's only useful for studying foreign languages"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Understanding Latin and Greek roots helps decipher unfamiliar words by recognizing common meaning-bearing parts. For example, knowing 'bio' means 'life' helps with words like biology, biography, and biodiversity.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is the difference between 'affect' and 'effect' in vocabulary usage?",
+    "options": [
+      "They are interchangeable",
+      "One is a noun and one is a verb in most common usage",
+      "One is formal and one is informal",
+      "One is positive and one is negative"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In most common usage, 'affect' is a verb meaning to influence (The weather affected my mood) and 'effect' is a noun meaning result (The effect was immediate). This distinction is frequently tested on the SAT.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What are context clues in reading?",
+    "options": [
+      "Hints about a word's meaning provided by the surrounding text",
+      "Clues hidden in pictures or diagrams",
+      "Information provided by the teacher",
+      "Definitions printed in the margins"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Context clues are hints about a word's meaning provided by the surrounding text, such as definitions, examples, synonyms, antonyms, or the general tone and purpose of the passage.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is a 'collocation' in vocabulary?",
+    "options": [
+      "A spelling error",
+      "A group of words that often go together in a way that sounds natural",
+      "A type of punctuation mark",
+      "A word with multiple meanings"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A collocation is a group of words that naturally occur together in a language. For example, we say 'heavy rain' not 'strong rain,' and 'make a mistake' not 'do a mistake.' Understanding collocations improves precision in language use.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is the difference between 'explicit' and 'implicit' information?",
+    "options": [
+      "Explicit is written; implicit is spoken",
+      "Explicit is clearly stated; implicit is suggested but not directly stated",
+      "Explicit is important; implicit is unimportant",
+      "Explicit is in the introduction; implicit is in the conclusion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Explicit information is clearly and directly stated in the text. Implicit information is suggested, implied, or inferred from the text but not directly stated. Both vocabulary types are important for reading comprehension.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What are 'transition words' in vocabulary?",
+    "options": [
+      "Words that are changing their spelling",
+      "Words that connect ideas and show relationships between sentences and paragraphs",
+      "Words that have multiple pronunciations",
+      "Words that are becoming obsolete"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Transition words connect ideas and show relationships between sentences and paragraphs. Examples include 'however,' 'therefore,' 'in addition,' and 'consequently.' They're important for understanding the logical flow of a text.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is a 'homonym'?",
+    "options": [
+      "A word that sounds the same as another word but has a different meaning and may have different spelling",
+      "A word that means the same as another word",
+      "A word with multiple meanings",
+      "A word derived from a person's name"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A homonym is a word that sounds the same as another word but has a different meaning and possibly different spelling. Examples include 'their/there/they're' and 'to/too/two.' Recognizing homonyms helps avoid confusion in reading and writing.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is a 'euphemism'?",
+    "options": [
+      "A harsh, negative word",
+      "A technical term",
+      "A mild or indirect word used in place of one considered harsh, blunt, or offensive",
+      "A word borrowed from another language"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A euphemism is a mild or indirect word or expression used in place of one considered harsh, blunt, or offensive. For example, saying 'passed away' instead of 'died' or 'let go' instead of 'fired.' Recognizing euphemisms helps understand tone and intent.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is an 'allusion' in vocabulary usage?",
+    "options": [
+      "A direct comparison using 'like' or 'as'",
+      "An indirect reference to something, typically from literature, history, or mythology",
+      "A contradiction in terms",
+      "A word with the same meaning as another word"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An allusion is an indirect reference to something, typically from literature, history, or mythology. For example, calling someone a 'Romeo' alludes to Shakespeare's character. Recognizing allusions depends on cultural and literary knowledge.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is 'jargon'?",
+    "options": [
+      "Specialized vocabulary used by people in a particular profession or group",
+      "Vocabulary that everyone understands",
+      "Words that are no longer used in modern language",
+      "Slang terms used only by teenagers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Jargon is specialized vocabulary used by people in a particular profession, field, or group. Examples include medical jargon ('myocardial infarction' for heart attack) or legal jargon ('pursuant to'). The SAT may test your ability to interpret jargon in context.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is the difference between 'infer' and 'imply'?",
+    "options": [
+      "They mean exactly the same thing",
+      "Infer means to state indirectly; imply means to draw a conclusion",
+      "Infer means to draw a conclusion; imply means to suggest something indirectly",
+      "Infer is for written communication; imply is for verbal communication"
+    ],
+    "correctAnswer": 2,
+    "explanation": "To infer is to draw a conclusion based on evidence or reasoning (the reader infers meaning). To imply is to suggest something indirectly (the writer implies meaning). Understanding this distinction helps with precision in reading and writing.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is 'hyperbole'?",
+    "options": [
+      "An understatement for effect",
+      "Extreme exaggeration not meant to be taken literally",
+      "A technical mathematical term",
+      "A word that means the same as another word"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hyperbole is extreme exaggeration not meant to be taken literally, used for emphasis or effect. Examples include 'I'm so hungry I could eat a horse' or 'I've told you a million times.' Recognizing hyperbole helps interpret tone and intention.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What does it mean when a word is 'archaic'?",
+    "options": [
+      "The word is commonly used in everyday speech",
+      "The word is no longer in ordinary use but might be found in literature",
+      "The word has multiple meanings",
+      "The word has a negative connotation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An archaic word is one that is no longer in ordinary use but might still be found in literary texts or historical documents. Examples include 'thou' (you), 'wherefore' (why), and 'betwixt' (between). The SAT might include archaic words in literature passages.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is the best way to handle unfamiliar vocabulary in SAT reading passages?",
+    "options": [
+      "Skip the entire passage",
+      "Try to determine the word's meaning from context and continue reading",
+      "Look for the exact definition in another part of the test",
+      "Assume the word isn't important to understanding the passage"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When encountering unfamiliar vocabulary, try to determine the word's meaning from context and continue reading. Often, you can understand the main ideas of a passage even without knowing every word. The SAT tests your ability to use context to figure out unfamiliar terms.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is the 'tone' of a passage in relation to vocabulary?",
+    "options": [
+      "The volume at which the passage should be read aloud",
+      "The attitude or feeling conveyed by the author's word choice",
+      "The number of syllables in each word",
+      "The complexity level of the vocabulary used"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tone refers to the attitude or feeling conveyed by the author's word choice. For example, vocabulary can create a formal, informal, serious, humorous, optimistic, or pessimistic tone. Recognizing tone helps understand the author's purpose and perspective.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What does it mean for a word to have 'positive connotation'?",
+    "options": [
+      "The word has a scientific meaning",
+      "The word evokes favorable or pleasant feelings beyond its literal meaning",
+      "The word has more than one meaning in the dictionary",
+      "The word is spelled with a plus sign"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A word with positive connotation evokes favorable or pleasant feelings beyond its literal meaning. For example, 'confident' vs. 'cocky' or 'thrifty' vs. 'cheap.' Understanding connotation helps interpret subtle differences in meaning and tone.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is a 'compound word'?",
+    "options": [
+      "A word with more than five syllables",
+      "A word formed by combining two or more words",
+      "A word that can be used as multiple parts of speech",
+      "A word found only in compound sentences"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A compound word is formed by combining two or more words. Examples include 'bathroom' (bath + room), 'sunflower' (sun + flower), and 'nevertheless' (never + the + less). Compound words can be written as one word, hyphenated, or separate words.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is an 'oxymoron'?",
+    "options": [
+      "A word spelled the same forward and backward",
+      "A figure of speech that combines contradictory terms",
+      "A word with multiple meanings",
+      "A phrase with more than ten words"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An oxymoron is a figure of speech that combines contradictory terms for effect. Examples include 'jumbo shrimp,' 'deafening silence,' and 'living dead.' Recognizing oxymorons helps understand deliberate contradictions used for emphasis or to reveal a paradox.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is 'onomatopoeia'?",
+    "options": [
+      "Words that sound like what they describe",
+      "Words with opposite meanings",
+      "Words with the same spelling but different meanings",
+      "Words derived from proper nouns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Onomatopoeia refers to words that sound like what they describe or represent. Examples include 'buzz,' 'splash,' 'meow,' and 'boom.' Recognizing onomatopoeia helps understand how authors use sound devices to create vivid sensory experiences.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is the 'etymology' of a word?",
+    "options": [
+      "The part of speech it represents",
+      "Its history and origin",
+      "Its current popularity in common usage",
+      "Its pronunciation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Etymology is the study of the history and origin of words, including how their form and meaning have changed over time. Understanding etymology can help decode unfamiliar words by recognizing roots, prefixes, and suffixes from Latin, Greek, and other languages.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is the difference between 'denotation' and 'connotation'?",
+    "options": [
+      "Denotation is for nouns; connotation is for verbs",
+      "Denotation is the literal meaning; connotation is the emotional association",
+      "Denotation is formal; connotation is informal",
+      "Denotation is modern; connotation is archaic"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Denotation is the literal, dictionary definition of a word. Connotation is the emotional or cultural association beyond the literal meaning. For example, 'home' denotes a place where one lives, but connotes comfort, belonging, and security.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What are 'cognates' in vocabulary study?",
+    "options": [
+      "Words that have opposite meanings",
+      "Words that have the same linguistic derivation or origin",
+      "Words that are frequently misspelled",
+      "Words that have fallen out of common usage"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cognates are words that have the same linguistic derivation or origin, often similar in spelling and meaning across languages. For example, 'family' (English), 'familia' (Spanish), and 'famille' (French). Recognizing cognates can help understand unfamiliar words, especially in Latin-based vocabulary.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is a 'malapropism'?",
+    "options": [
+      "A correctly used but uncommon word",
+      "The use of a word that sounds similar to the intended word but has a different meaning, often with humorous effect",
+      "A newly coined word not yet in the dictionary",
+      "A word that has multiple correct pronunciations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A malapropism is the mistaken use of a word that sounds similar to the intended word but has a different meaning, often creating a humorous effect. For example, saying 'dance the flamingo' instead of 'flamenco' or 'He's the pineapple of success' instead of 'pinnacle.'",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is the importance of understanding 'context' for SAT vocabulary questions?",
+    "options": [
+      "Context isn't important since vocabulary words have fixed meanings",
+      "Context helps determine which definition of a word with multiple meanings is being used",
+      "Context only matters for scientific terms",
+      "Context is only relevant for words derived from Latin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Understanding context is crucial for SAT vocabulary questions because many words have multiple meanings, and the test assesses your ability to determine which specific definition applies based on how the word is used in the passage.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is 'personification' in vocabulary usage?",
+    "options": [
+      "Using a person's name as a verb",
+      "Creating new words based on people's names",
+      "Attributing human characteristics to non-human things",
+      "Writing autobiographical stories"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Personification is a figure of speech that attributes human characteristics to non-human things. Examples include 'The wind whispered' or 'Time marches on.' Recognizing personification helps understand figurative language and imagery in reading passages.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is a 'portmanteau' word?",
+    "options": [
+      "A word borrowed from French",
+      "A very long, technical word",
+      "A word created by blending parts of two or more words",
+      "A word that has become outdated"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A portmanteau is a word created by blending parts of two or more words. Examples include 'brunch' (breakfast + lunch), 'smog' (smoke + fog), and 'podcast' (iPod + broadcast). Recognizing portmanteau words shows how language evolves and creates new terminology.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What are 'homophones'?",
+    "options": [
+      "Words with the same meaning",
+      "Words that sound alike but have different meanings and spellings",
+      "Words spelled the same but with different meanings",
+      "Words with opposite meanings"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Homophones are words that sound alike but have different meanings and spellings. Examples include 'their/there/they're', 'to/too/two', and 'right/write/rite'. Distinguishing between homophones is important for correct writing and precise reading comprehension.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What are 'homographs'?",
+    "options": [
+      "Words with the same meaning",
+      "Words that sound alike but have different meanings",
+      "Words spelled the same but with different meanings and possibly pronunciations",
+      "Words with opposite meanings"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Homographs are words spelled the same but with different meanings and sometimes different pronunciations. Examples include 'bass' (fish vs. music), 'lead' (metal vs. to guide), and 'bow' (to bend vs. front of a ship). Context helps determine which meaning is intended.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is a 'neologism'?",
+    "options": [
+      "A word derived from Greek or Latin roots",
+      "A newly coined word or expression",
+      "A word used in scientific terminology",
+      "A word that has fallen out of common usage"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A neologism is a newly coined word or expression. Examples include 'selfie', 'podcast', and 'blog'. Neologisms often emerge to describe new technologies, cultural phenomena, or concepts. The SAT may include recent neologisms that have become widely accepted.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is 'irony' in vocabulary and language use?",
+    "options": [
+      "Using words that sound sophisticated",
+      "A situation where the intended meaning is the opposite of what is said",
+      "Using words with negative connotations",
+      "Using the same word repeatedly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Irony involves a situation, expression, or outcome that is the opposite of what might be expected. Verbal irony is saying one thing but meaning another (often the opposite). Recognizing irony helps understand subtle humor, criticism, or complexity in texts.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is 'metonymy' in vocabulary usage?",
+    "options": [
+      "The literal meaning of a word",
+      "Using a word that rhymes with another word",
+      "Using a word to represent something closely associated with it",
+      "Using a word derived from someone's name"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Metonymy is a figure of speech where a word or phrase is substituted for another with which it's closely associated. Examples include 'The White House' (for the U.S. president/administration), 'the crown' (for monarchy), or 'Hollywood' (for the film industry).",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is the difference between 'prescriptive' and 'descriptive' approaches to vocabulary?",
+    "options": [
+      "Prescriptive refers to medical terminology; descriptive refers to visual terminology",
+      "Prescriptive dictates how language should be used; descriptive explains how it is actually used",
+      "Prescriptive is for fiction; descriptive is for non-fiction",
+      "Prescriptive is for formal writing; descriptive is for informal writing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A prescriptive approach dictates how language should be used according to established rules. A descriptive approach explains how language is actually used by people. The SAT tends to test standard English usage but may acknowledge common descriptive patterns.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is 'colloquial' vocabulary?",
+    "options": [
+      "Words used only in academic writing",
+      "Words found in standard dictionaries",
+      "Words and phrases used in everyday, informal conversation",
+      "Words borrowed from other languages"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Colloquial vocabulary refers to words and phrases used in everyday, informal conversation rather than formal speech or writing. Examples include 'guy', 'awesome', 'hang out'. The SAT may include colloquialisms in certain passage types but typically expects formal language in your writing.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is 'register' in vocabulary usage?",
+    "options": [
+      "The historical record of a word's meanings",
+      "The level of formality or informality of language used in a specific context",
+      "The number of times a word appears in a text",
+      "The part of speech of a word"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Register refers to the level of formality or informality of language used in a specific context or situation. Different registers are appropriate for different audiences and purposes. The SAT tests your ability to recognize appropriate register for various contexts.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is 'idiom' in vocabulary?",
+    "options": [
+      "A foreign word used in English",
+      "A phrase with a meaning not predictable from the individual words",
+      "A word with multiple meanings",
+      "A word derived from a person's name"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An idiom is a phrase whose meaning is not predictable from the individual words. Examples include 'kick the bucket' (to die), 'break a leg' (good luck), and 'under the weather' (feeling ill). Understanding idioms is important for comprehending natural, conversational English.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is a 'palindrome'?",
+    "options": [
+      "A word derived from another language",
+      "A word that can be read the same backward as forward",
+      "A word with contradictory meanings",
+      "A word created in the last ten years"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A palindrome is a word, phrase, or sequence that reads the same backward as forward. Examples include 'madam', 'level', and 'A man, a plan, a canal: Panama'. While not specifically tested on the SAT, recognizing palindromes shows attention to word structure.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is 'parallelism' in relation to vocabulary and language?",
+    "options": [
+      "Using similar or identical grammatical structures for related ideas",
+      "Using words with similar sounds",
+      "Repeating the same word multiple times",
+      "Using words from the same language family"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Parallelism involves using similar or identical grammatical structures for related ideas, creating balance and rhythm. For example: 'She likes swimming, hiking, and reading' (all gerunds). The SAT tests parallelism in both reading comprehension and writing sections.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What are 'false friends' in vocabulary study?",
+    "options": [
+      "Words that appear frequently in incorrect usage",
+      "Words that have contradictory meanings",
+      "Words from different languages that look similar but have different meanings",
+      "Words commonly confused with other words"
+    ],
+    "correctAnswer": 2,
+    "explanation": "False friends are words from different languages that look similar but have different meanings. For example, 'embarrassed' in English vs. 'embarazada' (pregnant) in Spanish. Awareness of false friends helps avoid misunderstandings, especially for multilingual students.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is 'simile' in vocabulary usage?",
+    "options": [
+      "A word that sounds like what it describes",
+      "A direct comparison using 'like' or 'as'",
+      "A word with exactly the same meaning as another word",
+      "A figure of speech that says something is something else"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A simile is a figure of speech that makes a direct comparison between two different things using 'like' or 'as'. Examples include 'as brave as a lion' or 'she swims like a fish'. Recognizing similes helps understand figurative language in reading passages.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is 'metaphor' in vocabulary usage?",
+    "options": [
+      "A comparison using 'like' or 'as'",
+      "A figure of speech stating one thing is another thing",
+      "The literal meaning of a word",
+      "A word borrowed from another language"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A metaphor is a figure of speech that directly states one thing is another thing, without using comparative words like 'like' or 'as'. Examples include 'time is money' or 'he has a heart of stone'. Metaphors create vivid imagery and convey complex ideas concisely.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What are 'subordinating conjunctions' in vocabulary?",
+    "options": [
+      "Words that join independent clauses of equal importance",
+      "Words that join an independent clause with a dependent clause",
+      "Words that substitute for nouns",
+      "Words that describe verbs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Subordinating conjunctions join an independent clause with a dependent clause, showing a relationship between the ideas. Examples include 'because', 'although', 'if', and 'when'. Understanding these conjunctions helps interpret logical relationships between ideas in complex sentences.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What are 'coordinating conjunctions' in vocabulary?",
+    "options": [
+      "Words that join independent clauses of equal importance",
+      "Words that join an independent clause with a dependent clause",
+      "Words that substitute for nouns",
+      "Words that describe verbs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Coordinating conjunctions join words, phrases, or clauses of equal importance. The main coordinating conjunctions can be remembered with the acronym FANBOYS: For, And, Nor, But, Or, Yet, So. Understanding these conjunctions helps interpret relationships between ideas of equal importance.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is 'technical vocabulary'?",
+    "options": [
+      "Words used only in science fiction",
+      "Words related to computer programming",
+      "Specialized words specific to a particular field, profession, or subject",
+      "Words that are difficult to pronounce"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Technical vocabulary consists of specialized words specific to a particular field, profession, or subject. Examples include 'photosynthesis' (biology), 'adjudicate' (law), or 'denominator' (mathematics). The SAT may include technical vocabulary in science or humanities passages.",
+    "category": "Vocabulary"
+  },
+  {
+    "question": "What is the significance of 'Latin and Greek roots' for SAT vocabulary?",
+    "options": [
+      "They're only important for science-related vocabulary",
+      "They're required for correct spelling",
+      "Understanding them helps decode unfamiliar words by recognizing common word parts",
+      "They're only useful for students planning to study classical languages"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Understanding Latin and Greek roots helps decode unfamiliar words by recognizing common word parts. For example, knowing 'bio' means 'life' helps understand words like biology, biography, and biodiversity. This knowledge is valuable across all subjects tested on the SAT.",
+    "category": "Vocabulary"
+  }
+] 

@@ -1,0 +1,926 @@
+[
+  {
+    "question": "What is the mean of a data set?",
+    "options": [
+      "The middle value when the data is arranged in order",
+      "The most frequently occurring value",
+      "The sum of all values divided by the number of values",
+      "The difference between the largest and smallest values"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The mean (arithmetic average) is calculated by adding all the values in a data set and then dividing by the number of values. It represents the central tendency of the data.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the median of a data set?",
+    "options": [
+      "The middle value when the data is arranged in order",
+      "The most frequently occurring value",
+      "The sum of all values divided by the number of values",
+      "The difference between the largest and smallest values"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The median is the middle value when all data points are arranged in ascending or descending order. If there is an even number of values, the median is the average of the two middle values.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the mode of a data set?",
+    "options": [
+      "The middle value when the data is arranged in order",
+      "The most frequently occurring value",
+      "The sum of all values divided by the number of values",
+      "The difference between the largest and smallest values"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The mode is the value that appears most frequently in a data set. A data set may have one mode, multiple modes, or no mode if all values occur with equal frequency.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the range of a data set?",
+    "options": [
+      "The middle value when the data is arranged in order",
+      "The most frequently occurring value",
+      "The sum of all values divided by the number of values",
+      "The difference between the largest and smallest values"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The range is the difference between the largest (maximum) and smallest (minimum) values in a data set. It provides a measure of the spread or dispersion of the data.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What does standard deviation measure?",
+    "options": [
+      "The central tendency of a data set",
+      "The spread or dispersion of data points around the mean",
+      "The difference between consecutive values",
+      "The ratio of the mean to the median"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Standard deviation measures the spread or dispersion of data points around the mean. A higher standard deviation indicates that the values are more spread out from the mean.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "Which measure of central tendency is most affected by extreme outliers?",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "All are equally affected"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The mean is most affected by extreme outliers because every value in the data set directly contributes to its calculation. A single extreme value can significantly shift the mean, while the median and mode are more resistant to outliers.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a percentile in statistics?",
+    "options": [
+      "The percentage of values equal to a given value",
+      "The value below which a specified percentage of observations fall",
+      "The percentage change between two values",
+      "The ratio of the standard deviation to the mean"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A percentile is the value below which a specified percentage of observations fall. For example, if a score is at the 75th percentile, it means 75% of the scores in the distribution are less than or equal to that score.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a frequency distribution?",
+    "options": [
+      "A graph showing the relationship between two variables",
+      "A table or graph showing how often each value occurs in a data set",
+      "The number of times an experiment is repeated",
+      "The difference between the highest and lowest frequencies"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A frequency distribution is a table or graph that shows how often each value or range of values occurs in a data set. It organizes and summarizes data by displaying the frequency (count) of observations in each category.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What type of graph is most appropriate for showing the relationship between two numerical variables?",
+    "options": [
+      "Pie chart",
+      "Bar graph",
+      "Scatter plot",
+      "Box plot"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A scatter plot is most appropriate for showing the relationship between two numerical variables. Each point on the scatter plot represents the values of both variables for a single observation, allowing patterns or correlations to be visualized.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What does the correlation coefficient measure?",
+    "options": [
+      "The slope of a line of best fit",
+      "The strength and direction of a linear relationship between two variables",
+      "The percentage of variation explained by a model",
+      "The difference between observed and expected values"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correlation coefficient (r) measures the strength and direction of a linear relationship between two variables. It ranges from -1 (perfect negative correlation) to +1 (perfect positive correlation), with 0 indicating no linear correlation.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a line of best fit (regression line)?",
+    "options": [
+      "A line that passes through every point in a scatter plot",
+      "A line that minimizes the sum of squared distances between the line and data points",
+      "A line that connects the minimum and maximum values",
+      "A line that always has a positive slope"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A line of best fit (regression line) is a straight line that minimizes the sum of squared distances between itself and the data points on a scatter plot. It represents the best linear approximation of the relationship between two variables.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What does the slope of a regression line represent?",
+    "options": [
+      "The value of y when x equals zero",
+      "The change in y for a one-unit increase in x",
+      "The correlation coefficient",
+      "The standard deviation of the residuals"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The slope of a regression line represents the change in the dependent variable (y) for a one-unit increase in the independent variable (x). It indicates the rate and direction of the linear relationship between the variables.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a residual in regression analysis?",
+    "options": [
+      "The difference between an observed value and the predicted value from the regression line",
+      "The slope of the regression line",
+      "The y-intercept of the regression line",
+      "The correlation coefficient"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A residual is the difference between an observed value and the value predicted by the regression line for that point. Residuals represent the vertical distances from data points to the regression line and indicate how well the line fits the data.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What does a box plot (box-and-whisker plot) show?",
+    "options": [
+      "The relationship between two variables",
+      "The frequency distribution of a single variable",
+      "The five-number summary of a data set (minimum, Q1, median, Q3, maximum)",
+      "The correlation between multiple variables"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A box plot (box-and-whisker plot) displays the five-number summary of a data set: minimum, first quartile (Q1), median, third quartile (Q3), and maximum. It provides a visual summary of the central tendency, spread, and potential outliers in the data.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the interquartile range (IQR)?",
+    "options": [
+      "The difference between the maximum and minimum values",
+      "The difference between the third quartile (Q3) and the first quartile (Q1)",
+      "The range of values containing the middle 50% of the data",
+      "Both B and C are correct"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The interquartile range (IQR) is the difference between the third quartile (Q3) and the first quartile (Q1). It represents the range of values containing the middle 50% of the data and is a measure of statistical dispersion.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "How are outliers typically defined in a box plot?",
+    "options": [
+      "Values more than 3 standard deviations from the mean",
+      "Values more than 1.5 × IQR below Q1 or above Q3",
+      "The minimum and maximum values in the data set",
+      "Values that appear less than 5% of the time"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In a box plot, outliers are typically defined as values that fall more than 1.5 times the interquartile range (IQR) below the first quartile (Q1) or above the third quartile (Q3).",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the difference between a population and a sample in statistics?",
+    "options": [
+      "A population includes only people; a sample includes any type of data",
+      "A population is the entire group being studied; a sample is a subset of the population",
+      "A population must be larger than 1000; a sample is smaller than 1000",
+      "They are different terms for the same concept"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A population is the entire group being studied, while a sample is a subset selected from that population. Statistical inferences involve using sample statistics to make estimates or draw conclusions about population parameters.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a biased sample?",
+    "options": [
+      "A sample that contains exactly the same proportion of elements as the population",
+      "A sample that is too large to analyze efficiently",
+      "A sample that systematically favors certain outcomes or elements of the population",
+      "A sample where all elements have an equal chance of being selected"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A biased sample is one that systematically favors certain outcomes or elements of the population, leading to results that do not accurately represent the entire population. This can occur due to flawed sampling methods or other systematic errors.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the purpose of a probability distribution?",
+    "options": [
+      "To list all possible outcomes of an experiment",
+      "To assign probabilities to each possible outcome of a random variable",
+      "To calculate the expected value of a data set",
+      "To determine if a sample is biased"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A probability distribution assigns probabilities to each possible outcome of a random variable. It describes how the probabilities are distributed across all possible values, allowing for statistical analysis and prediction.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a normal distribution?",
+    "options": [
+      "Any distribution where the mean equals the median",
+      "A symmetric, bell-shaped distribution where most values cluster around the mean",
+      "A distribution where all outcomes are equally likely",
+      "A distribution that only contains positive values"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A normal distribution (also called Gaussian distribution) is a symmetric, bell-shaped distribution where data tends to cluster around the mean. In a normal distribution, the mean, median, and mode are all equal, and about 68% of values fall within one standard deviation of the mean.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the coefficient of determination (R²) in regression analysis?",
+    "options": [
+      "The square root of the correlation coefficient",
+      "The proportion of the variance in the dependent variable that is predictable from the independent variable(s)",
+      "The slope of the regression line",
+      "The average of the residuals"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The coefficient of determination (R²) represents the proportion of the variance in the dependent variable that is predictable from the independent variable(s). It ranges from 0 to 1, with higher values indicating that the model explains more of the variability in the data.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the difference between qualitative and quantitative data?",
+    "options": [
+      "Qualitative data is always more accurate than quantitative data",
+      "Qualitative data is categorical and describes qualities or characteristics; quantitative data is numerical and can be measured",
+      "Qualitative data can be graphed; quantitative data cannot",
+      "Qualitative data is collected through surveys; quantitative data is collected through experiments"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Qualitative data is categorical and describes qualities or characteristics (like colors, types, or categories). Quantitative data is numerical and can be measured (like heights, temperatures, or scores). They require different analytical approaches.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the difference between discrete and continuous data?",
+    "options": [
+      "Discrete data can only take specific values (often integers); continuous data can take any value within a range",
+      "Discrete data is qualitative; continuous data is quantitative",
+      "Discrete data is more accurate than continuous data",
+      "Discrete data is measured; continuous data is counted"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Discrete data can only take specific values (often integers) and typically involves counting (like number of students). Continuous data can take any value within a range and typically involves measuring (like height or time).",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a histogram?",
+    "options": [
+      "A graph that displays data using bars of equal width but varying height to represent the frequency of data in intervals",
+      "A circular graph divided into sectors proportional to the quantities they represent",
+      "A graph that shows the relationship between two variables using points",
+      "A graph that shows changes in data over time"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A histogram is a graph that displays the distribution of numerical data using bars of equal width but varying height. Each bar represents a range of values (an interval or 'bin'), and the height represents the frequency or count of data points within that interval.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a stem-and-leaf plot?",
+    "options": [
+      "A type of graph used in botany to study plant structure",
+      "A data display that organizes numerical data into 'stems' (typically the leftmost digits) and 'leaves' (typically the rightmost digit)",
+      "A graph showing the growth of data over time",
+      "A plot showing the correlation between two variables"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A stem-and-leaf plot organizes numerical data by separating each value into a 'stem' (typically the leftmost digits) and a 'leaf' (typically the rightmost digit). It preserves the actual data values while showing their distribution, similar to a histogram.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a pie chart best used for?",
+    "options": [
+      "Comparing values across different categories",
+      "Showing trends over time",
+      "Displaying the composition of a whole into its component parts or percentages",
+      "Showing the correlation between two variables"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A pie chart is best used for displaying the composition of a whole into its component parts or percentages. Each 'slice' of the pie represents a category's proportion of the total, making it effective for showing relative proportions of different categories.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the difference between causation and correlation?",
+    "options": [
+      "They are different terms for the same concept",
+      "Correlation means that two variables are related; causation means that one variable causes changes in the other",
+      "Causation is always stronger than correlation",
+      "Correlation applies to quantitative data; causation applies to qualitative data"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Correlation means that two variables are related or tend to vary together, but this doesn't imply a cause-effect relationship. Causation means that changes in one variable directly cause changes in the other. The key principle is that 'correlation does not imply causation.'",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a sampling error?",
+    "options": [
+      "A mistake made when collecting data",
+      "The difference between a sample statistic and the corresponding population parameter due to random variation",
+      "Using too small a sample size",
+      "A biased selection process"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sampling error is the difference between a sample statistic and the corresponding population parameter due to random variation in the sampling process. It occurs naturally even with unbiased sampling methods and tends to decrease as sample size increases.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the purpose of sampling in statistics?",
+    "options": [
+      "To avoid having to analyze large datasets",
+      "To make research easier for the statistician",
+      "To draw conclusions about a population without having to examine every member of the population",
+      "To introduce randomness into a study"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The purpose of sampling is to draw conclusions about a population without having to examine every member of that population. Properly designed sampling allows researchers to make valid inferences about the whole population based on a representative subset.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a confidence interval?",
+    "options": [
+      "The range of values you're confident the data will fall within",
+      "A range of values that is likely to contain the true population parameter with a specified level of confidence",
+      "The time interval between observations in a study",
+      "The range between the minimum and maximum values in a dataset"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A confidence interval is a range of values that is likely to contain the true population parameter with a specified level of confidence (e.g., 95%). It acknowledges the uncertainty inherent in using a sample to estimate a population parameter.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a z-score (standard score)?",
+    "options": [
+      "The final score on a standardized test",
+      "The number of standard deviations a data point is from the mean",
+      "The average score for a particular age group",
+      "The highest possible score on a test"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A z-score (or standard score) indicates how many standard deviations a data point is from the mean of its distribution. A positive z-score means the value is above the mean; a negative z-score means it's below the mean. Z-scores allow for comparison across different distributions.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What percentage of data falls within 2 standard deviations of the mean in a normal distribution?",
+    "options": [
+      "Approximately 68%",
+      "Approximately 95%",
+      "Approximately 99.7%",
+      "Approximately 50%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In a normal distribution, approximately 95% of the data falls within 2 standard deviations of the mean. This is part of the 68-95-99.7 rule (also known as the empirical rule), which states that about 68% falls within 1 standard deviation, 95% within 2, and 99.7% within 3.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a statistic in the context of data analysis?",
+    "options": [
+      "Any numerical data",
+      "A property of a sample calculated from sample data",
+      "A property of a population",
+      "The science of collecting and analyzing data"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In data analysis, a statistic is a property or measure calculated from sample data. Examples include the sample mean, sample median, or sample standard deviation. Statistics are used to estimate corresponding population parameters.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a parameter in the context of data analysis?",
+    "options": [
+      "A value that can be adjusted in an experiment",
+      "A variable that affects the outcome of a study",
+      "A numerical characteristic of a population",
+      "A setting in statistical software"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In data analysis, a parameter is a numerical characteristic or property of a population. Examples include the population mean (μ), population standard deviation (σ), or population proportion (p). Parameters are typically what researchers aim to estimate using sample statistics.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the Law of Large Numbers in statistics?",
+    "options": [
+      "The principle that larger populations always have more variation",
+      "The principle that as sample size increases, the sample mean tends to get closer to the population mean",
+      "The rule that larger numbers are more significant in statistical calculations",
+      "The observation that most statistical distributions include some large numbers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Law of Large Numbers states that as the sample size increases, the sample mean tends to get closer to the population mean. In other words, larger samples tend to be more representative of the population they're drawn from, reducing sampling error.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the purpose of standardization in statistics?",
+    "options": [
+      "To make all data positive",
+      "To convert data to standard units for meaningful comparison across different variables or datasets",
+      "To remove outliers from the data",
+      "To ensure all data follows a normal distribution"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Standardization converts data to standard units (typically z-scores) for meaningful comparison across different variables or datasets that may have different scales or units. This process transforms data to have a mean of 0 and a standard deviation of 1.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the difference between a bar graph and a histogram?",
+    "options": [
+      "They are different terms for the same type of graph",
+      "Bar graphs are used for categorical data with gaps between bars; histograms are used for continuous numerical data with no gaps",
+      "Bar graphs are horizontal; histograms are vertical",
+      "Bar graphs show percentages; histograms show counts"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bar graphs display categorical data with distinct bars (usually with gaps between them). Histograms display the distribution of continuous numerical data with adjacent bars (no gaps), where each bar represents a range of values (a 'bin') and its height shows the frequency of data within that range.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the variance of a data set?",
+    "options": [
+      "The difference between the largest and smallest values",
+      "The average of all values",
+      "The average of the squared deviations from the mean",
+      "The middle value when data is arranged in order"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The variance is the average of the squared deviations from the mean. It measures the spread or dispersion of a data set. The standard deviation is the square root of the variance, which provides a measure of spread in the same units as the original data.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the coefficient of variation?",
+    "options": [
+      "The ratio of the standard deviation to the mean, often expressed as a percentage",
+      "The square of the correlation coefficient",
+      "The ratio of the range to the median",
+      "The average variation between consecutive data points"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The coefficient of variation (CV) is the ratio of the standard deviation to the mean, often expressed as a percentage (CV = (σ/μ) × 100%). It measures relative variability, allowing comparison of dispersion in data sets with different units or widely different means.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a Type I error in hypothesis testing?",
+    "options": [
+      "Correctly rejecting a true null hypothesis",
+      "Incorrectly failing to reject a false null hypothesis",
+      "Incorrectly rejecting a true null hypothesis (false positive)",
+      "Correctly failing to reject a true null hypothesis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A Type I error occurs when you incorrectly reject a true null hypothesis (a false positive). In other words, you conclude there is an effect or difference when there actually isn't one. The probability of a Type I error is denoted by alpha (α), the significance level.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a Type II error in hypothesis testing?",
+    "options": [
+      "Correctly rejecting a true null hypothesis",
+      "Incorrectly failing to reject a false null hypothesis (false negative)",
+      "Incorrectly rejecting a true null hypothesis",
+      "Correctly failing to reject a true null hypothesis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Type II error occurs when you incorrectly fail to reject a false null hypothesis (a false negative). In other words, you conclude there is no effect or difference when there actually is one. The probability of a Type II error is denoted by beta (β).",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What does statistical significance mean?",
+    "options": [
+      "That the results are important for practical applications",
+      "That the results are unlikely to have occurred by random chance alone",
+      "That the sample size was large enough",
+      "That the effect observed was large"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Statistical significance means that the results are unlikely to have occurred by random chance alone. It indicates that the observed effect or difference is probably not due to random sampling variation. However, statistical significance doesn't necessarily imply practical importance or a large effect size.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a p-value in hypothesis testing?",
+    "options": [
+      "The probability that the null hypothesis is true",
+      "The probability of obtaining results at least as extreme as those observed, assuming the null hypothesis is true",
+      "The percentage of variation explained by a model",
+      "The proportion of the population included in the sample"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A p-value is the probability of obtaining results at least as extreme as those observed, assuming the null hypothesis is true. A small p-value (typically ≤ 0.05) suggests that the observed data is inconsistent with the null hypothesis, leading to its rejection.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a null hypothesis?",
+    "options": [
+      "A hypothesis that the researcher hopes to prove",
+      "A statement that there is no effect, no difference, or no relationship between variables",
+      "A hypothesis based on prior research",
+      "A hypothesis that can never be rejected"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A null hypothesis (H₀) is a statement that there is no effect, no difference, or no relationship between variables. It represents the status quo or the absence of the effect being tested for. In hypothesis testing, researchers typically try to gather evidence to reject the null hypothesis.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is an alternative hypothesis?",
+    "options": [
+      "A backup hypothesis used if the original hypothesis fails",
+      "A statement that contradicts the null hypothesis, suggesting there is an effect, difference, or relationship",
+      "A hypothesis proposed by a different researcher",
+      "Any hypothesis that isn't statistically significant"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An alternative hypothesis (H₁ or Hₐ) is a statement that contradicts the null hypothesis, suggesting there is an effect, difference, or relationship between variables. If evidence leads to rejecting the null hypothesis, the alternative hypothesis is supported.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the purpose of a t-test?",
+    "options": [
+      "To determine if there is a significant difference between two group means",
+      "To calculate the correlation between two variables",
+      "To predict future values based on past data",
+      "To organize data into a frequency distribution"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A t-test is used to determine if there is a statistically significant difference between the means of two groups. It's particularly useful when working with small sample sizes or when the population standard deviation is unknown.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a chi-square test used for?",
+    "options": [
+      "Comparing means of multiple groups",
+      "Testing for independence between categorical variables or goodness of fit to a distribution",
+      "Measuring the strength of correlation between two variables",
+      "Predicting future values based on past data"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A chi-square test is used for testing relationships between categorical variables (chi-square test of independence) or to determine if a sample distribution matches an expected distribution (chi-square goodness of fit test). It's based on comparing observed frequencies to expected frequencies.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the purpose of ANOVA (Analysis of Variance)?",
+    "options": [
+      "To compare the means of two groups",
+      "To compare the means of three or more groups",
+      "To calculate the correlation between variables",
+      "To determine the best predictors in a regression model"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ANOVA (Analysis of Variance) is used to compare the means of three or more groups to determine if there are statistically significant differences between them. It analyzes the variance within and between groups to assess if the differences are likely due to chance or represent real differences.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a contingency table?",
+    "options": [
+      "A table showing how to respond to different contingencies in an experiment",
+      "A table displaying the frequency distribution of two categorical variables",
+      "A table of critical values for statistical tests",
+      "A table showing how data changes over time"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A contingency table (also called a cross-tabulation or crosstab) displays the frequency distribution of two categorical variables simultaneously. Each cell shows the count or percentage of observations that have the specific combination of values for the two variables, allowing examination of their relationship.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is interpolation in data analysis?",
+    "options": [
+      "Estimating a value between two known data points",
+      "Estimating a value beyond the range of known data points",
+      "Removing outliers from a data set",
+      "Converting categorical data to numerical data"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Interpolation is the process of estimating a value between two known data points within the range of the observed data. It assumes that the data follows a pattern or trend that can be used to estimate values at unobserved points between existing observations.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is extrapolation in data analysis?",
+    "options": [
+      "Estimating a value between two known data points",
+      "Estimating a value beyond the range of known data points",
+      "Analyzing extreme values in a data set",
+      "Extending a graph's axes to include more categories"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Extrapolation is the process of estimating a value beyond the range of known data points. It involves extending a trend or pattern observed in the data to predict values outside the observed range. Extrapolation is generally less reliable than interpolation and should be used cautiously.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a lurking variable (or confounding variable)?",
+    "options": [
+      "A variable that is intentionally hidden in an experiment",
+      "A variable not explicitly measured but that affects the relationship between the variables being studied",
+      "A variable with missing values in the dataset",
+      "A variable that only appears in advanced statistical analyses"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A lurking variable (or confounding variable) is not explicitly measured or controlled for in a study but affects the relationship between the variables being studied. It can lead to misleading conclusions about cause and effect relationships if not identified and accounted for in the analysis.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is meant by 'degrees of freedom' in statistics?",
+    "options": [
+      "The number of variables in an analysis",
+      "The number of independent values that can vary in a calculation after certain restrictions have been imposed",
+      "The range of possible values a statistic can take",
+      "The number of different statistical tests that can be performed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Degrees of freedom refers to the number of independent values that can vary in a calculation after certain restrictions have been imposed. It often equals the sample size minus the number of parameters being estimated. Degrees of freedom are used in many statistical tests and affect the critical values for hypothesis testing.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the purpose of a scatterplot matrix?",
+    "options": [
+      "To display a single scatter plot more clearly",
+      "To show the relationship between multiple pairs of variables simultaneously",
+      "To create a correlation matrix from scatter plots",
+      "To identify outliers in multivariate data"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A scatterplot matrix displays scatter plots for all possible pairs of variables in a dataset, arranged in a grid. This allows for visual examination of relationships between multiple variables simultaneously, helping to identify patterns, correlations, or clusters in multivariate data.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a time series?",
+    "options": [
+      "Data collected at regular time intervals",
+      "The time it takes to complete a statistical analysis",
+      "A series of experiments conducted over time",
+      "The sequence of steps in a statistical procedure"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A time series is a sequence of data points collected or recorded at regular time intervals. Examples include daily stock prices, monthly unemployment rates, or annual temperature readings. Time series analysis involves methods for analyzing time-ordered data to extract meaningful patterns and trends.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What are quartiles in a data set?",
+    "options": [
+      "The four quarters of a pie chart",
+      "Values that divide a data set into four equal parts",
+      "The four most extreme values in a data set",
+      "The four most common values in a data set"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Quartiles are values that divide a data set into four equal parts. The first quartile (Q1) is the value below which 25% of the observations fall, the second quartile (Q2) is the median (50%), and the third quartile (Q3) is the value below which 75% of the observations fall.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is Simpson's Paradox in statistics?",
+    "options": [
+      "A statistical error that occurs when sample sizes are too small",
+      "A phenomenon where the relationship between variables appears to be reversed when the data is divided into subgroups",
+      "The observation that most statistical distributions approach a normal distribution as sample size increases",
+      "A method for determining sample size in experimental design"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Simpson's Paradox is a phenomenon where a trend or relationship that appears in several different groups of data disappears or reverses when these groups are combined. It illustrates the importance of considering confounding variables and properly stratifying data in analysis.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is meant by the 'robustness' of a statistical method?",
+    "options": [
+      "The complexity of the calculations involved",
+      "The ability of the method to produce reliable results even when assumptions are violated or outliers are present",
+      "The statistical power of the test",
+      "The method's ability to handle large datasets"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In statistics, robustness refers to a method's ability to provide reliable results even when its assumptions are violated or when outliers are present in the data. Robust methods perform well across a variety of conditions and are less sensitive to departures from ideal conditions.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a probability distribution function?",
+    "options": [
+      "A function that randomly assigns probabilities",
+      "A function that calculates the probability of any value or range of values of a random variable",
+      "A function that determines if an event is likely to occur",
+      "A function that counts the frequency of each value in a dataset"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A probability distribution function (PDF for continuous variables or PMF for discrete variables) calculates the probability of any value or range of values of a random variable. It describes the relative likelihood of a random variable taking on specific values.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the central limit theorem?",
+    "options": [
+      "The principle that all statistical tests should focus on central tendencies",
+      "The theorem stating that the sampling distribution of the mean approaches a normal distribution as sample size increases, regardless of the population distribution",
+      "The rule that all data analysis should begin with calculating the mean",
+      "The theory that most data naturally centers around a middle value"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The central limit theorem states that the sampling distribution of the mean approaches a normal distribution as the sample size increases, regardless of the shape of the population distribution. This principle is fundamental to statistical inference and explains why many statistical procedures assume normality for large samples.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is stratified sampling?",
+    "options": [
+      "Taking samples only from the highest and lowest strata of a population",
+      "A sampling method where the population is divided into distinct subgroups (strata) and samples are taken from each stratum",
+      "Sampling at different times or 'strata' of an experiment",
+      "Sampling only the most accessible members of a population"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stratified sampling is a sampling method where the population is first divided into distinct subgroups (strata) based on shared characteristics, and then samples are taken from each stratum. This ensures representation from all important subgroups and can increase the precision of estimates.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the difference between a bar chart and a histogram?",
+    "options": [
+      "Bar charts are horizontal; histograms are vertical",
+      "Bar charts represent categorical data with gaps between bars; histograms represent numerical data with no gaps",
+      "Bar charts are used for small datasets; histograms for large ones",
+      "Bar charts show proportions; histograms show actual counts"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bar charts represent categorical data with gaps between bars to emphasize the distinct categories. Histograms represent the distribution of numerical data with no gaps between bars, as they represent continuous ranges of values (bins) rather than distinct categories.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the standard normal distribution?",
+    "options": [
+      "Any distribution that follows a bell curve",
+      "A normal distribution with a mean of 0 and a standard deviation of 1",
+      "The most common distribution found in nature",
+      "A distribution with equal mean, median, and mode"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The standard normal distribution is a specific normal distribution with a mean of 0 and a standard deviation of 1. Any normal distribution can be converted to the standard normal form by standardizing the values (calculating z-scores), which facilitates probability calculations and comparisons.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the purpose of a normal probability plot (Q-Q plot)?",
+    "options": [
+      "To create a normal distribution from non-normal data",
+      "To visually assess whether a dataset follows a normal distribution",
+      "To calculate the probability of specific events",
+      "To compare the means of two normal distributions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A normal probability plot (or Q-Q plot) is used to visually assess whether a dataset follows a normal distribution. It plots the quantiles of the data against the quantiles of a theoretical normal distribution. If the points approximately follow a straight line, the data is consistent with a normal distribution.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is multicollinearity in regression analysis?",
+    "options": [
+      "The use of multiple regression models to analyze the same data",
+      "A situation where there are strong correlations among predictor variables",
+      "The analysis of multiple response variables simultaneously",
+      "The presence of multiple outliers in a regression model"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Multicollinearity occurs when there are strong correlations among predictor variables in a regression model. This can make it difficult to determine the individual effect of each predictor and can lead to unstable coefficient estimates with high standard errors, affecting the reliability of the model.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What does heteroscedasticity mean in regression analysis?",
+    "options": [
+      "When the dependent and independent variables are highly correlated",
+      "When the variance of the errors (residuals) varies across levels of the independent variables",
+      "When the regression model includes variables with different scales",
+      "When the regression line passes through all data points"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Heteroscedasticity occurs when the variance of the errors (residuals) varies across levels of the independent variables. This violates the assumption of constant variance (homoscedasticity) in regression analysis and can lead to inefficient estimates and invalid standard errors, affecting hypothesis tests and confidence intervals.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the difference between descriptive and inferential statistics?",
+    "options": [
+      "Descriptive statistics are more accurate than inferential statistics",
+      "Descriptive statistics summarize data; inferential statistics draw conclusions about a population based on sample data",
+      "Descriptive statistics use graphs; inferential statistics use numerical summaries",
+      "Descriptive statistics are used for small datasets; inferential statistics for large ones"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Descriptive statistics summarize and describe the main features of a dataset (e.g., mean, median, standard deviation). Inferential statistics use sample data to draw conclusions, make predictions, or inferences about a larger population, accounting for probability and uncertainty in the estimates.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the purpose of bootstrapping in statistics?",
+    "options": [
+      "To start a statistical software program",
+      "To create a larger dataset from a small sample by resampling with replacement",
+      "To remove outliers from a dataset",
+      "To standardize variables before analysis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bootstrapping is a resampling technique that creates multiple samples by randomly drawing with replacement from the original dataset. It's used to estimate the sampling distribution of a statistic, calculate confidence intervals, and assess the variability of parameter estimates without making strong distributional assumptions.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the purpose of data transformation?",
+    "options": [
+      "To make data completely different from the original",
+      "To convert data from one format to another (e.g., Excel to CSV)",
+      "To mathematically modify data to meet certain statistical assumptions or improve analysis",
+      "To permanently delete original data after analysis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Data transformation involves mathematically modifying data to meet statistical assumptions (like normality), reduce skewness, stabilize variance, linearize relationships, or improve the interpretation of results. Common transformations include logarithmic, square root, and power transformations.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a residual plot in regression analysis?",
+    "options": [
+      "A graph showing the original data and the regression line",
+      "A graph plotting residuals (differences between observed and predicted values) against predicted values or independent variables",
+      "A plot showing the distribution of the dependent variable",
+      "A graph comparing multiple regression models"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A residual plot graphs the residuals (differences between observed and predicted values) against predicted values or independent variables. It's used to check regression assumptions, particularly homoscedasticity and linearity. Patterns in residual plots can indicate problems with the model fit or violations of assumptions.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is meant by 'random sampling' in statistics?",
+    "options": [
+      "Selecting any convenient sample from a population",
+      "A sampling method where each member of the population has an equal probability of being selected",
+      "Taking very small samples from a large population",
+      "Selecting samples without any systematic method"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Random sampling is a selection method where each member of the population has an equal probability of being chosen. This approach helps ensure that the sample is representative of the population, reducing bias and allowing for valid statistical inferences about the population based on the sample.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the difference between correlation and causation?",
+    "options": [
+      "They are different terms for the same concept",
+      "Correlation measures the strength of a relationship; causation establishes that one variable directly causes changes in another",
+      "Correlation applies to numerical variables; causation applies to categorical variables",
+      "Correlation is calculated from data; causation is determined by theory"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Correlation measures the strength and direction of a relationship between variables, but doesn't imply that one causes the other. Causation establishes that changes in one variable directly influence another. Correlations may be due to coincidence, reverse causality, or common causes ('lurking variables').",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is data cleaning in statistics?",
+    "options": [
+      "Organizing data alphabetically",
+      "The process of detecting and correcting (or removing) corrupt, inaccurate, or irrelevant records from a dataset",
+      "Presenting data in visually appealing formats",
+      "Converting all data to a standardized format"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Data cleaning (or data cleansing) is the process of detecting and correcting (or removing) corrupt, inaccurate, incomplete, or irrelevant records from a dataset. This essential preparatory step improves data quality before analysis, ensuring more reliable and valid results.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is the empirical rule (68-95-99.7 rule) in statistics?",
+    "options": [
+      "A rule stating that 68% of statistical analyses are accurate",
+      "A guideline for normal distributions stating that approximately 68% of data falls within 1 standard deviation, 95% within 2, and 99.7% within 3 standard deviations of the mean",
+      "A rule requiring at least 68 observations for statistical validity",
+      "A principle stating that 95% of experiments should be replicable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The empirical rule (68-95-99.7 rule) is a guideline for normal distributions stating that approximately 68% of data falls within 1 standard deviation of the mean, 95% within 2 standard deviations, and 99.7% within 3 standard deviations. It helps in understanding the spread of data and identifying potential outliers.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is data aggregation?",
+    "options": [
+      "The process of collecting raw data from multiple sources",
+      "The process of summarizing data by combining individual observations into groups or categories",
+      "Removing duplicate data entries",
+      "Converting categorical data to numerical data"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Data aggregation is the process of summarizing data by combining individual observations into groups or categories. This includes operations like calculating sums, averages, counts, or other summary statistics for groups defined by one or more variables, reducing the data's granularity while revealing patterns.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a frequency polygon?",
+    "options": [
+      "A polygon with frequencies at each vertex",
+      "A line graph that displays the distribution of data by connecting the midpoints of the tops of histogram bars",
+      "A graph showing the relationship between frequency and amplitude",
+      "A multisided shape used to represent different frequencies in radio transmission"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A frequency polygon is a line graph that displays the distribution of data by connecting the midpoints of the tops of histogram bars. It shows the same information as a histogram but as a continuous line, making it useful for comparing multiple distributions or visualizing trends in the data.",
+    "category": "Data Analysis"
+  },
+  {
+    "question": "What is a trimmed mean?",
+    "options": [
+      "The average of the smallest and largest values in a dataset",
+      "A mean calculated after removing a specified percentage of the smallest and largest values",
+      "The mean of only the central values in a dataset",
+      "A mean that has been rounded to the nearest whole number"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A trimmed mean is calculated after removing a specified percentage of the smallest and largest values from a dataset. This makes it more robust to outliers than the regular mean while still utilizing more data than the median. Common trimming percentages include 5% or 10% from each end.",
+    "category": "Data Analysis"
+  }
+] 

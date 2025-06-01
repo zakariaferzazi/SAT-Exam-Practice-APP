@@ -1,0 +1,698 @@
+[
+  {
+    "question": "What is the formula for the area of a rectangle?",
+    "options": [
+      "A = s²",
+      "A = πr²",
+      "A = length × width",
+      "A = (base × height) / 2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The area of a rectangle is calculated by multiplying its length by its width: A = l × w. This formula represents the number of square units that fit inside the rectangle.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the area of a circle?",
+    "options": [
+      "A = πr²",
+      "A = 2πr",
+      "A = πd",
+      "A = πr³"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The area of a circle is calculated using the formula A = πr², where r is the radius of the circle and π is approximately 3.14159.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the circumference of a circle?",
+    "options": [
+      "C = πr²",
+      "C = 2πr",
+      "C = πd/2",
+      "C = 4πr"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The circumference of a circle is calculated using the formula C = 2πr, where r is the radius of the circle. It can also be written as C = πd, where d is the diameter (d = 2r).",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the Pythagorean theorem?",
+    "options": [
+      "In any triangle, the sum of all angles equals 180°",
+      "The ratio of a circle's circumference to its diameter equals π",
+      "In a right triangle, a² + b² = c², where c is the hypotenuse and a and b are the other two sides",
+      "The area of a triangle equals (base × height) / 2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pythagorean theorem states that in a right triangle, the square of the length of the hypotenuse (c) equals the sum of squares of the other two sides (a and b): a² + b² = c².",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the area of a triangle?",
+    "options": [
+      "A = s²",
+      "A = l × w",
+      "A = (base × height) / 2",
+      "A = πr²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The area of a triangle is calculated using the formula A = (base × height) / 2, where the height is the perpendicular distance from the base to the opposite vertex.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the sum of the interior angles in a triangle?",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sum of the interior angles in any triangle always equals 180 degrees. This is a fundamental property of triangles in Euclidean geometry.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the volume of a rectangular prism?",
+    "options": [
+      "V = s³",
+      "V = length × width × height",
+      "V = πr²h",
+      "V = (4/3)πr³"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The volume of a rectangular prism is calculated by multiplying its length, width, and height: V = l × w × h. This formula represents the number of cubic units that fit inside the prism.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the volume of a cylinder?",
+    "options": [
+      "V = πr²h",
+      "V = (4/3)πr³",
+      "V = (1/3)πr²h",
+      "V = 2πrh"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The volume of a cylinder is calculated using the formula V = πr²h, where r is the radius of the circular base and h is the height of the cylinder.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the surface area of a rectangular prism?",
+    "options": [
+      "SA = 6s²",
+      "SA = 2(lw + lh + wh)",
+      "SA = 4πr²",
+      "SA = πr²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The surface area of a rectangular prism is calculated using the formula SA = 2(lw + lh + wh), where l is length, w is width, and h is height. This sums the areas of all six rectangular faces.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the surface area of a sphere?",
+    "options": [
+      "SA = 4πr²",
+      "SA = πr²",
+      "SA = 2πrh",
+      "SA = 6πr²"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The surface area of a sphere is calculated using the formula SA = 4πr², where r is the radius of the sphere.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What are similar triangles?",
+    "options": [
+      "Triangles with exactly the same size and shape",
+      "Triangles with the same shape but possibly different sizes, where corresponding angles are equal and corresponding sides are proportional",
+      "Any two triangles with at least one equal angle",
+      "Triangles that share a common side"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Similar triangles have the same shape but possibly different sizes. Their corresponding angles are equal, and their corresponding sides are proportional. This property allows us to solve problems using proportions.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the area of a trapezoid?",
+    "options": [
+      "A = bh",
+      "A = (1/2)bh",
+      "A = (1/2)(b₁ + b₂)h",
+      "A = s²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The area of a trapezoid is calculated using the formula A = (1/2)(b₁ + b₂)h, where b₁ and b₂ are the lengths of the parallel sides (bases) and h is the height (perpendicular distance between the parallel sides).",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the volume of a sphere?",
+    "options": [
+      "V = πr²",
+      "V = 4πr²",
+      "V = (4/3)πr³",
+      "V = (1/3)πr²h"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The volume of a sphere is calculated using the formula V = (4/3)πr³, where r is the radius of the sphere.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the relationship between the radius and diameter of a circle?",
+    "options": [
+      "Diameter = 2 × Radius",
+      "Radius = 2 × Diameter",
+      "Diameter = Radius²",
+      "Radius = Diameter²"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The diameter of a circle is twice the length of its radius: d = 2r. Alternatively, the radius is half the diameter: r = d/2.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the area of a regular polygon with n sides?",
+    "options": [
+      "A = ns²",
+      "A = (1/2)ns",
+      "A = (1/2)np²",
+      "A = (1/2)ns × a"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The area of a regular polygon with n sides can be calculated using the formula A = (1/2)ns × a, where s is the side length and a is the apothem (the perpendicular distance from the center to any side).",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for finding the measure of each interior angle in a regular polygon with n sides?",
+    "options": [
+      "Angle = 180°",
+      "Angle = 360° / n",
+      "Angle = (n - 2) × 180° / n",
+      "Angle = (n + 2) × 180°"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The measure of each interior angle in a regular polygon with n sides is calculated using the formula: Angle = (n - 2) × 180° / n. This is derived from the fact that the sum of interior angles in any polygon is (n - 2) × 180°.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the relationship between the three sides of a 30°-60°-90° triangle?",
+    "options": [
+      "If the shortest side is x, then the other sides are x√2 and 2x",
+      "If the shortest side is x, then the other sides are x√3 and 2x",
+      "All sides must be equal",
+      "The sides must be in arithmetic progression"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In a 30°-60°-90° triangle, if the shortest side (opposite to the 30° angle) is x, then the hypotenuse (opposite to the 90° angle) is 2x, and the remaining side (opposite to the 60° angle) is x√3.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the relationship between the sides of a 45°-45°-90° triangle?",
+    "options": [
+      "If the two equal sides are each x, then the hypotenuse is x√2",
+      "If the two equal sides are each x, then the hypotenuse is 2x",
+      "All sides must be equal",
+      "If the two equal sides are each x, then the hypotenuse is x√3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In a 45°-45°-90° triangle (isosceles right triangle), if the two equal sides (opposite to the 45° angles) are each x, then the hypotenuse (opposite to the 90° angle) is x√2.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the distance formula between two points (x₁,y₁) and (x₂,y₂) in a coordinate plane?",
+    "options": [
+      "d = |x₂ - x₁| + |y₂ - y₁|",
+      "d = √[(x₂ - x₁)² + (y₂ - y₁)²]",
+      "d = (x₂ - x₁)(y₂ - y₁)",
+      "d = (x₂ + x₁) + (y₂ + y₁)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The distance between two points (x₁,y₁) and (x₂,y₂) in a coordinate plane is calculated using the formula d = √[(x₂ - x₁)² + (y₂ - y₁)²], which is derived from the Pythagorean theorem.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the area of a regular hexagon with side length s?",
+    "options": [
+      "A = 6s²",
+      "A = (3√3/2)s²",
+      "A = 3s²",
+      "A = 2√3s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The area of a regular hexagon with side length s is calculated using the formula A = (3√3/2)s². This can be derived by dividing the hexagon into six equilateral triangles and finding their combined area.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the volume of a cone?",
+    "options": [
+      "V = πr²h",
+      "V = (1/3)πr²h",
+      "V = (4/3)πr³",
+      "V = (1/2)πr²h"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The volume of a cone is calculated using the formula V = (1/3)πr²h, where r is the radius of the circular base and h is the height of the cone (the perpendicular distance from the vertex to the base).",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the volume of a pyramid with a rectangular base?",
+    "options": [
+      "V = lwh",
+      "V = (1/3) × base area × height",
+      "V = (1/2) × base area × height",
+      "V = base area × height"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The volume of a pyramid is calculated using the formula V = (1/3) × base area × height. For a pyramid with a rectangular base, this becomes V = (1/3)lwh, where l and w are the length and width of the base, and h is the height of the pyramid.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the sum of the interior angles in a quadrilateral?",
+    "options": [
+      "180 degrees",
+      "270 degrees",
+      "360 degrees",
+      "540 degrees"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The sum of the interior angles in any quadrilateral is 360 degrees. This can be derived from the formula for the sum of interior angles in a polygon: (n - 2) × 180°, where n is the number of sides. For a quadrilateral, n = 4, so (4 - 2) × 180° = 360°.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the area of a rhombus?",
+    "options": [
+      "A = s²",
+      "A = (1/2) × d₁ × d₂",
+      "A = bh",
+      "A = (1/2)bh"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The area of a rhombus can be calculated using the formula A = (1/2) × d₁ × d₂, where d₁ and d₂ are the lengths of the two diagonals. It can also be calculated as A = bh, where b is the length of any side and h is the height (perpendicular distance between parallel sides).",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the area of a kite?",
+    "options": [
+      "A = (1/2) × d₁ × d₂",
+      "A = lw",
+      "A = (1/2)bh",
+      "A = s²"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The area of a kite is calculated using the formula A = (1/2) × d₁ × d₂, where d₁ and d₂ are the lengths of the two diagonals. This formula works because the diagonals of a kite intersect at right angles.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the perimeter of a regular polygon with n sides, each of length s?",
+    "options": [
+      "P = n + s",
+      "P = ns",
+      "P = 2n + 2s",
+      "P = n²s"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The perimeter of a regular polygon with n sides, each of length s, is calculated using the formula P = ns. This is simply the number of sides multiplied by the length of each side.",
+    "category": "Geometry"
+  },
+  {
+    "question": "How do you find the area of an irregular polygon?",
+    "options": [
+      "Multiply the number of sides by the length of one side",
+      "Use the formula A = (1/2)bh",
+      "Divide the polygon into triangles and add their areas",
+      "It cannot be calculated precisely"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The area of an irregular polygon can be found by dividing it into triangles (or other shapes with known area formulas) and adding their areas together. This method works for any polygon, regardless of its shape.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the lateral surface area of a cylinder?",
+    "options": [
+      "LSA = 2πr",
+      "LSA = 2πrh",
+      "LSA = πr²",
+      "LSA = 2πr²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The lateral surface area (curved surface area) of a cylinder is calculated using the formula LSA = 2πrh, where r is the radius of the circular base and h is the height of the cylinder. The total surface area would include the areas of the two circular bases: TSA = 2πrh + 2πr².",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the lateral surface area of a cone?",
+    "options": [
+      "LSA = πrl",
+      "LSA = πr²",
+      "LSA = 2πr",
+      "LSA = πrh"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The lateral surface area (curved surface area) of a cone is calculated using the formula LSA = πrl, where r is the radius of the circular base and l is the slant height (the straight-line distance from the vertex to the edge of the base). The total surface area would include the area of the circular base: TSA = πrl + πr².",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the surface area of a triangular prism?",
+    "options": [
+      "SA = 2B + Ph",
+      "SA = 3Bh",
+      "SA = B + Ph",
+      "SA = 2B + 3Ph"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The surface area of a triangular prism is calculated using the formula SA = 2B + Ph, where B is the area of the triangular base, P is the perimeter of the triangular base, and h is the height (or length) of the prism. This formula adds the areas of the two triangular bases and the three rectangular lateral faces.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What does it mean for two triangles to be congruent?",
+    "options": [
+      "They have the same shape but may be different sizes",
+      "They have exactly the same size and shape",
+      "They have at least one pair of corresponding sides that are equal",
+      "They have the same area"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Two triangles are congruent if they have exactly the same size and shape. This means that all corresponding sides and angles are equal. Congruent triangles can be placed on top of each other and match exactly.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the area of an equilateral triangle with side length s?",
+    "options": [
+      "A = s²",
+      "A = (√3/4)s²",
+      "A = (√3/2)s²",
+      "A = (1/2)s²√3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The area of an equilateral triangle with side length s is calculated using the formula A = (√3/4)s². This can be derived by finding the height of the triangle (h = s√3/2) and then using the standard area formula A = (1/2)bh.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the area of a regular octagon with side length s?",
+    "options": [
+      "A = 2s²(1 + √2)",
+      "A = 4s²",
+      "A = 2s²(1 + √3)",
+      "A = s²(2 + 2√2)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The area of a regular octagon with side length s is calculated using the formula A = 2s²(1 + √2). This can be derived by dividing the octagon into 8 congruent triangles from the center and finding their combined area.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the midpoint formula for two points (x₁,y₁) and (x₂,y₂)?",
+    "options": [
+      "Midpoint = ((x₁ + x₂)/2, (y₁ + y₂)/2)",
+      "Midpoint = (|x₁ - x₂|, |y₁ - y₂|)",
+      "Midpoint = (x₁x₂, y₁y₂)",
+      "Midpoint = ((x₁ - x₂), (y₁ - y₂))"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The midpoint of a line segment with endpoints (x₁,y₁) and (x₂,y₂) is calculated using the formula Midpoint = ((x₁ + x₂)/2, (y₁ + y₂)/2). This gives the point exactly halfway between the two endpoints.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the slope of a line passing through the points (x₁,y₁) and (x₂,y₂)?",
+    "options": [
+      "Slope = (y₂ - y₁)/(x₂ - x₁)",
+      "Slope = (x₂ - x₁)/(y₂ - y₁)",
+      "Slope = (y₂ + y₁)/(x₂ + x₁)",
+      "Slope = (x₁y₂ - x₂y₁)/(x₁ - x₂)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The slope of a line passing through the points (x₁,y₁) and (x₂,y₂) is calculated using the formula Slope = (y₂ - y₁)/(x₂ - x₁), provided that x₁ ≠ x₂. This represents the 'rise over run' or the rate of change in the vertical direction compared to the horizontal direction.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the equation of a circle with center (h,k) and radius r?",
+    "options": [
+      "(x - h)² + (y - k)² = r²",
+      "(x + h)² + (y + k)² = r²",
+      "(x - h) + (y - k) = r",
+      "x² + y² = r²"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The equation of a circle with center (h,k) and radius r is (x - h)² + (y - k)² = r². This represents all points (x,y) that are exactly r units away from the center (h,k). If the center is at the origin (0,0), the equation simplifies to x² + y² = r².",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the volume of a triangular prism?",
+    "options": [
+      "V = Bh",
+      "V = (1/3)Bh",
+      "V = (1/2)Bh",
+      "V = 3Bh"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The volume of a triangular prism is calculated using the formula V = Bh, where B is the area of the triangular base and h is the height (or length) of the prism. This is a specific case of the general formula for the volume of any prism: V = base area × height.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the sum of the exterior angles of any convex polygon?",
+    "options": [
+      "180 degrees",
+      "360 degrees",
+      "Depends on the number of sides",
+      "(n - 2) × 180 degrees, where n is the number of sides"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sum of the exterior angles of any convex polygon is always 360 degrees, regardless of the number of sides. This is a fundamental property in geometry and can be proven using the fact that each exterior angle supplements its corresponding interior angle.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What does the term 'similar polygons' mean?",
+    "options": [
+      "Polygons with the same number of sides",
+      "Polygons with exactly the same size and shape",
+      "Polygons with the same shape but possibly different sizes, where corresponding angles are equal and corresponding sides are proportional",
+      "Polygons with the same area"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Similar polygons have the same shape but possibly different sizes. Their corresponding angles are equal, and their corresponding sides are proportional. The ratio of any two corresponding sides is the same throughout the polygons, which is known as the scale factor.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the sum of interior angles in a polygon with n sides?",
+    "options": [
+      "n × 180°",
+      "(n - 2) × 180°",
+      "(n + 2) × 180°",
+      "n × 360°"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sum of interior angles in a polygon with n sides is calculated using the formula (n - 2) × 180°. This can be derived by dividing the polygon into (n - 2) triangles, each with a sum of interior angles equal to 180°.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the area of a sector of a circle with radius r and central angle θ (in radians)?",
+    "options": [
+      "A = (1/2)r²θ",
+      "A = rθ",
+      "A = 2πrθ",
+      "A = πr²θ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The area of a sector of a circle with radius r and central angle θ (in radians) is calculated using the formula A = (1/2)r²θ. If the angle is given in degrees, the formula becomes A = (θ/360°) × πr², representing the fraction of the full circle's area.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the arc length of a sector with radius r and central angle θ (in radians)?",
+    "options": [
+      "L = 2πr",
+      "L = rθ",
+      "L = 2r",
+      "L = πrθ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The arc length of a sector with radius r and central angle θ (in radians) is calculated using the formula L = rθ. If the angle is given in degrees, the formula becomes L = (θ/360°) × 2πr, representing the fraction of the full circle's circumference.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the area of a regular polygon with n sides, side length s, and apothem a?",
+    "options": [
+      "A = (1/2) × n × s × a",
+      "A = n × s × a",
+      "A = (1/2) × n × s²",
+      "A = n × s + a"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The area of a regular polygon with n sides, side length s, and apothem a (the perpendicular distance from the center to any side) is calculated using the formula A = (1/2) × n × s × a. This can also be written as A = (1/2) × perimeter × apothem.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is Heron's formula for the area of a triangle with sides a, b, and c?",
+    "options": [
+      "A = √[s(s-a)(s-b)(s-c)], where s = (a+b+c)/2",
+      "A = (1/2)ab",
+      "A = (a+b+c)/2",
+      "A = abc/4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Heron's formula states that the area of a triangle with sides a, b, and c is given by A = √[s(s-a)(s-b)(s-c)], where s = (a+b+c)/2 is the semiperimeter of the triangle. This formula is useful when you know the three sides but not the height or angles.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the law of sines for a triangle?",
+    "options": [
+      "a² + b² = c²",
+      "a/sin(A) = b/sin(B) = c/sin(C)",
+      "sin²(A) + sin²(B) + sin²(C) = 1",
+      "a + b + c = 180°"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The law of sines states that for a triangle with sides a, b, c and opposite angles A, B, C, the ratio of the length of a side to the sine of its opposite angle is constant: a/sin(A) = b/sin(B) = c/sin(C). This is useful for finding unknown sides or angles in non-right triangles.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the law of cosines for a triangle?",
+    "options": [
+      "cos(A) + cos(B) + cos(C) = 0",
+      "a² = b² + c² - 2bc·cos(A)",
+      "a·cos(A) + b·cos(B) + c·cos(C) = 0",
+      "a² + b² + c² = 2(ab + bc + ac)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The law of cosines states that for a triangle with sides a, b, c and angle A opposite to side a: a² = b² + c² - 2bc·cos(A). Similar equations can be written for the other sides and angles. This is a generalization of the Pythagorean theorem and is useful for solving non-right triangles.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the volume of a truncated pyramid (frustum) with parallel rectangular bases of areas B₁ and B₂ and height h?",
+    "options": [
+      "V = (1/3)h(B₁ + B₂ + √(B₁B₂))",
+      "V = (1/3)h(B₁ + B₂)",
+      "V = h(B₁ + B₂)/2",
+      "V = (B₁ + B₂)h"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The volume of a truncated pyramid (frustum) with parallel bases of areas B₁ and B₂ and height h is calculated using the formula V = (1/3)h(B₁ + B₂ + √(B₁B₂)). For rectangular bases with lengths and widths (a₁, b₁) and (a₂, b₂), the formula becomes V = (1/3)h(a₁b₁ + a₂b₂ + √(a₁b₁a₂b₂)).",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the volume of a frustum of a cone with radii r₁ and r₂ and height h?",
+    "options": [
+      "V = (1/3)πh(r₁² + r₂² + r₁r₂)",
+      "V = πh(r₁² + r₂²)/2",
+      "V = (1/3)πh(r₁² + r₂²)",
+      "V = πh(r₁ + r₂)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The volume of a frustum of a cone with radii r₁ and r₂ and height h is calculated using the formula V = (1/3)πh(r₁² + r₂² + r₁r₂). This is a special case of the formula for the volume of a truncated pyramid.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is a chord of a circle?",
+    "options": [
+      "A line that passes through the center of the circle",
+      "A line segment that connects two points on the circle",
+      "The distance from the center to any point on the circle",
+      "A line that touches the circle at exactly one point"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A chord of a circle is a line segment that connects two points on the circle. The diameter is the longest chord and passes through the center of the circle.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is a secant of a circle?",
+    "options": [
+      "A line that passes through two points on the circle",
+      "A line that touches the circle at exactly one point",
+      "A line segment from a point outside the circle to a point on the circle",
+      "The ratio of the hypotenuse to the adjacent side in a right triangle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A secant of a circle is a line that passes through two points on the circle. It can be extended indefinitely in both directions. A chord is the line segment of a secant that lies within the circle.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is a tangent to a circle?",
+    "options": [
+      "A line that passes through the center of the circle",
+      "A line segment that connects two points on the circle",
+      "A line that touches the circle at exactly one point",
+      "The distance from the center to any point on the circle"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A tangent to a circle is a line that touches the circle at exactly one point, called the point of tangency. The tangent line is perpendicular to the radius drawn to the point of tangency.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the relationship between a radius and a tangent to a circle at the point where the radius meets the circle?",
+    "options": [
+      "They are parallel",
+      "They are perpendicular",
+      "They form a 45-degree angle",
+      "They form a 60-degree angle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A radius of a circle is perpendicular to the tangent line at the point where the radius meets the circle (the point of tangency). This is a fundamental property of tangent lines to circles.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the power of a point theorem regarding circles?",
+    "options": [
+      "The power of any point is directly proportional to its distance from the center",
+      "For any point P and any line through P cutting the circle at points A and B, the product PA × PB is constant for all such lines",
+      "The power of a point is equal to the square of the tangent length from that point",
+      "Both B and C are correct"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The power of a point theorem states that for any point P and any line through P cutting the circle at points A and B, the product PA × PB is constant for all such lines. If the point P is outside the circle, this constant equals the square of the length of the tangent from P to the circle.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the angle inscribed in a semicircle?",
+    "options": [
+      "45 degrees",
+      "60 degrees",
+      "90 degrees",
+      "180 degrees"
+    ],
+    "correctAnswer": 2,
+    "explanation": "An angle inscribed in a semicircle is always 90 degrees (a right angle). This is a special case of the inscribed angle theorem, where the inscribed angle is half the central angle that subtends the same arc.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the area of a parallelogram?",
+    "options": [
+      "A = s²",
+      "A = base × height",
+      "A = (1/2) × base × height",
+      "A = length × width"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The area of a parallelogram is calculated using the formula A = base × height, where the height is the perpendicular distance between parallel sides. This is similar to the formula for a rectangle, but uses the perpendicular height rather than the length of a side.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the diagonal of a square with side length s?",
+    "options": [
+      "d = s",
+      "d = s√2",
+      "d = 2s",
+      "d = s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The diagonal of a square with side length s is calculated using the formula d = s√2. This can be derived using the Pythagorean theorem, as the diagonal forms a right triangle with two sides of the square.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the volume of a torus (donut shape) with major radius R and minor radius r?",
+    "options": [
+      "V = 2π²Rr²",
+      "V = 4πRr²",
+      "V = 2π²R²r",
+      "V = 4/3πr³"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The volume of a torus with major radius R (distance from the center of the tube to the center of the torus) and minor radius r (radius of the tube) is calculated using the formula V = 2π²Rr². The surface area is given by A = 4π²Rr.",
+    "category": "Geometry"
+  },
+  {
+    "question": "What is the formula for the distance from a point (x₀,y₀) to a line ax + by + c = 0?",
+    "options": [
+      "d = |ax₀ + by₀ + c|",
+      "d = |ax₀ + by₀ + c| / √(a² + b²)",
+      "d = √(a² + b² + c²)",
+      "d = |ax₀ + by₀ + c| / (a + b)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The distance from a point (x₀,y₀) to a line ax + by + c = 0 is calculated using the formula d = |ax₀ + by₀ + c| / √(a² + b²). This formula gives the shortest distance between the point and the line.",
+    "category": "Geometry"
+  }
+] 

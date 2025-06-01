@@ -6,13 +6,17 @@ class CategoryUtils {
   // Map of category names to their corresponding icons
   static Map<String, IconData> getCategoryIcons() {
     return {
-      'Speaking': FontAwesomeIcons.microphoneLines,
-      'Writing': FontAwesomeIcons.pencil,
       'Reading': FontAwesomeIcons.bookOpen,
-      'Listening': FontAwesomeIcons.headphones,
-      'Test Format': FontAwesomeIcons.clipboardList,
-      'Scoring': FontAwesomeIcons.chartSimple,
+      'Writing & Language': FontAwesomeIcons.pencil,
+      'Math - Calculator': FontAwesomeIcons.calculator,
+      'Math - No Calculator': FontAwesomeIcons.solidCircleXmark,
+      'Vocabulary': FontAwesomeIcons.book,
+      'Grammar': FontAwesomeIcons.paragraph,
+      'Algebra': FontAwesomeIcons.superscript,
+      'Geometry': FontAwesomeIcons.drawPolygon,
+      'Data Analysis': FontAwesomeIcons.chartPie,
       'Test Strategies': FontAwesomeIcons.lightbulb,
+      'Practice Tests': FontAwesomeIcons.clipboardCheck,
     };
   }
 
@@ -40,13 +44,17 @@ class CategoryUtils {
   // Map of category names to their corresponding colors
   static Map<String, Color> getCategoryColors() {
     return {
-      'Speaking': Colors.blue.shade500,
-      'Writing': Colors.indigo.shade400,
-      'Reading': Colors.green.shade500,
-      'Listening': Colors.purple.shade400,
-      'Test Format': Colors.orange.shade400,
-      'Scoring': Colors.red.shade400,
+      'Reading': Colors.blue.shade500,
+      'Writing & Language': Colors.indigo.shade400,
+      'Math - Calculator': Colors.green.shade500,
+      'Math - No Calculator': Colors.green.shade700,
+      'Vocabulary': Colors.purple.shade400,
+      'Grammar': Colors.purple.shade600,
+      'Algebra': Colors.orange.shade400,
+      'Geometry': Colors.orange.shade600,
+      'Data Analysis': Colors.red.shade400,
       'Test Strategies': Colors.teal.shade500,
+      'Practice Tests': Colors.amber.shade600,
     };
   }
 

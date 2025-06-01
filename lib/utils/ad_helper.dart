@@ -9,28 +9,28 @@ class AdHelper {
   static String get bannerAdUnitId {
     if (Platform.isAndroid) {
       // Return your Android Banner Ad Unit ID here
-      return 'ca-app-pub-6088367933724448/9979239822'; 
+      return 'ca-app-pub-6088367933724448/99792398220'; 
     } else if (Platform.isIOS) {
       // Return your iOS Banner Ad Unit ID here
-      return 'ca-app-pub-6088367933724448/2993376686'; 
+      return 'ca-app-pub-6088367933724448/29933766860'; 
     }
     throw UnsupportedError('Unsupported platform');
   }
 
   static String get rewardedInterstitialAdUnitId {
     if (Platform.isAndroid) {
-      return 'ca-app-pub-6088367933724448/9558785035'; 
+      return 'ca-app-pub-6088367933724448/95587850350'; 
     } else if (Platform.isIOS) {
-      return 'ca-app-pub-6088367933724448/8698255232'; 
+      return 'ca-app-pub-6088367933724448/86982552320'; 
     }
     throw UnsupportedError('Unsupported platform');
   }
 
   static String get appOpenAdUnitId {
     if (Platform.isAndroid) {
-      return 'ca-app-pub-6088367933724448/3637500246'; 
+      return 'ca-app-pub-6088367933724448/36375002460'; 
     } else if (Platform.isIOS) {
-      return 'ca-app-pub-6088367933724448/3620046736'; 
+      return 'ca-app-pub-6088367933724448/36200467360'; 
     }
     throw UnsupportedError('Unsupported platform');
   }

@@ -1,0 +1,722 @@
+[
+  {
+    "question": "What is the most effective way to use official SAT practice tests?",
+    "options": [
+      "Take them casually, without timing yourself",
+      "Only complete the sections you struggle with",
+      "Take full tests under timed, test-like conditions, then thoroughly review mistakes",
+      "Take each section on different days"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The most effective approach is to take full practice tests under timed, test-like conditions to build stamina and simulate the actual test experience, followed by thorough review of all mistakes to understand and learn from them.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How many official practice tests does the College Board typically make available?",
+    "options": [
+      "2-3 practice tests",
+      "8-10 practice tests",
+      "15-20 practice tests",
+      "Over 30 practice tests"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The College Board typically makes available 8-10 official practice tests through their website and the Official SAT Study Guide, though the exact number may vary over time.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What is the best time to start taking full-length practice tests?",
+    "options": [
+      "The night before the SAT",
+      "At least 2-3 months before your test date",
+      "Only in the final week before the test",
+      "Only after you've studied all content areas thoroughly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Start taking full-length practice tests at least 2-3 months before your test date to establish a baseline, identify weak areas early, and allow time for targeted improvement.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What should you do after completing a practice test?",
+    "options": [
+      "Move immediately to the next practice test",
+      "Only check your overall score",
+      "Thoroughly review all mistakes, categorize error types, and create a study plan based on weaknesses",
+      "Only review the questions you got wrong without analyzing patterns"
+    ],
+    "correctAnswer": 2,
+    "explanation": "After completing a practice test, thoroughly review all mistakes, categorize error types (careless, content gap, misunderstanding), and create a targeted study plan based on identified weaknesses.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "Why is it important to simulate actual testing conditions when taking practice tests?",
+    "options": [
+      "It's not important as long as you answer the questions",
+      "To build mental stamina and identify focus issues that may affect performance",
+      "Only to practice time management",
+      "Only to make practice more difficult"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Simulating actual testing conditions helps build mental stamina, identify focus issues, practice time management, and get accustomed to the length and rhythm of the test to reduce test-day anxiety.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How can you most effectively simulate test conditions when taking a practice test?",
+    "options": [
+      "Take the test while watching TV",
+      "Take each section on different days",
+      "Use official timing, take appropriate breaks, minimize distractions, and use only allowed materials",
+      "Take the test in a noisy environment to build concentration"
+    ],
+    "correctAnswer": 2,
+    "explanation": "To effectively simulate test conditions: use official timing, take only the allowed breaks, minimize distractions, sit at a desk/table, use only allowed materials (approved calculator, #2 pencils), and complete all sections in one sitting.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What is a good way to track progress across multiple practice tests?",
+    "options": [
+      "Only look at your overall score",
+      "Keep a detailed error log categorizing mistakes and noting improvement in specific areas",
+      "Focus only on your best section",
+      "Compare yourself to friends' scores"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Track progress by keeping a detailed error log that categorizes mistakes by type and content area, noting improvement in specific areas, and monitoring overall score trends across practice tests.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How many full-length practice tests should you ideally take before your actual SAT?",
+    "options": [
+      "None - practice tests aren't helpful",
+      "Just one the week before",
+      "At least 3-5 spaced out over your preparation period",
+      "As many as possible, even if you don't review them"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ideally, take at least 3-5 full-length practice tests spaced throughout your preparation period, with thorough review after each. Quality of review is more important than quantity of tests taken.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What is the value of taking an initial diagnostic practice test?",
+    "options": [
+      "It will discourage you if you score poorly",
+      "It establishes a baseline score and helps identify specific strengths and weaknesses",
+      "It's only useful for advanced students",
+      "It's only helpful the week before the actual test"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An initial diagnostic practice test establishes your baseline score, helps identify specific strengths and weaknesses, and allows you to create a targeted study plan focused on areas needing improvement.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "When reviewing practice test mistakes, what is most helpful?",
+    "options": [
+      "Just marking questions right or wrong",
+      "Understanding why the correct answer is right AND why you selected the wrong answer",
+      "Memorizing the correct answers",
+      "Only reviewing math mistakes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When reviewing mistakes, understand both why the correct answer is right AND why you selected the wrong answer. Identify the misconception or error pattern to prevent similar mistakes in the future.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What should you do if your practice test scores aren't improving?",
+    "options": [
+      "Take more practice tests without changing your approach",
+      "Give up on studying",
+      "Analyze your mistake patterns, adjust your study strategy, and possibly seek outside help",
+      "Focus only on your strongest section"
+    ],
+    "correctAnswer": 2,
+    "explanation": "If scores aren't improving, analyze mistake patterns in detail, adjust your study strategy to target weak areas, review core concepts you're missing, and consider seeking outside help from a teacher or tutor.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What is a good practice for the final week before the SAT?",
+    "options": [
+      "Take as many full practice tests as possible",
+      "Take one more practice test, focus on reviewing weak areas, and get plenty of rest",
+      "Start studying new content areas",
+      "Stop all preparation to avoid burnout"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In the final week, take one more practice test (not the day before), focus on reviewing weak areas and common mistakes, practice with light review sessions, and prioritize rest and mental preparation.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How can you use practice tests to improve time management?",
+    "options": [
+      "Always rush through all sections",
+      "Ignore the time limits entirely",
+      "Track time per section and question, identifying where you're spending too much time",
+      "Only time the sections you struggle with"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Improve time management by tracking time spent per section and question type, identifying where you're spending too much time, and practicing strategic pacing to ensure you can complete each section.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What's the best approach if you consistently run out of time on practice test sections?",
+    "options": [
+      "Keep practicing the same way and hope it improves",
+      "Skip the hardest questions immediately",
+      "Develop a strategic approach: identify question types that take you longest and practice techniques to address them more efficiently",
+      "Ignore timing entirely in future practice"
+    ],
+    "correctAnswer": 2,
+    "explanation": "If consistently running out of time, develop a strategic approach: identify question types that take you longest, practice techniques to address them more efficiently, and work on recognizing when to move on from difficult questions.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What is the advantage of using official College Board practice tests versus unofficial ones?",
+    "options": [
+      "Official tests are easier",
+      "Official tests most accurately reflect the format, difficulty, and types of questions on the actual SAT",
+      "Unofficial tests are always better for preparation",
+      "There is no difference between official and unofficial tests"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Official College Board practice tests most accurately reflect the actual SAT's format, difficulty level, and question types since they're created by the same organization that designs the real test.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How should you use the answer explanations provided with practice tests?",
+    "options": [
+      "Ignore them and just check if you're right or wrong",
+      "Only read explanations for math questions",
+      "Carefully read explanations for all missed questions to understand the reasoning",
+      "Only read explanations if you got more than half the questions wrong"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Carefully read explanations for all missed questions to understand the reasoning behind correct answers. For questions you guessed correctly, read those explanations too, as you may have been right for the wrong reasons.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What practice test habits might actually hurt your SAT performance?",
+    "options": [
+      "Reviewing your mistakes thoroughly",
+      "Taking tests under timed conditions",
+      "Taking tests in small sections over many days and never simulating full test conditions",
+      "Keeping an error log"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Taking tests in small sections over many days and never simulating full test conditions can hurt performance by failing to build the stamina and focus needed for the actual 3+ hour test experience.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What should you do if you notice that your performance decreases toward the end of practice tests?",
+    "options": [
+      "Only practice your strongest sections",
+      "Build mental stamina through full-length practice and develop strategies for maintaining focus",
+      "Skip the last section in future practice",
+      "Only practice in 30-minute increments"
+    ],
+    "correctAnswer": 1,
+    "explanation": "If performance decreases toward the end of tests, build mental stamina through regular full-length practice and develop specific strategies for maintaining focus (short mental breaks, shifting position, positive self-talk).",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What's the most effective way to use the score reports from official SAT practice tests?",
+    "options": [
+      "Only look at your overall score",
+      "Compare your score to national averages",
+      "Analyze performance by question type and content area to identify specific strengths and weaknesses",
+      "Focus only on your highest-scoring section"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Use score reports to analyze performance by question type and content area, identifying specific strengths and weaknesses. Look for patterns in missed questions to guide your study plan.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How can you make the most of limited practice test materials?",
+    "options": [
+      "Take each test multiple times until you memorize the answers",
+      "Only take one or two tests to avoid using them all",
+      "Take each test once under realistic conditions, then use targeted section practice for specific weaknesses",
+      "Focus only on the most recent practice tests"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Make the most of limited materials by taking each test once under realistic conditions, thoroughly reviewing mistakes, and then using targeted section practice from other resources to address specific weaknesses.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What is the best way to simulate test day conditions during practice tests?",
+    "options": [
+      "Take the test in a noisy environment",
+      "Use a quiet room, proper desk, and official timing",
+      "Take breaks whenever you want",
+      "Use additional resources not allowed on test day"
+    ],
+    "correctAnswer": 1,
+    "explanation": "To best simulate test day conditions, use a quiet room, proper desk/chair, official timing, and only materials allowed on test day. This helps build familiarity with actual test conditions.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How should you analyze wrong answers from practice tests?",
+    "options": [
+      "Just mark them wrong and move on",
+      "Only review math mistakes",
+      "Categorize errors by type and create a study plan to address patterns",
+      "Focus only on questions you guessed correctly"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Analyze wrong answers by categorizing error types (content gaps, careless mistakes, time management) and create a targeted study plan to address pattern weaknesses.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What should you do the day before taking a practice test?",
+    "options": [
+      "Stay up late studying",
+      "Get good rest and prepare materials",
+      "Take another practice test",
+      "Skip meals to focus on preparation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The day before a practice test, get good rest and prepare materials (calculator, pencils, etc.). This mirrors ideal preparation for the actual test day.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How can you use practice tests to improve time management?",
+    "options": [
+      "Always work as fast as possible",
+      "Ignore time limits",
+      "Track time per section and question type to identify areas needing improvement",
+      "Only time the sections you struggle with"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Use practice tests to track time spent per section and question type, identifying where you need more efficiency and developing strategies to improve pacing.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What is the value of taking practice tests at different times of day?",
+    "options": [
+      "It doesn't matter when you take practice tests",
+      "It helps identify your optimal testing time and builds flexibility",
+      "You should only practice at the same time as your actual test",
+      "Late night practice is best"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Taking practice tests at different times helps identify your optimal testing time and builds flexibility to perform well regardless of when your actual test is scheduled.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How should you use the answer key after a practice test?",
+    "options": [
+      "Just check right/wrong answers",
+      "Review explanations for all questions, including ones answered correctly",
+      "Only look at math answers",
+      "Skip the answer key review"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Review explanations for all questions, including ones answered correctly, as you might have gotten right answers for wrong reasons or could learn more efficient approaches.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What should you do if your practice test scores plateau?",
+    "options": [
+      "Give up on studying",
+      "Keep taking tests without changing approach",
+      "Analyze performance patterns and adjust study strategy",
+      "Only focus on your strongest sections"
+    ],
+    "correctAnswer": 2,
+    "explanation": "If scores plateau, analyze performance patterns in detail and adjust your study strategy. Focus on specific areas needing improvement and consider new approaches to challenging topics.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How can you use practice tests to reduce test anxiety?",
+    "options": [
+      "Avoid taking full practice tests",
+      "Take tests under more stressful conditions than the real exam",
+      "Build familiarity with test format and timing through regular practice",
+      "Only practice easy sections"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Regular practice tests help reduce anxiety by building familiarity with the test format, timing, and conditions, making the actual test feel more routine.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What role should practice tests play in your final week of preparation?",
+    "options": [
+      "Take as many as possible",
+      "Take one more test and focus on reviewing weak areas",
+      "Stop all preparation",
+      "Only take mini practice sections"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In the final week, take one more practice test (not too close to test day), then focus on reviewing weak areas and maintaining confidence. Avoid overwhelming yourself with too much practice.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How can you use practice tests to improve your essay writing (if taking the essay)?",
+    "options": [
+      "Skip essay practice entirely",
+      "Write essays without timing yourself",
+      "Practice with timed essays and review using scoring rubric",
+      "Only outline essays"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Practice timed essays and review them using the official scoring rubric. This helps develop time management for essay writing and understanding of scoring criteria.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What is the most effective way to review practice test results?",
+    "options": [
+      "Only look at total score",
+      "Analyze each mistake, categorize error types, and create focused study plans",
+      "Skip review entirely",
+      "Only review correct answers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Analyzing each mistake, categorizing error types, and creating focused study plans helps identify patterns and improve performance systematically.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How often should you take full-length practice tests?",
+    "options": [
+      "Every day",
+      "Every 1-2 weeks with thorough review between tests",
+      "Only the day before the SAT",
+      "Never take practice tests"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Taking practice tests every 1-2 weeks with thorough review between tests allows time for learning from mistakes and implementing improvements.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What should you do if your practice test scores plateau?",
+    "options": [
+      "Give up studying",
+      "Analyze error patterns and adjust study strategy",
+      "Take more tests without review",
+      "Only study your best subject"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When scores plateau, analyzing error patterns and adjusting study strategy helps break through performance barriers.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How should you use the answer explanations in practice tests?",
+    "options": [
+      "Skip them entirely",
+      "Read explanations for both wrong and right answers to understand reasoning",
+      "Only read for math questions",
+      "Only read when you guess correctly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reading explanations for both wrong and right answers helps understand the reasoning behind correct answers and common mistakes.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What is the best way to track progress across practice tests?",
+    "options": [
+      "Don't track progress",
+      "Keep detailed logs of scores, types of errors, and improvements",
+      "Only track total score",
+      "Only track wrong answers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Keeping detailed logs of scores, types of errors, and improvements helps identify trends and areas needing focus.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How should you use practice tests to improve time management?",
+    "options": [
+      "Ignore timing",
+      "Track time per section and question type to identify areas needing efficiency",
+      "Rush through all sections",
+      "Only time math sections"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tracking time per section and question type helps identify where you need to improve efficiency and develop better pacing strategies.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What should you do between practice tests?",
+    "options": [
+      "Take another test immediately",
+      "Focus on targeted practice in weak areas identified from previous test",
+      "Take a long break",
+      "Only study strong subjects"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Focusing on targeted practice in weak areas between tests helps improve specific skills and overall performance.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How can you use practice tests to reduce test anxiety?",
+    "options": [
+      "Avoid practice tests",
+      "Build familiarity with test format and timing through regular practice",
+      "Only practice easy sections",
+      "Take tests without timing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Regular practice with full tests helps reduce anxiety by building familiarity with the format and timing of the actual test.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What is the best approach to the experimental section in practice tests?",
+    "options": [
+      "Skip it entirely",
+      "Treat it like any other section since you won't know which is experimental",
+      "Only do half the questions",
+      "Take extra time on it"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Since you won't know which section is experimental on test day, treat all sections equally during practice to build proper stamina and skills.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How should you use practice tests to improve reading speed?",
+    "options": [
+      "Skip reading sections",
+      "Track time per passage and practice active reading techniques",
+      "Read as fast as possible",
+      "Only read short passages"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tracking time per passage and practicing active reading techniques helps develop efficient reading strategies.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What is the best way to use practice tests for essay preparation?",
+    "options": [
+      "Skip essay practice",
+      "Write timed essays and review using scoring rubric",
+      "Write untimed essays",
+      "Only outline essays"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Writing timed essays and reviewing them using the scoring rubric helps develop time management and understanding of scoring criteria.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How should you approach the math sections in practice tests?",
+    "options": [
+      "Skip difficult questions",
+      "Practice both with and without calculator, focusing on efficient strategies",
+      "Use calculator for everything",
+      "Only do multiple choice"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Practicing both calculator and no-calculator sections helps develop appropriate strategies for each type of question.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What is the best use of official practice test materials?",
+    "options": [
+      "Save them all for later",
+      "Use them strategically throughout preparation, with thorough review",
+      "Take all tests in one week",
+      "Only use unofficial tests"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using official materials strategically throughout preparation ensures exposure to accurate test format and difficulty levels.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How can you use practice tests to improve vocabulary?",
+    "options": [
+      "Skip vocabulary questions",
+      "Keep list of unfamiliar words from passages and review their usage",
+      "Only study word lists",
+      "Focus on math instead"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Keeping a list of unfamiliar words from passages and reviewing their usage helps build vocabulary in context.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What should you do if you consistently run out of time on practice tests?",
+    "options": [
+      "Skip timing",
+      "Analyze where time is spent and develop section-specific strategies",
+      "Rush through all sections",
+      "Only do easy questions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Analyzing where time is spent and developing section-specific strategies helps improve time management skills.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How should you use practice tests to improve writing skills?",
+    "options": [
+      "Skip writing sections",
+      "Review grammar rules and practice identifying common errors",
+      "Only do multiple choice",
+      "Ignore punctuation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reviewing grammar rules and practicing identifying common errors helps improve writing and editing skills.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What is the best way to simulate test day conditions?",
+    "options": [
+      "Take tests in noisy places",
+      "Use proper timing, materials, and environment similar to test day",
+      "Take breaks whenever needed",
+      "Use extra resources"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using proper timing, materials, and a similar environment helps prepare for actual test day conditions.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How should you use practice tests to improve math accuracy?",
+    "options": [
+      "Skip checking work",
+      "Practice checking methods and review common error types",
+      "Only use calculator",
+      "Skip word problems"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Practicing checking methods and reviewing common error types helps improve accuracy in math sections.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What is the best approach to grid-in questions in practice tests?",
+    "options": [
+      "Skip them all",
+      "Practice proper formatting and check answers carefully",
+      "Only do multiple choice",
+      "Guess on all grid-ins"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Practicing proper formatting and careful checking helps avoid errors specific to grid-in questions.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How can you use practice tests to improve reading comprehension?",
+    "options": [
+      "Skip long passages",
+      "Practice active reading strategies and analyze question types",
+      "Only read short passages",
+      "Memorize answers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Practicing active reading strategies and analyzing question types helps improve reading comprehension skills.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What should you do with practice test answer sheets?",
+    "options": [
+      "Throw them away",
+      "Review for patterns in wrong answers and timing issues",
+      "Only check total score",
+      "Ignore wrong answers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reviewing answer sheets for patterns in wrong answers and timing issues helps identify areas needing improvement.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How should you use practice tests to improve mental stamina?",
+    "options": [
+      "Take short tests only",
+      "Complete full-length tests and analyze performance throughout",
+      "Skip difficult sections",
+      "Take frequent breaks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Completing full-length tests and analyzing performance throughout helps build mental stamina for test day.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What is the best way to review math formulas using practice tests?",
+    "options": [
+      "Memorize all formulas",
+      "Identify commonly used formulas and practice their application",
+      "Skip formula questions",
+      "Only use calculator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Identifying commonly used formulas and practicing their application helps build understanding and efficiency.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How should you use practice tests to improve grammar skills?",
+    "options": [
+      "Skip grammar questions",
+      "Review missed questions and study relevant grammar rules",
+      "Only do easy questions",
+      "Guess on grammar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reviewing missed questions and studying relevant grammar rules helps improve understanding and application of grammar concepts.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What is the best approach to paired passages in practice tests?",
+    "options": [
+      "Read one passage only",
+      "Practice comparing passages and identifying relationships",
+      "Skip comparison questions",
+      "Read conclusions only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Practicing comparing passages and identifying relationships helps develop skills for analyzing paired texts.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How can you use practice tests to improve data analysis skills?",
+    "options": [
+      "Skip data questions",
+      "Practice interpreting graphs, tables, and charts systematically",
+      "Only look at numbers",
+      "Guess on data questions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Practicing systematic interpretation of graphs, tables, and charts helps improve data analysis skills.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What should you do with practice test scratch paper?",
+    "options": [
+      "Throw it away immediately",
+      "Review work to identify efficient problem-solving methods",
+      "Ignore scratch work",
+      "Only keep math work"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reviewing scratch work helps identify more efficient problem-solving methods and areas for improvement.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How should you use practice tests to improve essay writing?",
+    "options": [
+      "Skip essay practice",
+      "Write essays under timed conditions and analyze structure",
+      "Write untimed essays",
+      "Only outline essays"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Writing essays under timed conditions and analyzing structure helps develop effective writing strategies.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "What is the best way to use practice tests for last-minute preparation?",
+    "options": [
+      "Take multiple tests",
+      "Review key concepts and strategies identified from previous tests",
+      "Learn new material",
+      "Skip practice tests"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reviewing key concepts and strategies from previous tests helps reinforce learning without overwhelming yourself before the test.",
+    "category": "Practice Tests"
+  },
+  {
+    "question": "How can you use practice tests to improve problem-solving skills?",
+    "options": [
+      "Skip word problems",
+      "Analyze solution methods and practice alternative approaches",
+      "Only do easy problems",
+      "Memorize solutions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Analyzing solution methods and practicing alternative approaches helps develop flexible problem-solving skills.",
+    "category": "Practice Tests"
+  }
+] 

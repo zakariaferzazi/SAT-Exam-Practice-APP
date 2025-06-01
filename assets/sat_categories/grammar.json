@@ -1,0 +1,698 @@
+[
+  {
+    "question": "Which of these is a common subject-verb agreement error tested on the SAT?",
+    "options": [
+      "Using 'who' instead of 'whom'",
+      "Using a singular verb with a plural subject",
+      "Using the wrong verb tense",
+      "Using passive voice"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A common subject-verb agreement error is using a singular verb with a plural subject (or vice versa). The SAT often tests this with sentences where the subject and verb are separated by prepositional phrases.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a comma splice?",
+    "options": [
+      "Using too many commas in a sentence",
+      "Joining two independent clauses with only a comma",
+      "Separating a subject from its verb with a comma",
+      "Using a comma instead of a period"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A comma splice occurs when two independent clauses (complete sentences) are joined with only a comma. This is a common grammar error tested on the SAT Writing section.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is parallel structure in grammar?",
+    "options": [
+      "Using the same sentence structure throughout a paragraph",
+      "Making sure sentences have equal length",
+      "Using the same grammatical form for similar elements in a series",
+      "Repeating the same words for emphasis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Parallel structure means using the same grammatical form for similar elements in a series or list. For example: 'I enjoy running, swimming, and biking' (all gerunds) rather than 'I enjoy running, swimming, and to bike.'",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a dangling modifier?",
+    "options": [
+      "A modifier that appears at the end of a sentence",
+      "A modifier with an unclear or missing subject",
+      "A modifier that uses too many words",
+      "A modifier that repeats information"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A dangling modifier is a descriptive phrase that does not clearly modify the intended subject, often because the subject is missing from the sentence or is not the word immediately following the modifier.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the correct way to fix a run-on sentence?",
+    "options": [
+      "Add more conjunctions",
+      "Make it longer to add more detail",
+      "Split it into separate sentences or join clauses properly with conjunctions or semicolons",
+      "Remove all punctuation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "To fix a run-on sentence, you can split it into separate sentences with periods, join clauses with coordinating conjunctions (and, but, or, etc.) preceded by commas, or connect closely related independent clauses with semicolons.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is pronoun-antecedent agreement?",
+    "options": [
+      "When pronouns and verbs match in tense",
+      "When a pronoun matches its antecedent in number and gender",
+      "When pronouns appear before nouns",
+      "When different pronouns are used for variety"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pronoun-antecedent agreement means that a pronoun must match the noun it refers to (its antecedent) in number (singular/plural) and gender. For example, 'Each student must bring his or her (not their) book.'",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a common misuse of semicolons tested on the SAT?",
+    "options": [
+      "Using them to introduce lists",
+      "Using them between an independent clause and a dependent clause",
+      "Using them between two related independent clauses",
+      "Using them after coordinating conjunctions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A common misuse of semicolons is placing them between an independent clause and a dependent clause. Semicolons should connect two independent clauses (complete sentences), not a complete and incomplete sentence.",
+    "category": "Grammar"
+  },
+  {
+    "question": "Which of these is a correct use of a colon?",
+    "options": [
+      "To separate a verb from its object",
+      "To introduce a list or explanation after an independent clause",
+      "To separate a city from a state",
+      "To connect two independent clauses that are unrelated"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A correct use of a colon is to introduce a list or explanation after an independent clause (complete sentence). For example: 'She brought three items: a pen, a notebook, and a laptop.'",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the difference between 'affect' and 'effect'?",
+    "options": [
+      "They are interchangeable",
+      "'Affect' is usually a verb meaning to influence; 'effect' is usually a noun meaning result",
+      "'Affect' is always a noun; 'effect' is always a verb",
+      "They have the same meaning but different spelling"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Affect' is usually a verb meaning to influence or change (The weather affected my mood). 'Effect' is usually a noun meaning the result or consequence (The effect of the medicine was immediate).",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a misplaced modifier?",
+    "options": [
+      "A modifier that is too long",
+      "A modifier that is placed too far from the word it modifies, causing confusion",
+      "A modifier that uses obscure vocabulary",
+      "A modifier at the beginning of a sentence"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A misplaced modifier is placed too far from the word it's supposed to modify, creating ambiguity or absurdity. For example: 'Walking down the street, the building impressed me' (implies the building was walking).",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the difference between 'its' and 'it's'?",
+    "options": [
+      "They are interchangeable",
+      "'Its' is the possessive form of 'it'; 'it's' is the contraction of 'it is' or 'it has'",
+      "'Its' is for inanimate objects only; 'it's' is for living things",
+      "There is no difference in meaning"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Its' is the possessive form of 'it' (The dog wagged its tail). 'It's' is the contraction of 'it is' or 'it has' (It's going to rain). This is a common confusion tested on the SAT.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the difference between 'who' and 'whom'?",
+    "options": [
+      "They are interchangeable in modern English",
+      "'Who' is used for questions only; 'whom' is for statements",
+      "'Who' is used as a subject pronoun; 'whom' is used as an object pronoun",
+      "'Who' is informal; 'whom' is formal"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Who' is used as a subject pronoun (Who wrote this?). 'Whom' is used as an object pronoun (To whom did you give the book?). Think: who = he/she/they, whom = him/her/them.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a sentence fragment?",
+    "options": [
+      "A sentence that is too short",
+      "A sentence with too many subjects",
+      "An incomplete sentence missing a subject or verb or expressing an incomplete thought",
+      "A sentence that uses simple words"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A sentence fragment is an incomplete sentence that's missing a subject, a verb, or both, or that doesn't express a complete thought. For example: 'After the movie ended.' (What happened after?)",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the correct use of apostrophes for showing possession?",
+    "options": [
+      "Add 's to all nouns to show possession",
+      "For singular nouns, add 's; for plural nouns that already end in s, add just an apostrophe",
+      "Apostrophes are never used for possession",
+      "Add apostrophes before the s in all cases"
+    ],
+    "correctAnswer": 1,
+    "explanation": "For singular nouns, add 's to show possession (the dog's bone). For plural nouns that already end in s, add just an apostrophe (the dogs' bones). For plural nouns not ending in s, add 's (the children's toys).",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the rule for using 'fewer' versus 'less'?",
+    "options": [
+      "They are interchangeable",
+      "Use 'fewer' for countable nouns; use 'less' for uncountable nouns",
+      "Use 'less' for plural nouns; use 'fewer' for singular nouns",
+      "Use 'fewer' for negative statements; use 'less' for positive statements"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Use 'fewer' for countable nouns (fewer apples, fewer people). Use 'less' for uncountable nouns (less water, less time). Easy way to remember: 'fewer items, less stuff.'",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the correct verb tense to use when describing a completed action in the past?",
+    "options": [
+      "Present tense",
+      "Future tense",
+      "Simple past tense",
+      "Present perfect tense"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The simple past tense is used to describe a completed action in the past (I walked to the store yesterday). This is distinguished from the present perfect (I have walked), which connects past actions to the present.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the difference between 'your' and 'you're'?",
+    "options": [
+      "They are interchangeable",
+      "'Your' is the possessive form of 'you'; 'you're' is the contraction of 'you are'",
+      "'Your' is formal; 'you're' is informal",
+      "There is no difference in meaning"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Your' is the possessive form of 'you' (Is this your book?). 'You're' is the contraction of 'you are' (You're going to be late). This distinction is frequently tested on the SAT.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is an independent clause?",
+    "options": [
+      "A clause that expresses a complete thought and can stand alone as a sentence",
+      "A clause that depends on another clause to form a complete thought",
+      "A clause with no punctuation",
+      "A clause with multiple subjects"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An independent clause expresses a complete thought and can stand alone as a sentence, containing both a subject and a verb (She ran to the store). Understanding clause types is essential for correct punctuation.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the correct use of 'there', 'their', and 'they're'?",
+    "options": [
+      "They all mean the same thing with different spellings",
+      "'There' indicates place; 'their' shows possession; 'they're' is the contraction of 'they are'",
+      "'There' and 'their' are interchangeable; 'they're' is different",
+      "These words are not tested on the SAT"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'There' indicates place (Let's go there). 'Their' shows possession by a group (Their house is beautiful). 'They're' is the contraction of 'they are' (They're coming to dinner). This distinction is frequently tested.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the Oxford comma?",
+    "options": [
+      "A comma used in British English only",
+      "A comma used after coordinating conjunctions",
+      "A comma used before the word 'Oxford'",
+      "A comma used before the final 'and' or 'or' in a list of three or more items"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Oxford comma (also called serial comma) is used before the final 'and' or 'or' in a list of three or more items (I bought apples, oranges, and bananas). Its use is stylistic but can clarify meaning.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is passive voice?",
+    "options": [
+      "Speaking quietly or passively",
+      "A construction where the subject receives the action rather than performs it",
+      "Using past tense verbs",
+      "Writing in a boring or unemotional style"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Passive voice is a grammatical construction where the subject of the sentence receives the action rather than performs it (The ball was thrown by John) as opposed to active voice (John threw the ball). The SAT may test your ability to identify and correct unnecessarily passive constructions.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a subordinate clause?",
+    "options": [
+      "A clause that can stand alone as a complete sentence",
+      "A clause that begins with a subordinating conjunction and cannot stand alone as a sentence",
+      "The main idea of a paragraph",
+      "A clause that appears only in complex sentences"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A subordinate clause (or dependent clause) begins with a subordinating conjunction (because, although, when, if, etc.) and cannot stand alone as a complete sentence. It depends on an independent clause to form a complete thought.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a prepositional phrase?",
+    "options": [
+      "A phrase that includes a verb and its object",
+      "A phrase that begins with a preposition and ends with a noun or pronoun",
+      "A phrase that includes an adjective and the noun it modifies",
+      "A phrase that begins with a coordinating conjunction"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A prepositional phrase begins with a preposition (in, on, at, by, etc.) and ends with a noun or pronoun (called the object of the preposition). Examples include 'in the house,' 'under the bridge,' and 'during the summer.'",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the correct form for comparative adjectives?",
+    "options": [
+      "Always add '-er' to the adjective",
+      "Always use 'more' before the adjective",
+      "For one-syllable adjectives, add '-er'; for adjectives with three or more syllables, use 'more'",
+      "There is no rule; it varies by adjective"
+    ],
+    "correctAnswer": 2,
+    "explanation": "For one-syllable adjectives, add '-er' (tall → taller). For adjectives with three or more syllables, use 'more' (beautiful → more beautiful). Two-syllable adjectives can follow either pattern depending on the word (happy → happier, cautious → more cautious).",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a split infinitive?",
+    "options": [
+      "An infinitive verb that's conjugated incorrectly",
+      "An infinitive where another word (often an adverb) is placed between 'to' and the verb",
+      "Using two infinitives in the same sentence",
+      "An infinitive used as both a verb and a noun"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A split infinitive occurs when another word (often an adverb) is placed between 'to' and the verb in an infinitive phrase. For example, 'to boldly go' splits the infinitive 'to go' with the adverb 'boldly.' While traditionally considered incorrect, split infinitives are increasingly accepted in modern English.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the difference between 'then' and 'than'?",
+    "options": [
+      "They are interchangeable",
+      "'Then' relates to time; 'than' is used for comparisons",
+      "'Then' is more formal; 'than' is casual",
+      "They have the same meaning but different parts of speech"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Then' relates to time or sequence (First we'll eat, then we'll leave). 'Than' is used for comparisons (She is taller than I am). This distinction is commonly tested on the SAT Writing section.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the correct use of 'lay' versus 'lie'?",
+    "options": [
+      "They are interchangeable",
+      "'Lay' means to place something down and requires an object; 'lie' means to recline and does not take an object",
+      "'Lay' is past tense; 'lie' is present tense",
+      "'Lay' is formal; 'lie' is informal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Lay' means to place something down and requires an object (I lay the book on the table). 'Lie' means to recline and does not take an object (I lie down to rest). This distinction is often tested, especially as the past tense of 'lie' is 'lay,' creating additional confusion.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a gerund?",
+    "options": [
+      "A verb that ends in '-ing' and functions as a noun",
+      "A verb in past tense",
+      "A type of pronoun",
+      "An adjective derived from a proper noun"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A gerund is a verb form that ends in '-ing' and functions as a noun in a sentence. Examples include: 'Swimming is good exercise' (subject), 'I enjoy reading' (direct object), and 'She's interested in learning' (object of preposition).",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a participle?",
+    "options": [
+      "A type of noun that can only be used once in a sentence",
+      "A verb form that can function as an adjective",
+      "A conjunction that joins independent clauses",
+      "A type of pronoun that refers to things rather than people"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A participle is a verb form that can function as an adjective. Present participles end in '-ing' (the running water); past participles typically end in '-ed,' '-en,' or '-t' (the written word, the broken glass). Participles can form participial phrases that modify nouns or pronouns.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the subjunctive mood?",
+    "options": [
+      "Using verbs to express questions",
+      "Using verbs to express commands",
+      "Using verbs to express wishes, suggestions, or hypothetical situations",
+      "Using verbs to express definite facts"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The subjunctive mood uses specific verb forms to express wishes, suggestions, requirements, or hypothetical situations. Examples include 'I wish I were taller' (not 'was'), 'The teacher requires that he submit the paper' (not 'submits'). The SAT may test correct use of the subjunctive.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the difference between 'good' and 'well'?",
+    "options": [
+      "They are interchangeable",
+      "'Good' is an adjective that describes nouns; 'well' is usually an adverb that describes verbs",
+      "'Good' is informal; 'well' is formal",
+      "'Good' is positive; 'well' is neutral"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Good' is an adjective that describes nouns (She is a good singer). 'Well' is usually an adverb that describes verbs (She sings well). However, 'well' can also be an adjective meaning 'in good health' (I don't feel well today).",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a compound sentence?",
+    "options": [
+      "A sentence with more than twenty words",
+      "A sentence formed by joining two or more independent clauses",
+      "A sentence with both a subject and an object",
+      "A sentence with multiple adjectives"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A compound sentence is formed by joining two or more independent clauses, typically with a coordinating conjunction (and, but, or, etc.) preceded by a comma, or with a semicolon. Example: 'She studied hard, and she passed the exam.'",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a complex sentence?",
+    "options": [
+      "A very complicated or difficult sentence",
+      "A sentence with more than three clauses",
+      "A sentence that contains an independent clause and at least one dependent clause",
+      "A sentence that uses advanced vocabulary"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A complex sentence contains an independent clause and at least one dependent (subordinate) clause. Example: 'Although it was raining (dependent clause), we went to the park (independent clause).' Understanding sentence types helps with proper punctuation and variety in writing.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a restrictive clause?",
+    "options": [
+      "A clause that limits what it modifies and is essential to the sentence's meaning",
+      "A clause that provides additional, non-essential information",
+      "A clause that contains negative words",
+      "A clause that restricts the use of certain vocabulary"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A restrictive clause (or essential clause) limits or defines what it modifies and is essential to the sentence's meaning. It is NOT set off by commas. Example: 'The book that I borrowed from you is excellent.' (Specifies which book) This contrasts with non-restrictive clauses.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a non-restrictive clause?",
+    "options": [
+      "A clause that restricts the meaning of what it modifies",
+      "A clause that provides additional, non-essential information and is set off by commas",
+      "A clause that cannot be restricted by grammar rules",
+      "A clause that contains only simple vocabulary"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A non-restrictive clause (or non-essential clause) provides additional, non-essential information and is set off by commas. Example: 'The book, which has a red cover, is on the table.' (The information about the cover is extra and not needed to identify the book) This contrasts with restrictive clauses.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the difference between 'which' and 'that' in relative clauses?",
+    "options": [
+      "They are always interchangeable",
+      "'Which' is used for non-restrictive clauses (with commas); 'that' is used for restrictive clauses (without commas)",
+      "'Which' is formal; 'that' is informal",
+      "'Which' refers to people; 'that' refers to things"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Which' is used for non-restrictive clauses that add non-essential information and are set off by commas ('The house, which has a red door, is large'). 'That' is used for restrictive clauses that are essential to meaning and not set off by commas ('The house that has a red door is large').",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is an appositive?",
+    "options": [
+      "A negative or opposing viewpoint",
+      "A noun or noun phrase that renames or explains another noun next to it",
+      "A phrase that always appears at the end of a sentence",
+      "A type of verb that expresses possibility"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An appositive is a noun or noun phrase that renames or explains another noun right next to it. Non-essential appositives are set off by commas. Example: 'My brother, an excellent musician, will perform tonight.' The phrase 'an excellent musician' is an appositive for 'My brother.'",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is faulty parallelism?",
+    "options": [
+      "When sentences in a paragraph do not relate to each other",
+      "When similar elements in a sentence are not expressed in the same grammatical form",
+      "When two paragraphs contradict each other",
+      "When sentences are arranged in the wrong order"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Faulty parallelism occurs when similar elements in a sentence are not expressed in the same grammatical form. Correct: 'She likes swimming, hiking, and running' (all gerunds). Incorrect: 'She likes swimming, hiking, and to run' (two gerunds and an infinitive). The SAT frequently tests this concept.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the difference between 'amount' and 'number'?",
+    "options": [
+      "They are interchangeable",
+      "Use 'amount' for things that can be counted individually; use 'number' for things that cannot be counted individually",
+      "Use 'number' for things that can be counted individually; use 'amount' for things that cannot be counted individually",
+      "Use 'amount' for small quantities; use 'number' for large quantities"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Use 'number' for things that can be counted individually (a number of books, a number of students). Use 'amount' for things that cannot be counted individually, often measured in bulk (an amount of water, an amount of time). This parallels the countable/uncountable noun distinction.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a run-on sentence?",
+    "options": [
+      "A sentence that is too long",
+      "A sentence that includes two or more independent clauses without proper punctuation or conjunctions",
+      "A sentence with too many adjectives",
+      "A sentence that spans more than three lines"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A run-on sentence includes two or more independent clauses without proper punctuation or conjunctions to connect them. Example: 'It was raining we stayed inside.' This can be fixed by adding a period, semicolon, or comma with a coordinating conjunction between the clauses.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a conjunctive adverb?",
+    "options": [
+      "An adverb that only appears at the beginning of sentences",
+      "A word that describes a conjunction",
+      "A word that functions as both a conjunction and an adverb, connecting independent clauses",
+      "A type of adverb that should never be used in formal writing"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A conjunctive adverb (like however, therefore, consequently, meanwhile, nevertheless) connects independent clauses while also functioning as an adverb. When used between independent clauses, it should be preceded by a semicolon and followed by a comma: 'She studied; therefore, she passed the exam.'",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a sentence with a compound subject?",
+    "options": [
+      "A sentence with two or more subjects that share the same verb",
+      "A sentence with both a subject and an object",
+      "A sentence that includes a compound word",
+      "A sentence with both singular and plural nouns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A sentence with a compound subject has two or more subjects that share the same verb. Example: 'John and Mary went to the store.' (John and Mary are the compound subject of the verb 'went'). This impacts subject-verb agreement rules.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a sentence with a compound predicate?",
+    "options": [
+      "A sentence with multiple verbs",
+      "A sentence where the subject performs two or more actions (has two or more verbs)",
+      "A sentence with compound words in the predicate",
+      "A sentence with a predicate adjective and a predicate nominative"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A sentence with a compound predicate has a subject that performs two or more actions (has two or more verbs). Example: 'John ran to the store and bought some milk.' Here, John (the subject) performs two actions: ran and bought.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the difference between 'who' and 'that' when referring to people?",
+    "options": [
+      "They are interchangeable when referring to people",
+      "'Who' is used for people; 'that' is never used for people",
+      "'Who' is used for specific people; 'that' is used for unspecified people",
+      "'Who' is preferred for people but 'that' is sometimes acceptable, especially in informal contexts or for groups"
+    ],
+    "correctAnswer": 3,
+    "explanation": "'Who' is generally preferred when referring to people ('The person who called earlier is waiting'). 'That' is traditionally used for things but is sometimes acceptable for people, especially in informal contexts or when referring to groups ('The team that won yesterday').",
+    "category": "Grammar"
+  },
+  {
+    "question": "When should you use a semicolon?",
+    "options": [
+      "Between an independent and a dependent clause",
+      "Between two closely related independent clauses not joined by a coordinating conjunction",
+      "Between items in a list",
+      "Before a quotation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Use a semicolon between two closely related independent clauses not joined by a coordinating conjunction (and, but, or, etc.). Example: 'She studied all night; she still failed the test.' Semicolons can also separate items in a list when the items themselves contain commas.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a nominal?",
+    "options": [
+      "A type of verb that expresses an action",
+      "A word, phrase, or clause that functions as a noun",
+      "A type of adjective that describes quantity",
+      "A pronoun that refers to indefinite things"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A nominal is a word, phrase, or clause that functions as a noun in a sentence. Examples include: nouns ('The book is interesting'), noun phrases ('The red book is interesting'), gerunds ('Reading is fun'), and noun clauses ('What she said surprised me').",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the correct way to form possessives with singular proper nouns ending in 's'?",
+    "options": [
+      "Add just an apostrophe (Charles')",
+      "Add 's (Charles's)",
+      "Rewrite to avoid the possessive",
+      "Both A and B are acceptable, depending on style guides"
+    ],
+    "correctAnswer": 3,
+    "explanation": "For singular proper nouns ending in 's', both forms are acceptable depending on the style guide followed: just an apostrophe (Charles') or apostrophe + s (Charles's). Major style guides like Chicago and MLA generally prefer adding 's (Charles's), while AP style often recommends just an apostrophe (Charles').",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the rule for hyphenating compound adjectives?",
+    "options": [
+      "Always hyphenate compound adjectives",
+      "Never hyphenate compound adjectives",
+      "Hyphenate compound adjectives when they come before the noun they modify",
+      "Hyphenate compound adjectives only if they contain a number"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hyphenate compound adjectives when they come before the noun they modify ('a well-known author'), but usually not when they come after the noun ('The author is well known'). This helps clarify which words are working together to modify the noun.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a predicate adjective?",
+    "options": [
+      "An adjective that comes before the noun it modifies",
+      "An adjective in the predicate that describes the subject and follows a linking verb",
+      "An adjective that modifies a verb instead of a noun",
+      "A type of adjective that should be avoided in formal writing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A predicate adjective is an adjective in the predicate that describes the subject and follows a linking verb (such as be, seem, appear, feel). Example: 'The movie was exciting.' Here, 'exciting' is a predicate adjective describing 'movie' after the linking verb 'was.'",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a predicate nominative?",
+    "options": [
+      "A noun in the predicate that renames or identifies the subject and follows a linking verb",
+      "A noun that functions as a direct object",
+      "A noun that always appears at the end of a sentence",
+      "A noun derived from a verb"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A predicate nominative (or predicate noun) is a noun in the predicate that renames or identifies the subject and follows a linking verb. Example: 'John is a doctor.' Here, 'doctor' is a predicate nominative that renames 'John' after the linking verb 'is.'",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the rule for using 'I' versus 'me'?",
+    "options": [
+      "Use 'I' in formal writing; use 'me' in casual writing",
+      "Use 'I' as a subject; use 'me' as an object",
+      "Use 'I' when referring to yourself first; use 'me' when referring to yourself after someone else",
+      "Use 'I' in the first sentence of a paragraph; use 'me' in subsequent sentences"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Use 'I' as a subject pronoun ('I went to the store'). Use 'me' as an object pronoun ('He gave it to me'). A common error is using 'I' as an object, especially in compound objects ('between you and me,' not 'between you and I').",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a direct object?",
+    "options": [
+      "A noun that performs the action of the verb",
+      "A noun or pronoun that receives the action of a transitive verb",
+      "A noun that describes another noun",
+      "A noun that appears at the beginning of a sentence"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A direct object is a noun or pronoun that receives the action of a transitive verb. It answers the question 'what?' or 'whom?' after the verb. Example: 'She read the book.' Here, 'book' is the direct object of the verb 'read.'",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is an indirect object?",
+    "options": [
+      "An object that is not directly mentioned in the sentence",
+      "A noun or pronoun that indicates to whom or for whom the action of the verb is performed",
+      "An object that appears in a later sentence",
+      "A direct object that is implied but not stated"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An indirect object is a noun or pronoun that indicates to whom or for whom the action of the verb is performed. It appears before the direct object. Example: 'She gave him the book.' Here, 'him' is the indirect object (who received the book) and 'book' is the direct object.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is the difference between 'farther' and 'further'?",
+    "options": [
+      "They are completely interchangeable",
+      "'Farther' refers to physical distance; 'further' refers to figurative distance or additional degree",
+      "'Farther' is used in American English; 'further' is used in British English",
+      "'Farther' is formal; 'further' is informal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Farther' typically refers to physical distance ('The store is farther away than I thought'). 'Further' typically refers to figurative distance or additional degree ('We need to discuss this further'). However, these distinctions are not always strictly observed in modern usage.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is an adverbial clause?",
+    "options": [
+      "A clause that functions as an adverb, modifying a verb, adjective, or other adverb",
+      "A clause that contains multiple adverbs",
+      "A clause that only uses adverbs instead of adjectives",
+      "A main clause in a complex sentence"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An adverbial clause is a dependent clause that functions as an adverb, modifying a verb, adjective, or other adverb. It often answers questions like when, where, why, how, or to what extent. Example: 'When it rains, the garden flourishes.' Here, 'When it rains' is an adverbial clause.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is an adjectival clause?",
+    "options": [
+      "A clause that contains multiple adjectives",
+      "A dependent clause that functions as an adjective, modifying a noun or pronoun",
+      "A clause that only uses adjectives instead of adverbs",
+      "A main clause in a complex sentence"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An adjectival clause (or relative clause) is a dependent clause that functions as an adjective, modifying a noun or pronoun. Example: 'The book that I bought yesterday is interesting.' Here, 'that I bought yesterday' is an adjectival clause modifying 'book.'",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is a noun clause?",
+    "options": [
+      "A clause that contains multiple nouns",
+      "A dependent clause that functions as a noun in a sentence",
+      "A clause that only uses nouns instead of pronouns",
+      "The main clause in a complex sentence"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A noun clause is a dependent clause that functions as a noun in a sentence. It can serve as a subject, object, or complement. Example: 'What she said surprised everyone.' Here, 'What she said' is a noun clause functioning as the subject of the sentence.",
+    "category": "Grammar"
+  },
+  {
+    "question": "What is subject-verb inversion?",
+    "options": [
+      "When the subject and verb are separated by another clause",
+      "When the verb comes before the subject in a sentence",
+      "When the subject is implied but not stated",
+      "When a sentence has multiple subjects and verbs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Subject-verb inversion occurs when the verb (or part of the verb phrase) comes before the subject in a sentence. This happens in questions ('Are you coming?'), with certain adverbs ('Never have I seen such a sight'), and in conditional clauses without 'if' ('Had I known, I would have helped').",
+    "category": "Grammar"
+  }
+] 

@@ -1,0 +1,698 @@
+[
+  {
+    "question": "What is the main purpose of the SAT Writing & Language section?",
+    "options": [
+      "To test creative writing skills",
+      "To assess your ability to identify and fix errors in writing",
+      "To evaluate handwriting quality",
+      "To measure vocabulary knowledge"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The SAT Writing & Language section assesses your ability to identify and correct grammar, punctuation, and rhetorical errors in writing passages.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "How is the Writing & Language section structured?",
+    "options": [
+      "You write your own essays from scratch",
+      "You edit passages that contain underlined portions with potential errors",
+      "You answer multiple-choice questions about grammar rules",
+      "You match vocabulary words with their definitions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Writing & Language section consists of passages with underlined portions. You must select the best version of the underlined text or choose 'no change' if the original is correct.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What types of passages appear in the Writing & Language section?",
+    "options": [
+      "Only narrative fiction",
+      "Only scientific texts",
+      "A variety of topics including careers, humanities, science, and history/social studies",
+      "Only historical documents"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Writing & Language section contains passages on various topics including careers, humanities, science, and history/social studies to test your editing skills across different contexts.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "Which of these is NOT typically tested in the Writing & Language section?",
+    "options": [
+      "Subject-verb agreement",
+      "Pronoun clarity and agreement",
+      "Literary analysis skills",
+      "Logical transitions between ideas"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Literary analysis skills are primarily tested in the Reading section, not in the Writing & Language section, which focuses on grammar, style, and organization.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What does it mean when a question asks you to consider the writer's 'development of ideas'?",
+    "options": [
+      "You should check for spelling errors",
+      "You should evaluate how effectively the writer presents, elaborates on, and connects ideas",
+      "You should count the number of vocabulary words used",
+      "You should analyze the author's personal opinions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Questions about 'development of ideas' ask you to evaluate how effectively the writer presents, elaborates on, and connects ideas throughout the passage.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What are 'expression of ideas' questions testing?",
+    "options": [
+      "Grammar and punctuation rules",
+      "Clarity, concision, style, and organization of writing",
+      "Mathematical expression skills",
+      "Your personal opinions about the topic"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Expression of ideas' questions test how effectively ideas are communicated through clarity, concision, style, and logical organization.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "Which of these is a principle of effective writing tested on the SAT?",
+    "options": [
+      "Using as many complex words as possible",
+      "Making sentences as long as possible",
+      "Precision and concision in language",
+      "Using passive voice whenever possible"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Precision and concision in language is a key principle of effective writing tested on the SAT. The best answer is often the one that expresses an idea clearly and directly.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is a comma splice error?",
+    "options": [
+      "Using a comma when a semicolon is needed",
+      "Joining two independent clauses with only a comma",
+      "Using too many commas in a sentence",
+      "Forgetting to use a comma in a compound sentence"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A comma splice error occurs when two independent clauses (complete sentences) are joined with only a comma rather than with appropriate punctuation like a semicolon or period, or with a conjunction.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "How should you approach questions about adding, revising, or deleting sentences?",
+    "options": [
+      "Always choose to add more detail",
+      "Always choose to delete sentences to make the passage shorter",
+      "Consider whether the change improves the focus, development, or organization of the passage",
+      "Select the option that uses the most technical vocabulary"
+    ],
+    "correctAnswer": 2,
+    "explanation": "When considering whether to add, revise, or delete sentences, evaluate whether the change improves the focus, development, or organization of the passage as a whole.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is a dangling modifier?",
+    "options": [
+      "A modifier that is placed too far from the word it modifies",
+      "A modifier with unclear or incorrect reference to what it's supposed to modify",
+      "A modifier that uses too many words",
+      "A modifier at the end of a sentence"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A dangling modifier is a descriptive phrase that doesn't clearly or correctly modify the intended subject, often because the subject is missing from the sentence.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What does 'maintaining consistent style and tone' mean in the context of the Writing & Language section?",
+    "options": [
+      "Using the same font throughout the passage",
+      "Making sure all sentences are exactly the same length",
+      "Ensuring that the level of formality and voice remain consistent throughout the passage",
+      "Using only simple sentences"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Maintaining consistent style and tone means ensuring that the level of formality, perspective, and voice remain consistent throughout the passage, without inappropriate shifts.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is parallel structure in writing?",
+    "options": [
+      "Writing sentences that are all the same length",
+      "Using the same grammatical form for similar elements in a sentence or list",
+      "Repeating the same word multiple times",
+      "Creating two columns of text side by side"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Parallel structure means using the same grammatical form for similar elements in a sentence or list, such as 'reading, writing, and calculating' rather than 'reading, writing, and to calculate.'",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "How does the SAT test your understanding of transitions?",
+    "options": [
+      "By asking you to memorize a list of transition words",
+      "By having you select the transition word or phrase that best connects ideas logically",
+      "By requiring you to create your own transition words",
+      "Transitions are not tested on the SAT"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The SAT tests your understanding of transitions by having you select the word or phrase (like 'however,' 'therefore,' or 'in addition') that best connects ideas logically based on their relationship.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is a run-on sentence?",
+    "options": [
+      "A sentence that is too long to read in one breath",
+      "Two or more independent clauses improperly joined without correct punctuation or conjunctions",
+      "A sentence with too many adjectives",
+      "A sentence that spans multiple paragraphs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A run-on sentence contains two or more independent clauses (complete sentences) that are improperly joined without correct punctuation or conjunctions.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "How should you approach questions about sentence placement?",
+    "options": [
+      "Always place the sentence at the beginning of the paragraph",
+      "Always place the sentence at the end of the paragraph",
+      "Consider the logical flow of ideas and where the sentence best fits in the sequence",
+      "Choose the placement that makes the paragraph longest"
+    ],
+    "correctAnswer": 2,
+    "explanation": "For sentence placement questions, consider the logical flow of ideas and determine where the sentence best fits in the sequence to maintain coherence and development.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is the correct use of a semicolon?",
+    "options": [
+      "To join a dependent clause to an independent clause",
+      "To join two independent clauses",
+      "To introduce a list",
+      "To indicate a question"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A semicolon is correctly used to join two independent clauses (complete sentences) that are closely related in meaning without using a coordinating conjunction.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is the approximate time allocation for the SAT Writing & Language section?",
+    "options": [
+      "15 minutes",
+      "25 minutes",
+      "35 minutes",
+      "55 minutes"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The SAT Writing & Language section typically allows 35 minutes to answer 44 questions across 4 passages.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "Which of these is an example of non-standard English usage that would be considered incorrect on the SAT?",
+    "options": [
+      "Using 'they' as a singular pronoun in appropriate contexts",
+      "Using 'whom' as an object pronoun",
+      "Using 'ain't' in formal writing",
+      "Using contractions like 'don't'"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Using 'ain't' is considered non-standard English and would be incorrect in formal writing contexts tested on the SAT.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What does 'economy of language' refer to in writing?",
+    "options": [
+      "Writing about economic topics",
+      "Using as few words as possible to express ideas clearly",
+      "Using specialized financial terminology",
+      "Writing that saves money on printing costs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Economy of language' refers to expressing ideas clearly and directly with as few words as necessary, avoiding wordiness and redundancy.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "How are graphics (charts, tables, graphs) used in the Writing & Language section?",
+    "options": [
+      "They are not used in this section",
+      "They are used only for decoration",
+      "They provide information that you may need to incorporate accurately into the passage",
+      "They test your artistic appreciation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Graphics in the Writing & Language section provide information that you may need to interpret and incorporate accurately into the passage, ensuring consistency between the text and data.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is a misplaced modifier?",
+    "options": [
+      "A modifier that uses archaic language",
+      "A modifier that is placed too far from the word it's supposed to modify, causing confusion",
+      "A modifier that's too long",
+      "A modifier that should be removed entirely"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A misplaced modifier is a descriptive word or phrase that is positioned too far from the word it's supposed to modify, creating ambiguity or absurdity. For example: 'Walking down the street, the trees were beautiful' incorrectly suggests the trees were walking.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is the correct use of a colon?",
+    "options": [
+      "To separate items in a list",
+      "To join two independent clauses of equal importance",
+      "To introduce a list, explanation, or definition after an independent clause",
+      "To indicate a question"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A colon is correctly used to introduce a list, explanation, or definition after an independent clause (complete sentence). The part before the colon should be able to stand alone as a complete sentence.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is pronoun-antecedent agreement?",
+    "options": [
+      "When pronouns and verbs match in tense",
+      "When pronouns agree with their antecedents (the nouns they refer to) in number and gender",
+      "When pronouns appear at the beginning of sentences",
+      "When different pronouns are used for variety"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pronoun-antecedent agreement means that a pronoun must agree with its antecedent (the noun it refers to) in number (singular/plural) and gender. For example, 'Each student must bring his or her book' correctly matches the singular 'each student.'",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is passive voice?",
+    "options": [
+      "When the subject performs the action of the verb",
+      "When the subject receives the action of the verb",
+      "When past tense is used",
+      "When the writer speaks directly to the reader"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Passive voice occurs when the subject of the sentence receives the action of the verb rather than performs it. For example, 'The ball was thrown by John' (passive) vs. 'John threw the ball' (active). While not always incorrect, passive voice is often less direct and clear.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What does it mean to maintain cohesion in writing?",
+    "options": [
+      "Using the same words repeatedly",
+      "Making all paragraphs the same length",
+      "Creating logical connections between ideas so the writing flows smoothly",
+      "Only writing about one topic"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Maintaining cohesion means creating logical connections between ideas so the writing flows smoothly from one point to the next. This includes using transitions, consistent pronouns, and logical sequencing to help readers follow the development of ideas.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is the purpose of a topic sentence in a paragraph?",
+    "options": [
+      "To add length to the paragraph",
+      "To introduce the main idea or focus of the paragraph",
+      "To conclude the paragraph with a summary",
+      "To transition to the next paragraph"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A topic sentence introduces the main idea or focus of a paragraph. It typically appears at the beginning of the paragraph and tells readers what the paragraph will be about, with the rest of the paragraph developing or supporting that idea.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is the correct approach when a question asks about precision in word choice?",
+    "options": [
+      "Choose the most complex or academic-sounding option",
+      "Select the word that most accurately and specifically conveys the intended meaning in context",
+      "Always choose the shortest word",
+      "Choose words with multiple meanings to be comprehensive"
+    ],
+    "correctAnswer": 1,
+    "explanation": "For precision in word choice, select the word that most accurately and specifically conveys the intended meaning in context. The best word is one that is not only correct but also precise, avoiding vagueness or ambiguity.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What does 'maintaining formal style' typically require in SAT Writing passages?",
+    "options": [
+      "Using slang and colloquial expressions",
+      "Using first-person pronouns like 'I' and 'we'",
+      "Avoiding contractions, slang, and overly casual language",
+      "Writing only in the past tense"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Maintaining formal style typically requires avoiding contractions, slang, and overly casual language. Formal writing is more impersonal, precise, and structured than conversational writing, appropriate for academic or professional contexts.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is a non-restrictive clause?",
+    "options": [
+      "A clause that is essential to the meaning of the sentence and is not set off by commas",
+      "A clause that provides additional, non-essential information and is set off by commas",
+      "A clause that restricts the number of words in a sentence",
+      "A clause that should never be used in formal writing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A non-restrictive clause provides additional, non-essential information and is set off by commas. If removed, the sentence would still retain its essential meaning. For example: 'My brother, who lives in Seattle, is visiting next week.' The information about where he lives is extra.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is verb tense consistency?",
+    "options": [
+      "Using only one tense throughout an entire essay",
+      "Maintaining consistent verb tenses within a time frame unless there's a logical reason to shift",
+      "Always using present tense",
+      "Alternating between past and present tense for variety"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Verb tense consistency means maintaining consistent verb tenses within a time frame unless there's a logical reason to shift. Unmotivated tense shifts can confuse readers about when events are occurring.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is redundancy in writing?",
+    "options": [
+      "Repeating important points for emphasis",
+      "Using unnecessary repetition of words or ideas that don't add meaning",
+      "Using technical terminology",
+      "Providing detailed evidence for claims"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Redundancy in writing is the unnecessary repetition of words or ideas that don't add meaning, such as 'past history' (history is always past) or 'unexpected surprise' (surprises are by definition unexpected). Concise writing eliminates redundancy.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What does 'logical sequence of ideas' refer to in the Writing & Language section?",
+    "options": [
+      "Arranging ideas in alphabetical order",
+      "Organizing ideas in a way that creates a logical progression and clear relationship between them",
+      "Always presenting the most important idea first",
+      "Ensuring all paragraphs are the same length"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Logical sequence of ideas refers to organizing thoughts in a way that creates a clear progression and relationship between them. This might involve chronological order, cause-effect relationships, or moving from general to specific information.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is the purpose of a concluding sentence in a paragraph?",
+    "options": [
+      "To introduce a new topic",
+      "To summarize the main point, provide closure, or transition to the next paragraph",
+      "To ask a question that cannot be answered",
+      "To present contradictory information"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A concluding sentence typically summarizes the main point of the paragraph, provides closure to the idea being discussed, or transitions to the next paragraph. It helps reinforce the paragraph's key message and maintain the flow of the writing.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What approach should you take for questions asking about combining sentences?",
+    "options": [
+      "Always keep sentences separate",
+      "Always combine sentences to make the writing more sophisticated",
+      "Consider whether combining improves clarity and logical relationships while avoiding awkwardness",
+      "Choose the longest option"
+    ],
+    "correctAnswer": 2,
+    "explanation": "When considering whether to combine sentences, evaluate if combining improves clarity and shows logical relationships between ideas while avoiding awkwardness or confusion. The best combination maintains the original meaning while creating a smooth, logical flow.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is a sentence fragment?",
+    "options": [
+      "A sentence that is too short",
+      "An incomplete sentence missing a subject, verb, or complete thought",
+      "A sentence with too many commas",
+      "A sentence that expresses more than one idea"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A sentence fragment is an incomplete sentence that's missing a subject, a verb, or both, or that doesn't express a complete thought. For example, 'Walking to the store.' (Who was walking? What happened?) Fragments should generally be corrected in formal writing.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is 'diction' in writing?",
+    "options": [
+      "The spacing between words",
+      "The choice of words and phrases used by a writer",
+      "The pronunciation of words when read aloud",
+      "The use of dictionary definitions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Diction refers to a writer's choice of words and phrases. Appropriate diction considers formality level, precision, connotation, and audience. The SAT may ask you to improve diction by replacing vague or inappropriate words with more precise or suitable ones.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is an appositive phrase?",
+    "options": [
+      "A phrase that opposes the main idea",
+      "A noun or noun phrase that renames or describes another noun right next to it",
+      "A phrase that appears at the beginning of every paragraph",
+      "A phrase that should be avoided in formal writing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An appositive phrase is a noun or noun phrase that renames or describes another noun right next to it. For example, in 'My sister, an accomplished pianist, gave a recital,' the phrase 'an accomplished pianist' is an appositive describing 'sister.'",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is faulty coordination in writing?",
+    "options": [
+      "Poor handwriting coordination",
+      "Joining ideas of unequal importance or unrelated ideas with coordinating conjunctions",
+      "Using too many transition words",
+      "Not using any conjunctions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Faulty coordination occurs when ideas of unequal importance or unrelated ideas are inappropriately joined with coordinating conjunctions (and, but, or, etc.). For example, 'I finished my homework, and the sky is blue' connects two unrelated ideas as if they were equally important.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is the appropriate use of subordination in writing?",
+    "options": [
+      "Always making sentences as complex as possible",
+      "Using subordinating conjunctions to show which ideas are less important or dependent on main ideas",
+      "Avoiding complex sentence structures",
+      "Using only simple sentences"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Appropriate subordination uses subordinating conjunctions (because, although, while, etc.) to show which ideas are less important or dependent on main ideas. This creates clear relationships between ideas and varies sentence structure effectively.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is a restrictive clause?",
+    "options": [
+      "A clause that is essential to the meaning of the sentence and is not set off by commas",
+      "A clause that limits word count",
+      "A clause that provides non-essential information and is set off by commas",
+      "A clause that can only be used in academic writing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A restrictive clause is essential to the meaning of the sentence and is not set off by commas. It restricts or defines the noun it modifies. For example, in 'The book that has a red cover is mine,' the clause 'that has a red cover' is restrictive because it specifies which book.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is the purpose of varying sentence structure in writing?",
+    "options": [
+      "To confuse the reader",
+      "To make the writing appear more complex",
+      "To create rhythm, emphasize important points, and maintain reader interest",
+      "To demonstrate knowledge of grammar rules"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Varying sentence structure creates rhythm, emphasizes important points, and maintains reader interest. A mix of simple, compound, complex, and compound-complex sentences makes writing more engaging and can help emphasize key ideas through sentence placement and structure.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What does 'being concise' mean in writing?",
+    "options": [
+      "Using as few words as possible regardless of clarity",
+      "Using only simple sentences",
+      "Expressing ideas clearly and directly without unnecessary words",
+      "Writing very short paragraphs"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Being concise means expressing ideas clearly and directly without unnecessary words, phrases, or repetition. Concise writing is more engaging and easier to understand, as it communicates points efficiently without sacrificing clarity or meaning.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is the purpose of a rhetorical question in writing?",
+    "options": [
+      "To receive an answer from the reader",
+      "To engage readers by making them think, emphasize a point, or transition to a new topic",
+      "To demonstrate the author's lack of knowledge",
+      "To replace facts with opinions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rhetorical questions engage readers by making them think, emphasize points, or transition to new topics. They are not meant to be answered directly but rather to create an effect. For example, 'Isn't it time we addressed this issue?' encourages readers to consider the writer's perspective.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is a common problem with pronoun clarity?",
+    "options": [
+      "Using too many pronouns",
+      "Using pronouns with unclear or ambiguous antecedents",
+      "Using pronouns at the beginning of sentences",
+      "Using the same pronoun throughout a paragraph"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A common problem with pronoun clarity is using pronouns with unclear or ambiguous antecedents, making it difficult to determine what the pronoun refers to. For example, 'John told Tom that he was wrong' is unclear about who was wrong. Clearer: 'John told Tom that Tom was wrong.'",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is 'wordiness' in writing?",
+    "options": [
+      "Using sophisticated vocabulary",
+      "Using unnecessarily elaborate expressions or extra words that don't add meaning",
+      "Writing long paragraphs",
+      "Using technical terminology"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wordiness involves using unnecessarily elaborate expressions or extra words that don't add meaning. For example, 'The reason why is because...' could be simplified to 'The reason is...' or just 'Because...' Concise writing eliminates wordiness without sacrificing meaning.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is a topic shift in writing?",
+    "options": [
+      "Changing the title of an essay",
+      "Moving from one paragraph to another",
+      "Changing the subject matter without appropriate transitions",
+      "Using different tenses"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A topic shift occurs when writing changes subject matter without appropriate transitions, creating a disconnected or jarring experience for readers. Effective writing maintains cohesion by using clear transitions when moving between topics or ideas.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is a 'thesis statement' in an argumentative passage?",
+    "options": [
+      "A statement that appears at the end of the passage",
+      "A central claim that presents the main argument and is supported throughout the passage",
+      "A statement that summarizes previous research",
+      "A question posed to the reader"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A thesis statement is a central claim that presents the main argument of a passage. It typically appears early in the text and is supported by evidence and reasoning throughout. An effective thesis is clear, specific, and arguable rather than stating a fact.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is the significance of 'tone' in writing?",
+    "options": [
+      "It only matters in creative writing",
+      "It affects how readers perceive the writer's attitude toward the subject and audience",
+      "It refers only to whether writing is formal or informal",
+      "It has no impact on meaning or effectiveness"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tone reflects the writer's attitude toward the subject and audience, affecting how readers perceive the message. Appropriate tone considers purpose and context—academic writing typically requires a formal, objective tone, while other contexts might call for conversational, humorous, or serious tones.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is 'syntax' in writing?",
+    "options": [
+      "The use of correct spelling",
+      "The arrangement of words and phrases to create well-formed sentences",
+      "The study of word meanings",
+      "The use of punctuation marks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Syntax refers to the arrangement of words and phrases to create well-formed sentences. Effective syntax follows grammatical rules while creating clear meaning and appropriate emphasis. The SAT may test your ability to recognize and correct syntactical problems.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is the correct approach to maintaining consistent point of view?",
+    "options": [
+      "Alternating between first, second, and third person for variety",
+      "Always using first person ('I/we')",
+      "Maintaining the same person (first, second, or third) throughout a piece unless there's a logical reason to shift",
+      "Always using third person ('he/she/they')"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Maintaining consistent point of view means using the same person (first, second, or third) throughout a piece unless there's a logical reason to shift. Unmotivated shifts between 'I,' 'you,' and 'they' can confuse readers about perspective and voice.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is the purpose of a counterargument in persuasive writing?",
+    "options": [
+      "To contradict the main thesis",
+      "To acknowledge opposing viewpoints before addressing why the writer's position is still valid",
+      "To provide a completely neutral perspective",
+      "To show that the topic is too complex to have a clear answer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A counterargument acknowledges opposing viewpoints before addressing why the writer's position is still valid. Including counterarguments strengthens persuasive writing by showing the writer has considered alternative perspectives and can respond to potential objections.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is the principle of 'unity' in paragraph writing?",
+    "options": [
+      "Making sure all paragraphs are the same length",
+      "Ensuring each paragraph focuses on a single main idea or purpose",
+      "Using the same sentence structure throughout",
+      "Always beginning paragraphs with topic sentences"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Unity in paragraph writing means ensuring each paragraph focuses on a single main idea or purpose. All sentences in the paragraph should relate to and develop that central idea. Paragraphs that shift between multiple unrelated topics lack unity and can confuse readers.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What are coordinating conjunctions used for?",
+    "options": [
+      "To introduce dependent clauses",
+      "To connect independent clauses of equal importance",
+      "To start every sentence",
+      "To create sentence fragments"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Coordinating conjunctions (and, but, or, nor, for, yet, so) connect elements of equal grammatical importance, such as independent clauses, phrases, or words of the same type. When joining independent clauses, they're typically preceded by a comma.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is 'supporting evidence' in writing?",
+    "options": [
+      "Information that contradicts the main point",
+      "Facts, examples, statistics, expert opinions, or logical reasoning that backs up claims",
+      "The conclusion of an essay",
+      "The use of transition words"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Supporting evidence includes facts, examples, statistics, expert opinions, or logical reasoning that backs up claims. Strong writing uses specific, relevant evidence to support assertions rather than relying on generalizations or unsupported opinions.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is the proper use of parentheses in formal writing?",
+    "options": [
+      "To indicate shouting or emphasis",
+      "To provide additional, non-essential information or clarification",
+      "To replace periods at the end of sentences",
+      "To connect independent clauses"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Parentheses are properly used to provide additional, non-essential information or clarification that might be helpful but isn't critical to understanding the main point. They should be used sparingly in formal writing, as overuse can make writing appear fragmented.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is 'logical fallacy' in argumentative writing?",
+    "options": [
+      "A complex logical proof",
+      "A flaw in reasoning that weakens an argument",
+      "A grammatical error",
+      "A strong concluding statement"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A logical fallacy is a flaw in reasoning that weakens an argument. Examples include hasty generalizations, false cause-effect relationships, personal attacks, and either/or thinking. The SAT may test your ability to identify and correct logical flaws in argumentative passages.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is 'coherence' in writing?",
+    "options": [
+      "Using fancy vocabulary",
+      "Making all sentences the same length",
+      "The logical connection and flow between sentences and paragraphs",
+      "Writing very long passages"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Coherence is the logical connection and flow between sentences and paragraphs that helps readers follow the development of ideas. It's achieved through logical sequencing, consistent point of view, appropriate transitions, and clear relationships between ideas.",
+    "category": "Writing & Language"
+  },
+  {
+    "question": "What is the purpose of the 'revision' process in writing?",
+    "options": [
+      "To make the writing longer",
+      "To evaluate and improve content, organization, clarity, and style",
+      "To check only for spelling errors",
+      "To make the writing more complex"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The revision process evaluates and improves content, organization, clarity, and style. It involves looking at the big picture of the writing to ensure ideas are well-developed, logically organized, clearly expressed, and effectively communicated to the intended audience.",
+    "category": "Writing & Language"
+  }
+] 
