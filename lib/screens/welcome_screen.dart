@@ -12,7 +12,6 @@ class WelcomeScreen extends StatefulWidget {
 
 class _WelcomeScreenState extends State<WelcomeScreen> {
   final TextEditingController _nameController = TextEditingController();
-  String _selectedGender = 'male'; // Default to male
   final _formKey = GlobalKey<FormState>();
   bool _isLoading = false;
 
@@ -30,7 +29,6 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
 
       // Save user data
       await UserPreferences.setName(_nameController.text.trim());
-      await UserPreferences.setGender(_selectedGender);
       await UserPreferences.completeFirstLaunch();
 
       // Notify parent
@@ -143,33 +141,6 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                           ),
                         ),
                       ),
-                      const SizedBox(height: 30),
-                      // Gender Selection
-                      const Text(
-                        'Select Your Gender',
-                        style: TextStyle(
-                          fontSize: 16,
-                          color: Colors.white,
-                          fontWeight: FontWeight.bold,
-                        ),
-                      ),
-                      const SizedBox(height: 15),
-                      Row(
-                        mainAxisAlignment: MainAxisAlignment.center,
-                        children: [
-                          _buildGenderOption(
-                            label: 'Male',
-                            value: 'male',
-                            icon: Icons.male_rounded,
-                          ),
-                          const SizedBox(width: 20),
-                          _buildGenderOption(
-                            label: 'Female',
-                            value: 'female',
-                            icon: Icons.female_rounded,
-                          ),
-                        ],
-                      ),
                       const SizedBox(height: 50),
                       // Get Started Button
                       SizedBox(
@@ -213,51 +184,6 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
             ),
           ),
         ),
-      ),
-    );
-  }
-
-  Widget _buildGenderOption({
-    required String label,
-    required String value,
-    required IconData icon,
-  }) {
-    final isSelected = _selectedGender == value;
-
-    return GestureDetector(
-      onTap: () {
-        setState(() {
-          _selectedGender = value;
-        });
-      },
-      child: Column(
-        children: [
-          Container(
-            width: 80,
-            height: 80,
-            decoration: BoxDecoration(
-              color: isSelected ? Colors.white : Colors.white.withOpacity(0.3),
-              borderRadius: BorderRadius.circular(20),
-              border:
-                  isSelected ? Border.all(color: Colors.white, width: 3) : null,
-            ),
-            child: Icon(
-              icon,
-              size: 50,
-              color: isSelected
-                  ? const Color(0xFF1976D2)
-                  : Colors.white.withOpacity(0.9),
-            ),
-          ),
-          const SizedBox(height: 10),
-          Text(
-            label,
-            style: TextStyle(
-              color: isSelected ? Colors.white : Colors.white.withOpacity(0.8),
-              fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
-            ),
-          ),
-        ],
       ),
     );
   }

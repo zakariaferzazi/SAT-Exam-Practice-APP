@@ -22,7 +22,6 @@ class HomeScreen extends StatefulWidget {
 
 class _HomeScreenState extends State<HomeScreen> {
   String _userName = '';
-  String _userGender = 'male';
   bool _isLoading = true;
   double _overallProgress = 0.0;
   int _completedItems = 0;
@@ -55,11 +54,9 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Future<void> _loadUserData() async {
     final name = await UserPreferences.getName();
-    final gender = await UserPreferences.getGender();
 
     setState(() {
       _userName = name ?? 'User';
-      _userGender = gender ?? 'male';
     });
   }
 
@@ -232,11 +229,9 @@ class _HomeScreenState extends State<HomeScreen> {
                             : Tooltip(
                                 message: _userName,
                                 child: IconButton(
-                                  icon: Icon(
-                                    _userGender == 'female'
-                                        ? Icons.face_6_rounded
-                                        : Icons.face_rounded,
-                                    color: const Color(0xFF1976D2),
+                                  icon: const Icon(
+                                    Icons.person_rounded,
+                                    color: Color(0xFF1976D2),
                                   ),
                                   onPressed: () {
                                     showDialog(
@@ -764,9 +759,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       context,
                       title: 'Profile',
                       subtitle: 'Your account',
-                      icon: _userGender == 'female'
-                          ? Icons.face_6_rounded
-                          : Icons.face_rounded,
+                      icon: Icons.person_rounded,
                       color: const Color(0xFF78909C),
                       onTap: () {
                         showDialog(
@@ -940,11 +933,9 @@ class _HomeScreenState extends State<HomeScreen> {
                     color: const Color(0xFFE3F2FD),
                     borderRadius: BorderRadius.circular(16),
                   ),
-                  child: Icon(
-                    _userGender == 'female'
-                        ? Icons.face_6_rounded
-                        : Icons.face_rounded,
-                    color: const Color(0xFF1976D2),
+                  child: const Icon(
+                    Icons.person_rounded,
+                    color: Color(0xFF1976D2),
                     size: 40,
                   ),
                 ),
@@ -1161,7 +1152,6 @@ class _HomeScreenState extends State<HomeScreen> {
   // Edit Profile Dialog
   void _showEditProfileDialog(BuildContext context) {
     final nameController = TextEditingController(text: _userName);
-    String selectedGender = _userGender;
 
     showDialog(
       context: context,
@@ -1177,24 +1167,6 @@ class _HomeScreenState extends State<HomeScreen> {
                 border: OutlineInputBorder(),
               ),
             ),
-            const SizedBox(height: 16),
-            DropdownButtonFormField<String>(
-              decoration: const InputDecoration(
-                labelText: 'Gender',
-                border: OutlineInputBorder(),
-              ),
-              value: selectedGender,
-              items: const [
-                DropdownMenuItem(value: 'male', child: Text('Male')),
-                DropdownMenuItem(value: 'female', child: Text('Female')),
-                DropdownMenuItem(value: 'other', child: Text('Other')),
-              ],
-              onChanged: (value) {
-                if (value != null) {
-                  selectedGender = value;
-                }
-              },
-            ),
           ],
         ),
         actions: [
@@ -1209,16 +1181,11 @@ class _HomeScreenState extends State<HomeScreen> {
                 await UserPreferences.setName(newName);
               }
 
-              if (selectedGender != _userGender) {
-                await UserPreferences.setGender(selectedGender);
-              }
-
               if (!mounted) return;
               Navigator.pop(context);
 
               setState(() {
                 _userName = newName.isNotEmpty ? newName : _userName;
-                _userGender = selectedGender;
               });
 
               ScaffoldMessenger.of(context).showSnackBar(
