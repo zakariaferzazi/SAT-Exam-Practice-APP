@@ -63,7 +63,7 @@ class _ProgressScreenState extends State<ProgressScreen> {
     return Scaffold(
       appBar: AppBar(
         elevation: 0,
-        backgroundColor: const Color(0xFF1976D2),
+        backgroundColor: const Color(0xFF009688),
         title: Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
@@ -79,8 +79,6 @@ class _ProgressScreenState extends State<ProgressScreen> {
               size: 20,
               color: Colors.white,
             ),
-            
-            
           ],
         ),
       ),
@@ -115,14 +113,14 @@ class _ProgressScreenState extends State<ProgressScreen> {
         padding: const EdgeInsets.all(20),
         decoration: BoxDecoration(
           gradient: const LinearGradient(
-            colors: [Color(0xFF1976D2), Color(0xFF42A5F5)],
+            colors: [Color(0xFF009688), Color(0xFF4DB6AC)],
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
           ),
           borderRadius: BorderRadius.circular(20),
           boxShadow: [
             BoxShadow(
-              color: Colors.blue.withOpacity(0.2),
+              color: Colors.teal.withOpacity(0.2),
               blurRadius: 15,
               offset: const Offset(0, 5),
             ),
@@ -222,7 +220,6 @@ class _ProgressScreenState extends State<ProgressScreen> {
     );
   }
 
- 
   Widget _buildCategoryDetailsSheet(String category, double progress) {
     final categoryColor = CategoryUtils.getCategoryColor(category);
 
@@ -520,7 +517,6 @@ class _ProgressScreenState extends State<ProgressScreen> {
                   color: Color(0xFF37474F),
                 ),
               ),
-              
             ],
           ),
           const SizedBox(height: 10),
@@ -652,7 +648,8 @@ class _ProgressScreenState extends State<ProgressScreen> {
             const SizedBox(height: 12),
             TextButton(
               onPressed: () async {
-                Navigator.push(context, MaterialPageRoute(builder: (context) => MainNavigation()));
+                Navigator.push(context,
+                    MaterialPageRoute(builder: (context) => MainNavigation()));
               },
               style: TextButton.styleFrom(
                 padding: EdgeInsets.zero,
@@ -673,8 +670,6 @@ class _ProgressScreenState extends State<ProgressScreen> {
       ),
     );
   }
-
-
 }
 
 class _CategoryProgressItem extends StatelessWidget {

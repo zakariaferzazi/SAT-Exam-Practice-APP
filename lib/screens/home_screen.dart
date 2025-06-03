@@ -162,14 +162,14 @@ class _HomeScreenState extends State<HomeScreen> {
                           height: 54,
                           decoration: BoxDecoration(
                             gradient: const LinearGradient(
-                              colors: [Color(0xFF1976D2), Color(0xFF2196F3)],
+                              colors: [Color(0xFF009688), Color(0xFF4DB6AC)],
                               begin: Alignment.topLeft,
                               end: Alignment.bottomRight,
                             ),
                             borderRadius: BorderRadius.circular(14),
                             boxShadow: [
                               BoxShadow(
-                                color: const Color(0xFF1E88E5).withOpacity(0.3),
+                                color: const Color(0xFF00695C).withOpacity(0.3),
                                 blurRadius: 10,
                                 offset: const Offset(0, 4),
                               ),
@@ -192,7 +192,7 @@ class _HomeScreenState extends State<HomeScreen> {
                               style: TextStyle(
                                 fontSize: 22,
                                 fontWeight: FontWeight.bold,
-                                color: Color(0xFF1E88E5),
+                                color: Color(0xFF00695C),
                                 letterSpacing: 0.5,
                               ),
                             ),
@@ -222,7 +222,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                   child: CircularProgressIndicator(
                                     strokeWidth: 2,
                                     valueColor: AlwaysStoppedAnimation<Color>(
-                                        Color(0xFF1976D2)),
+                                        Color(0xFF009688)),
                                   ),
                                 ),
                               )
@@ -231,7 +231,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                 child: IconButton(
                                   icon: const Icon(
                                     Icons.person_rounded,
-                                    color: Color(0xFF1976D2),
+                                    color: Color(0xFF009688),
                                   ),
                                   onPressed: () {
                                     showDialog(
@@ -273,14 +273,14 @@ class _HomeScreenState extends State<HomeScreen> {
                     padding: const EdgeInsets.all(20),
                     decoration: BoxDecoration(
                       gradient: const LinearGradient(
-                        colors: [Color(0xFF1976D2), Color(0xFF42A5F5)],
+                        colors: [Color(0xFF009688), Color(0xFF4DB6AC)],
                         begin: Alignment.topLeft,
                         end: Alignment.bottomRight,
                       ),
                       borderRadius: BorderRadius.circular(20),
                       boxShadow: [
                         BoxShadow(
-                          color: Colors.blue.withOpacity(0.2),
+                          color: Colors.teal.withOpacity(0.2),
                           blurRadius: 15,
                           offset: const Offset(0, 5),
                         ),
@@ -348,7 +348,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                 label: const Text('Continue Learning'),
                                 style: ElevatedButton.styleFrom(
                                   backgroundColor: Colors.white,
-                                  foregroundColor: const Color(0xFF1976D2),
+                                  foregroundColor: const Color(0xFF009688),
                                   elevation: 0,
                                   padding: const EdgeInsets.symmetric(
                                     vertical: 12,
@@ -432,76 +432,10 @@ class _HomeScreenState extends State<HomeScreen> {
                 ),
               ),
 
-              // Tip of the day
-              SliverToBoxAdapter(
-                child: Padding(
-                  padding: const EdgeInsets.fromLTRB(20, 20, 20, 10),
-                  child: Container(
-                    padding: const EdgeInsets.all(16),
-                    decoration: BoxDecoration(
-                      color: const Color(0xFFF5F9FF),
-                      borderRadius: BorderRadius.circular(18),
-                      border: Border.all(
-                        color: const Color(0xFFE3F2FD),
-                        width: 1,
-                      ),
-                      boxShadow: [
-                        BoxShadow(
-                          color: Colors.grey.withOpacity(0.05),
-                          blurRadius: 10,
-                          offset: const Offset(0, 4),
-                        ),
-                      ],
-                    ),
-                    child: Row(
-                      children: [
-                        Container(
-                          padding: const EdgeInsets.all(12),
-                          decoration: BoxDecoration(
-                            color: const Color(0xFFE3F2FD),
-                            borderRadius: BorderRadius.circular(14),
-                          ),
-                          child: const Icon(
-                            Icons.lightbulb_outline,
-                            color: Color(0xFF1976D2),
-                            size: 24,
-                          ),
-                        ),
-                        const SizedBox(width: 16),
-                        const Expanded(
-                          child: Column(
-                            crossAxisAlignment: CrossAxisAlignment.start,
-                            children: [
-                              Text(
-                                'Tip of the Day',
-                                style: TextStyle(
-                                  fontSize: 14,
-                                  fontWeight: FontWeight.bold,
-                                  color: Color(0xFF455A64),
-                                ),
-                              ),
-                              SizedBox(height: 4),
-                              Text(
-                                'SAT success demands strategy, not just memorization. Master question patterns, time management, and high-scoring techniques.',
-                                style: TextStyle(
-                                  fontSize: 13,
-                                  color: Color(0xFF607D8B),
-                                  height: 1.4,
-                                ),
-                              ),
-                            ],
-                          ),
-                        ),
-                      ],
-                    ),
-                  ),
-                ),
-              ),
-
               // Last Activity
               SliverToBoxAdapter(
                 child: Padding(
-                  padding: const EdgeInsets.fromLTRB(20, 10, 20, 10),
+                  padding: const EdgeInsets.fromLTRB(20, 30, 20, 10),
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
@@ -575,7 +509,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                         : _lastActivity['type'] == 'exam'
                                             ? Icons.timer_rounded
                                             : Icons.school_rounded,
-                                color: const Color(0xFF1976D2),
+                                color: const Color(0xFF009688),
                                 size: 26,
                               ),
                             ),
@@ -645,7 +579,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                 icon: const Icon(
                                   Icons.arrow_forward_rounded,
                                   size: 20,
-                                  color: Color(0xFF1976D2),
+                                  color: Color(0xFF009688),
                                 ),
                                 onPressed: () {
                                   if (_lastActivity['type'] == 'quiz') {
@@ -715,7 +649,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       title: 'Quizzes',
                       subtitle: 'Test your knowledge',
                       icon: Icons.quiz_rounded,
-                      color: const Color(0xFF1976D2),
+                      color: const Color(0xFF009688),
                       onTap: () {
                         Navigator.push(
                           context,
@@ -730,7 +664,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       title: 'Flashcards',
                       subtitle: 'Quick review',
                       icon: Icons.style_rounded,
-                      color: const Color(0xFF26A69A),
+                      color: Colors.red,
                       onTap: () {
                         Navigator.push(
                           context,
@@ -760,7 +694,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       title: 'Profile',
                       subtitle: 'Your account',
                       icon: Icons.person_rounded,
-                      color: const Color(0xFF78909C),
+                      color: Colors.blue,
                       onTap: () {
                         showDialog(
                           context: context,
@@ -935,7 +869,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   ),
                   child: const Icon(
                     Icons.person_rounded,
-                    color: Color(0xFF1976D2),
+                    color: Color(0xFF009688),
                     size: 40,
                   ),
                 ),
@@ -991,7 +925,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         style: const TextStyle(
                           fontSize: 16,
                           fontWeight: FontWeight.bold,
-                          color: Color(0xFF1976D2),
+                          color: Color(0xFF009688),
                         ),
                       ),
                     ],
@@ -1004,7 +938,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       minHeight: 8,
                       backgroundColor: Colors.white,
                       valueColor: const AlwaysStoppedAnimation<Color>(
-                        Color(0xFF1976D2),
+                        Color(0xFF009688),
                       ),
                     ),
                   ),
@@ -1062,7 +996,7 @@ class _HomeScreenState extends State<HomeScreen> {
               child: ElevatedButton(
                 onPressed: () => Navigator.pop(context),
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: const Color(0xFF1976D2),
+                  backgroundColor: const Color(0xFF009688),
                   foregroundColor: Colors.white,
                   padding: const EdgeInsets.symmetric(vertical: 12),
                   shape: RoundedRectangleBorder(
@@ -1128,7 +1062,7 @@ class _HomeScreenState extends State<HomeScreen> {
         padding: const EdgeInsets.symmetric(vertical: 12),
         child: Row(
           children: [
-            Icon(icon, color: const Color(0xFF1976D2), size: 22),
+            Icon(icon, color: const Color(0xFF009688), size: 22),
             const SizedBox(width: 12),
             Text(
               title,
@@ -1216,7 +1150,7 @@ class _HomeScreenState extends State<HomeScreen> {
               height: 80,
               decoration: BoxDecoration(
                 gradient: const LinearGradient(
-                  colors: [Color(0xFF1976D2), Color(0xFF2196F3)],
+                  colors: [Color(0xFF009688), Color(0xFF4DB6AC)],
                   begin: Alignment.topLeft,
                   end: Alignment.bottomRight,
                 ),

@@ -65,19 +65,25 @@ class _MyAppState extends State<MyApp> {
       title: 'SAT Exam Prep 2025',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
-          seedColor: const Color(0xFF1976D2),
+          seedColor: const Color(0xFF009688),
           brightness: Brightness.light,
         ),
         useMaterial3: true,
         scaffoldBackgroundColor: Colors.white,
         appBarTheme: const AppBarTheme(
-          backgroundColor: Color(0xFF1976D2),
+          backgroundColor: Color(0xFF009688),
           foregroundColor: Colors.white,
           elevation: 0,
           centerTitle: true,
         ),
         floatingActionButtonTheme: const FloatingActionButtonThemeData(
-          backgroundColor: Color(0xFF1976D2),
+          backgroundColor: Color(0xFF009688),
+        ),
+        bottomNavigationBarTheme: const BottomNavigationBarThemeData(
+          backgroundColor: Colors.white,
+          selectedItemColor: const Color(0xFF009688),
+          unselectedItemColor: Colors.grey,
+          type: BottomNavigationBarType.fixed,
         ),
       ),
       home: _isLoading
@@ -113,7 +119,7 @@ class _MainNavigationState extends State<MainNavigation> {
       body: _screens[_selectedIndex],
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: _selectedIndex,
-        selectedItemColor: const Color(0xFF1976D2),
+        selectedItemColor: const Color(0xFF009688),
         unselectedItemColor: Colors.grey.shade400,
         backgroundColor: Colors.white,
         type: BottomNavigationBarType.fixed,
